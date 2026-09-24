@@ -3,24 +3,64 @@ title: "03-lab3"
 format: html
 editor: visual
 ---
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
+Libraries
 ```{r}
-1 + 1
+library("IRanges")
+library("GenomicRanges")
+library("Rsamtools")
+library("GenomicAlignments")
+library("Gviz")
+library(readr)
+library(Biostrings)
 ```
 
-You can add options to executable code like this
-
+Question 1
 ```{r}
-#| echo: false
-2 * 2
+flye_output <- read_log(file = "~/outputs/flye_output/flye.log")
+flye_results <- paste(flye_output$X1[13369: 13363], flye_output$X2[13369: 13363], sep = " ")
+table <- data.frame(flye_results)
+table
+```
+(Will need to find a way to read length of file instead of manually inputting length values)
+Considering the total length of the sequence is 10,226,846, and the S. cerividae genome is approximately 12Mb, I would not expect all of the genome to be present. In addition, the mean coverage of 6 is incredibly poor by modern standards.  
+
+Question 2
+The Busco file reports a completeness percentage of 15.6%, which is quite garbage. Alongside the coverage of from the flye report, I assume that the completeness is
+also quite trash since it only has 6 bases on average to compare to. 
+The N50 Busco reports is 28,271, which is comparable to the 28,892 flye reports
+The total assembly length is 10,063,190, which is somewhat comparable to the 10,226,846 flye reports.
+
+Question 3
+quast reports a genome fraction of 1.625 (162.5%), which is a very different number compared to the 15.6% reported by Busco. The duplication ratio is 1.027. It had 1 misassembly, with the length of this contig being 18,028. 
+
+Question 4
+```{r}
+library(Biostrings)
+source <- "~/data/S288C_UCSC.fna"
+fna <- readDNAStringSet(source)
+frame <- data.frame(fna)
+chrI <- paste(">chrI", frame[1, ], sep = " ")
+fileName <- "~/outputs/R64_chr1.fna"
+file.create(fileName)
+writeLines(chrI, fileName)
 ```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+Question 5
+```{r}
+
+```
+
+Question 6
+```{r}
+
+```
+
+Question 7
+```{r}
+
+```
+
+Question 8
+```{r}
+
+```
