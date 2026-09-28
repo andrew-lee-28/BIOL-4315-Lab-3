@@ -1,0 +1,2 @@
+contig_166	miniprot	mRNA	46810	47438	508	-	.	ID=MP040374;Rank=1;Identity=0.7762;Positive=0.8238;Frameshift=12;StopCodon=1;Target=37412at4893_1095631_0:00033c 1 201
+contig_166	miniprot	CDS	46810	47438	508	-	0	Parent=MP040374;Rank=1;Identity=0.7762;Frameshift=12;StopCodon=1;Target=37412at4893_1095631_0:00033c 1 201

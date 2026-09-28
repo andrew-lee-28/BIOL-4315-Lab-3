@@ -1,0 +1,3 @@
+contig_110	miniprot	mRNA	20402	21506	941	-	.	ID=MP031193;Rank=1;Identity=0.8110;Positive=0.8490;Frameshift=17;StopCodon=3;Target=17931at4893_1095631_0:0008d1 1 353
+contig_110	miniprot	CDS	20402	21506	941	-	0	Parent=MP031193;Rank=1;Identity=0.8110;Frameshift=17;StopCodon=3;Target=17931at4893_1095631_0:0008d1 1 353
+contig_110	miniprot	stop_codon	20402	20404	0	-	0	Parent=MP031193;Rank=1

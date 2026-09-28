@@ -1,0 +1,2 @@
+contig_333	miniprot	mRNA	9013	9587	525	+	.	ID=MP040922;Rank=1;Identity=0.7077;Positive=0.7692;Frameshift=5;Target=40472at4893_1095631_0:000fb0 1 192
+contig_333	miniprot	CDS	9013	9587	525	+	0	Parent=MP040922;Rank=1;Identity=0.7077;Frameshift=5;Target=40472at4893_1095631_0:000fb0 1 192

@@ -1,0 +1,2 @@
+contig_145	miniprot	mRNA	9793	12001	1584	-	.	ID=MP013039;Rank=1;Identity=0.7216;Positive=0.7831;Frameshift=38;StopCodon=2;Target=40135at4893_27292_0:000c4a 1 708
+contig_145	miniprot	CDS	9793	12001	1584	-	0	Parent=MP013039;Rank=1;Identity=0.7216;Frameshift=38;StopCodon=2;Target=40135at4893_27292_0:000c4a 1 708

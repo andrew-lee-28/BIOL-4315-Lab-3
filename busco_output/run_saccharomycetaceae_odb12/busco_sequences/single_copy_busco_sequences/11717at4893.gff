@@ -1,0 +1,3 @@
+contig_97	miniprot	mRNA	9132	10002	926	+	.	ID=MP035731;Rank=1;Identity=0.8562;Positive=0.8801;Frameshift=15;Target=11717at4893_1095631_0:001654 1 286
+contig_97	miniprot	CDS	9132	10002	926	+	0	Parent=MP035731;Rank=1;Identity=0.8562;Frameshift=15;Target=11717at4893_1095631_0:001654 1 286
+contig_97	miniprot	stop_codon	10000	10002	0	+	0	Parent=MP035731;Rank=1

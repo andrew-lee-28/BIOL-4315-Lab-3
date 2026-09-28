@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+31152at4893_4932_0:00084c|contig_57:5280-8551|-    -           1070 31152                -           1049  7.4e-116  375.9   0.0   1   3   1.4e-13   1.4e-13   37.3   0.0    91   230    51   186    51   204 0.78 <unknown description>
+31152at4893_4932_0:00084c|contig_57:5280-8551|-    -           1070 31152                -           1049  7.4e-116  375.9   0.0   2   3   3.5e-86   3.5e-86  277.7   0.8   202   667   195   686   183   694 0.79 <unknown description>
+31152at4893_4932_0:00084c|contig_57:5280-8551|-    -           1070 31152                -           1049  7.4e-116  375.9   0.0   3   3   9.6e-20   9.6e-20   57.7   0.0   667  1024   709  1067   707  1070 0.82 <unknown description>
+31152at4893_764100_0:000557|contig_57:5393-7870|-  -            809 31152                -           1049  3.3e-101  327.4   0.0   1   2   6.9e-84   6.9e-84  270.1   0.3   232   667     3   463     1   471 0.81 <unknown description>
+31152at4893_764100_0:000557|contig_57:5393-7870|-  -            809 31152                -           1049  3.3e-101  327.4   0.0   2   2   6.2e-19   6.2e-19   55.0   0.0   667   956   486   781   484   803 0.83 <unknown description>
+31152at4893_4956_0:001890|contig_57:6287-8260|-    -            620 31152                -           1049   1.5e-93  302.0   2.0   1   1   1.3e-91   1.3e-91  295.7   2.0   167   696    29   619    20   620 0.77 <unknown description>
+31152at4893_1266667_0:000812|contig_57:6454-7068|- -            203 31152                -           1049   1.4e-42  133.3   0.1   1   1   1.7e-42   1.7e-42  133.1   0.1   472   665     5   202     2   203 0.78 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/31152at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/31152at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/31152at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/31152at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/31152at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:03 2026
+# [ok]

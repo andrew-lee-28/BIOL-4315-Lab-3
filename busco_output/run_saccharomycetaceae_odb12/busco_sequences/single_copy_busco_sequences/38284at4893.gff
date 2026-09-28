@@ -1,0 +1,4 @@
+contig_142	miniprot	mRNA	10167	11266	643	+	.	ID=MP032155;Rank=1;Identity=0.6454;Positive=0.7258;Frameshift=18;StopCodon=1;Target=38284at4893_27292_0:000983 1 340
+contig_142	miniprot	CDS	10167	10440	130	+	0	Parent=MP032155;Rank=1;Identity=0.6436;Frameshift=5;Target=38284at4893_27292_0:000983 1 78
+contig_142	miniprot	CDS	10467	11266	513	+	0	Parent=MP032155;Rank=1;Identity=0.6460;Frameshift=13;StopCodon=1;Target=38284at4893_27292_0:000983 79 340
+contig_142	miniprot	stop_codon	11264	11266	0	+	0	Parent=MP032155;Rank=1

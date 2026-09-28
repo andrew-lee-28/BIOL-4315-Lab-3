@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+7636at4893_27291_0:001399|contig_193:10449-11605|-   -            380 7636                 -            504   2.8e-28   86.5  19.5   1   2   6.3e-08   6.3e-08   19.4   0.4     1    34     1    33     1    35 0.87 <unknown description>
+7636at4893_27291_0:001399|contig_193:10449-11605|-   -            380 7636                 -            504   2.8e-28   86.5  19.5   2   2   1.1e-23   1.1e-23   71.4  14.1     3   228    32   274    30   277 0.73 <unknown description>
+7636at4893_559292_0:001525|contig_193:9865-11605|-   -            570 7636                 -            504   1.5e-26   80.8  36.1   1   3     1e-07     1e-07   18.7   0.4     1    34     1    33     1    35 0.87 <unknown description>
+7636at4893_559292_0:001525|contig_193:9865-11605|-   -            570 7636                 -            504   1.5e-26   80.8  36.1   2   3   5.5e-24   5.5e-24   72.4  23.8     3   338    32   392    30   417 0.66 <unknown description>
+7636at4893_559292_0:001525|contig_193:9865-11605|-   -            570 7636                 -            504   1.5e-26   80.8  36.1   3   3      0.35      0.35   -2.9   0.5   474   482   552   560   551   564 0.82 <unknown description>
+7636at4893_1160507_0:000cff|contig_193:10713-11605|- -            294 7636                 -            504   5.4e-26   79.0  21.1   1   2   4.6e-08   4.6e-08   19.9   0.4     1    34     1    33     1    35 0.88 <unknown description>
+7636at4893_1160507_0:000cff|contig_193:10713-11605|- -            294 7636                 -            504   5.4e-26   79.0  21.1   2   2   2.7e-21   2.7e-21   63.5  15.6     3   224    32   271    30   274 0.71 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/7636at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/7636at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/7636at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/7636at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/7636at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:37 2026
+# [ok]

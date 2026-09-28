@@ -1,0 +1,2 @@
+contig_394	miniprot	mRNA	9735	10362	677	+	.	ID=MP038831;Rank=1;Identity=0.8378;Positive=0.8565;Frameshift=11;Target=24604at4893_1095631_0:0002dd 1 210
+contig_394	miniprot	CDS	9735	10362	677	+	0	Parent=MP038831;Rank=1;Identity=0.8378;Frameshift=11;Target=24604at4893_1095631_0:0002dd 1 210

@@ -1,0 +1,3 @@
+contig_108	miniprot	mRNA	12008	14242	2033	-	.	ID=MP012522;Rank=1;Identity=0.8109;Positive=0.8417;Frameshift=34;StopCodon=4;Target=3339at4893_1095631_0:000773 1 725
+contig_108	miniprot	CDS	12008	14242	2033	-	0	Parent=MP012522;Rank=1;Identity=0.8109;Frameshift=34;StopCodon=4;Target=3339at4893_1095631_0:000773 1 725
+contig_108	miniprot	stop_codon	12008	12010	0	-	0	Parent=MP012522;Rank=1

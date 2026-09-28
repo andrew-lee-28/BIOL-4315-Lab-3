@@ -1,0 +1,2 @@
+contig_38	miniprot	mRNA	20079	21548	1052	-	.	ID=MP023012;Rank=1;Identity=0.7102;Positive=0.7566;Frameshift=25;Target=32394at4893_1095631_0:000899 1 479
+contig_38	miniprot	CDS	20079	21548	1052	-	0	Parent=MP023012;Rank=1;Identity=0.7102;Frameshift=25;Target=32394at4893_1095631_0:000899 1 479

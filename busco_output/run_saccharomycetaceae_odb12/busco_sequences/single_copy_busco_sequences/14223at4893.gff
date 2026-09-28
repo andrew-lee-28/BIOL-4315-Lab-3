@@ -1,0 +1,2 @@
+contig_401	miniprot	mRNA	11870	13145	1104	-	.	ID=MP027361;Rank=1;Identity=0.7834;Positive=0.8139;Frameshift=22;StopCodon=2;Target=14223at4893_1095631_0:001210 10 419
+contig_401	miniprot	CDS	11870	13145	1104	-	0	Parent=MP027361;Rank=1;Identity=0.7834;Frameshift=22;StopCodon=2;Target=14223at4893_1095631_0:001210 10 419

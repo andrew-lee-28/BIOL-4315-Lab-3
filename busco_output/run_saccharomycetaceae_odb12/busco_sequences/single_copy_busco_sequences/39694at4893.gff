@@ -1,0 +1,2 @@
+contig_30	miniprot	mRNA	36364	38157	1894	-	.	ID=MP017087;Rank=1;Identity=0.8161;Positive=0.8576;Frameshift=26;Target=39694at4893_1095631_0:000191 4 592
+contig_30	miniprot	CDS	36364	38157	1894	-	0	Parent=MP017087;Rank=1;Identity=0.8161;Frameshift=26;Target=39694at4893_1095631_0:000191 4 592

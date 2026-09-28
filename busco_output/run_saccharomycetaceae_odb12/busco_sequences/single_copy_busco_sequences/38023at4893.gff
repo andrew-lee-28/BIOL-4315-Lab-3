@@ -1,0 +1,2 @@
+contig_430	miniprot	mRNA	32635	34750	1446	-	.	ID=MP013705;Rank=1;Identity=0.6866;Positive=0.7549;Frameshift=30;StopCodon=2;Target=38023at4893_1095631_0:000575 1 688
+contig_430	miniprot	CDS	32635	34750	1446	-	0	Parent=MP013705;Rank=1;Identity=0.6866;Frameshift=30;StopCodon=2;Target=38023at4893_1095631_0:000575 1 688

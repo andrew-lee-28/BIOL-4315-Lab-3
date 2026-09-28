@@ -1,0 +1,2 @@
+contig_310	miniprot	mRNA	20999	24097	3398	-	.	ID=MP005549;Rank=1;Identity=0.8713;Positive=0.8970;Frameshift=49;StopCodon=2;Target=37864at4893_559292_0:001623 1 1038
+contig_310	miniprot	CDS	20999	24097	3398	-	0	Parent=MP005549;Rank=1;Identity=0.8713;Frameshift=49;StopCodon=2;Target=37864at4893_559292_0:001623 1 1038

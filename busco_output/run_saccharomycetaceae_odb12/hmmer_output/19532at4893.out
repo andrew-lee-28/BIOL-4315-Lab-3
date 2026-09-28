@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+19532at4893_27292_0:000c92|contig_51:12795-15475|+   -            876 19532                -            848  7.1e-164  535.0   0.0   1   1  9.4e-164  9.4e-164  534.6   0.0    28   847     5   873     1   874 0.82 <unknown description>
+19532at4893_5478_0:000940|contig_51:9415-14908|+     -            750 19532                -            848  6.4e-121  392.9   0.0   1   1  1.5e-120  1.5e-120  391.7   0.0    37   673    69   746    45   749 0.81 <unknown description>
+19532at4893_1266666_0:000fd4|contig_51:12903-15000|+ -            609 19532                -            848   3.9e-98  317.6   0.0   1   2   8.7e-46   8.7e-46  144.4   0.0    62   322     2   264     1   275 0.85 <unknown description>
+19532at4893_1266666_0:000fd4|contig_51:12903-15000|+ -            609 19532                -            848   3.9e-98  317.6   0.0   2   2   6.2e-54   6.2e-54  171.3   0.0   392   699   286   607   274   609 0.78 <unknown description>
+19532at4893_436907_0:001120|contig_51:12853-16229|+  -            642 19532                -            848   1.1e-94  306.2   0.0   1   2   1.6e-47   1.6e-47  150.1   0.0    45   322     2   280     1   291 0.85 <unknown description>
+19532at4893_436907_0:001120|contig_51:12853-16229|+  -            642 19532                -            848   1.1e-94  306.2   0.0   2   2     1e-48     1e-48  154.1   0.0   392   716   302   642   291   642 0.75 <unknown description>
+19532at4893_1003335_0:000ff9|contig_51:12829-14324|+ -            479 19532                -            848   2.6e-78  252.0   0.0   1   1   3.1e-78   3.1e-78  251.7   0.0    42   506     7   478     1   479 0.82 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/19532at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/19532at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/19532at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/19532at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/19532at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:31:47 2026
+# [ok]

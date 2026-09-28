@@ -1,0 +1,2 @@
+contig_84	miniprot	mRNA	10606	13184	1671	-	.	ID=MP009694;Rank=1;Identity=0.6986;Positive=0.7667;Frameshift=51;Target=7036at4893_764102_0:000663 6 824
+contig_84	miniprot	CDS	10606	13184	1671	-	0	Parent=MP009694;Rank=1;Identity=0.6986;Frameshift=51;Target=7036at4893_764102_0:000663 6 824

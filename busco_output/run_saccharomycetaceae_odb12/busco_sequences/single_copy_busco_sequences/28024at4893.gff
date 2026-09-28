@@ -1,0 +1,2 @@
+contig_13	miniprot	mRNA	4712	5462	588	+	.	ID=MP038068;Rank=1;Identity=0.7232;Positive=0.7589;Frameshift=11;Target=28024at4893_764097_0:00014a 1 242
+contig_13	miniprot	CDS	4712	5462	588	+	0	Parent=MP038068;Rank=1;Identity=0.7232;Frameshift=11;Target=28024at4893_764097_0:00014a 1 242

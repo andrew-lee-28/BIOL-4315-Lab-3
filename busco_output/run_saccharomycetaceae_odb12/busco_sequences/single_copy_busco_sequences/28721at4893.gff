@@ -1,0 +1,3 @@
+contig_99	miniprot	mRNA	4476	5487	987	+	.	ID=MP033084;Rank=1;Identity=0.8057;Positive=0.8474;Frameshift=12;StopCodon=2;Target=28721at4893_226126_0:0013d4 1 327
+contig_99	miniprot	CDS	4476	5487	987	+	0	Parent=MP033084;Rank=1;Identity=0.8057;Frameshift=12;StopCodon=2;Target=28721at4893_226126_0:0013d4 1 327
+contig_99	miniprot	stop_codon	5485	5487	0	+	0	Parent=MP033084;Rank=1

@@ -1,0 +1,2 @@
+contig_197	miniprot	mRNA	22899	26069	2493	+	.	ID=MP005831;Rank=1;Identity=0.7784;Positive=0.8216;Frameshift=63;StopCodon=3;Target=3078at4893_1095631_0:000aa4 1 1024
+contig_197	miniprot	CDS	22899	26069	2493	+	0	Parent=MP005831;Rank=1;Identity=0.7784;Frameshift=63;StopCodon=3;Target=3078at4893_1095631_0:000aa4 1 1024

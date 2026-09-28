@@ -1,0 +1,2 @@
+contig_28	miniprot	mRNA	44676	47012	2047	-	.	ID=MP009261;Rank=1;Identity=0.8095;Positive=0.8413;Frameshift=44;StopCodon=3;Target=4307at4893_1095631_0:00014d 75 838
+contig_28	miniprot	CDS	44676	47012	2047	-	0	Parent=MP009261;Rank=1;Identity=0.8095;Frameshift=44;StopCodon=3;Target=4307at4893_1095631_0:00014d 75 838

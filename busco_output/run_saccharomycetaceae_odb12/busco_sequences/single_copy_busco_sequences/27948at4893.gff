@@ -1,0 +1,3 @@
+contig_425	miniprot	mRNA	41683	43234	1401	+	.	ID=MP021790;Rank=1;Identity=0.8184;Positive=0.8569;Frameshift=30;StopCodon=1;Target=27948at4893_1095631_0:000410 4 506
+contig_425	miniprot	CDS	41683	43234	1401	+	0	Parent=MP021790;Rank=1;Identity=0.8184;Frameshift=30;StopCodon=1;Target=27948at4893_1095631_0:000410 4 506
+contig_425	miniprot	stop_codon	43232	43234	0	+	0	Parent=MP021790;Rank=1

@@ -1,0 +1,3 @@
+contig_119	miniprot	mRNA	8100	10139	2275	+	.	ID=MP014278;Rank=1;Identity=0.8358;Positive=0.8768;Frameshift=27;Target=3670at4893_27292_0:000396 1 671
+contig_119	miniprot	CDS	8100	10139	2275	+	0	Parent=MP014278;Rank=1;Identity=0.8358;Frameshift=27;Target=3670at4893_27292_0:000396 1 671
+contig_119	miniprot	stop_codon	10137	10139	0	+	0	Parent=MP014278;Rank=1

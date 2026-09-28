@@ -1,0 +1,2 @@
+contig_7	miniprot	mRNA	15847	16828	1027	-	.	ID=MP033157;Rank=1;Identity=0.8376;Positive=0.8741;Frameshift=15;Target=41926at4893_1095631_0:0004d4 4 327
+contig_7	miniprot	CDS	15847	16828	1027	-	0	Parent=MP033157;Rank=1;Identity=0.8376;Frameshift=15;Target=41926at4893_1095631_0:0004d4 4 327

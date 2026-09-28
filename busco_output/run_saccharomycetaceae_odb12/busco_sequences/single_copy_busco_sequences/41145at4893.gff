@@ -1,0 +1,2 @@
+contig_304	miniprot	mRNA	5634	6645	812	-	.	ID=MP033153;Rank=1;Identity=0.7655;Positive=0.8128;Frameshift=18;Target=41145at4893_1095631_0:0008c3 4 327
+contig_304	miniprot	CDS	5634	6645	812	-	0	Parent=MP033153;Rank=1;Identity=0.7655;Frameshift=18;Target=41145at4893_1095631_0:0008c3 4 327

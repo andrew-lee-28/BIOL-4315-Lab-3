@@ -1,0 +1,27 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+40059at4893_27292_0:0004b8|contig_410:480-4479|-    -           1309 40059                -            768   5.4e-82  264.2  26.9   1   4   1.5e-06   1.5e-06   14.8   0.0     7    86    47   124    44   139 0.80 <unknown description>
+40059at4893_27292_0:0004b8|contig_410:480-4479|-    -           1309 40059                -            768   5.4e-82  264.2  26.9   2   4     0.071     0.071   -0.7  13.0   126   312   530   712   459   718 0.64 <unknown description>
+40059at4893_27292_0:0004b8|contig_410:480-4479|-    -           1309 40059                -            768   5.4e-82  264.2  26.9   3   4     7e-49     7e-49  154.7   0.5   288   488   731   938   718   940 0.87 <unknown description>
+40059at4893_27292_0:0004b8|contig_410:480-4479|-    -           1309 40059                -            768   5.4e-82  264.2  26.9   4   4   3.8e-32   3.8e-32   99.4   0.1   499   748   972  1265   967  1276 0.68 <unknown description>
+40059at4893_27291_0:000345|contig_410:502-2588|-    -            684 40059                -            768   1.6e-80  259.4  20.3   1   4     0.049     0.049   -0.2   5.1   255   306    40    88    21    95 0.64 <unknown description>
+40059at4893_27291_0:000345|contig_410:502-2588|-    -            684 40059                -            768   1.6e-80  259.4  20.3   2   4   9.7e-50   9.7e-50  157.6   6.1   278   496   103   328    66   335 0.80 <unknown description>
+40059at4893_27291_0:000345|contig_410:502-2588|-    -            684 40059                -            768   1.6e-80  259.4  20.3   3   4   5.3e-12   5.3e-12   32.8   0.1   499   550   353   403   342   415 0.90 <unknown description>
+40059at4893_27291_0:000345|contig_410:502-2588|-    -            684 40059                -            768   1.6e-80  259.4  20.3   4   4   1.9e-24   1.9e-24   74.0   0.1   556   697   429   583   420   658 0.67 <unknown description>
+40059at4893_226126_0:0004b9|contig_410:1017-2524|-  -            495 40059                -            768   8.9e-76  243.7  21.9   1   4     0.039     0.039    0.2   5.3   255   306    19    67     3    74 0.63 <unknown description>
+40059at4893_226126_0:0004b9|contig_410:1017-2524|-  -            495 40059                -            768   8.9e-76  243.7  21.9   2   4   3.9e-51   3.9e-51  162.2   1.0   288   496    92   307    71   314 0.87 <unknown description>
+40059at4893_226126_0:0004b9|contig_410:1017-2524|-  -            495 40059                -            768   8.9e-76  243.7  21.9   3   4   2.6e-12   2.6e-12   33.8   0.0   498   550   331   382   318   393 0.89 <unknown description>
+40059at4893_226126_0:0004b9|contig_410:1017-2524|-  -            495 40059                -            768   8.9e-76  243.7  21.9   4   4   1.6e-19   1.6e-19   57.6   0.4   556   614   408   465   399   478 0.90 <unknown description>
+40059at4893_1333698_0:000199|contig_410:1164-2211|- -            334 40059                -            768   5.6e-69  221.2   1.8   1   2   1.7e-45   1.7e-45  143.5   0.3   304   496     4   204     1   211 0.86 <unknown description>
+40059at4893_1333698_0:000199|contig_410:1164-2211|- -            334 40059                -            768   5.6e-69  221.2   1.8   2   2   1.9e-25   1.9e-25   77.3   0.1   499   596   229   334   215   334 0.83 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40059at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40059at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/40059at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40059at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40059at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:32 2026
+# [ok]

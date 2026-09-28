@@ -1,0 +1,3 @@
+contig_243	miniprot	mRNA	12174	13479	1816	-	.	ID=MP026364;Rank=1;Identity=0.9245;Positive=0.9382;Frameshift=12;Target=4588at4893_1095631_0:000ee8 1 434
+contig_243	miniprot	CDS	12174	13479	1816	-	0	Parent=MP026364;Rank=1;Identity=0.9245;Frameshift=12;Target=4588at4893_1095631_0:000ee8 1 434
+contig_243	miniprot	stop_codon	12174	12176	0	-	0	Parent=MP026364;Rank=1

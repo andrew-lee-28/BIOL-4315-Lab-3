@@ -1,0 +1,3 @@
+contig_56	miniprot	mRNA	11033	11977	836	-	.	ID=MP034627;Rank=1;Identity=0.8467;Positive=0.8658;Frameshift=19;Target=23660at4893_1095631_0:000919 1 304
+contig_56	miniprot	CDS	11033	11977	836	-	0	Parent=MP034627;Rank=1;Identity=0.8467;Frameshift=19;Target=23660at4893_1095631_0:000919 1 304
+contig_56	miniprot	stop_codon	11033	11035	0	-	0	Parent=MP034627;Rank=1

@@ -1,0 +1,2 @@
+contig_20	miniprot	mRNA	54116	54680	550	+	.	ID=MP041132;Rank=1;Identity=0.8336;Positive=0.8867;Frameshift=10;Target=29230at4893_1095631_0:000cb4 4 187
+contig_20	miniprot	CDS	54116	54680	550	+	0	Parent=MP041132;Rank=1;Identity=0.8336;Frameshift=10;Target=29230at4893_1095631_0:000cb4 4 187

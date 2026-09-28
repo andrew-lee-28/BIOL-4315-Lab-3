@@ -1,0 +1,4 @@
+contig_55	miniprot	mRNA	4672	11231	727	-	.	ID=MP024230;Rank=1;Identity=0.5007;Positive=0.6562;Frameshift=22;Target=34980at4893_1789683_0:00125d 1 461
+contig_55	miniprot	CDS	11200	11231	24	-	0	Parent=MP024230;Rank=1;Identity=0.3636;Target=34980at4893_1789683_0:00125d 1 10
+contig_55	miniprot	CDS	4672	6116	703	-	1	Parent=MP024230;Rank=1;Identity=0.5037;Frameshift=22;Target=34980at4893_1789683_0:00125d 11 461
+contig_55	miniprot	stop_codon	4672	4674	0	-	0	Parent=MP024230;Rank=1

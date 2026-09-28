@@ -1,0 +1,2 @@
+contig_55	miniprot	mRNA	19617	20588	761	+	.	ID=MP033889;Rank=1;Identity=0.7500;Positive=0.7930;Frameshift=14;StopCodon=1;Target=22373at4893_1095631_0:00028c 1 312
+contig_55	miniprot	CDS	19617	20588	761	+	0	Parent=MP033889;Rank=1;Identity=0.7500;Frameshift=14;StopCodon=1;Target=22373at4893_1095631_0:00028c 1 312

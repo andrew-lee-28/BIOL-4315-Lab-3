@@ -1,0 +1,3 @@
+contig_92	miniprot	mRNA	2477	4825	1949	+	.	ID=MP011671;Rank=1;Identity=0.7895;Positive=0.8239;Frameshift=46;Target=32604at4893_27292_0:000249 1 752
+contig_92	miniprot	CDS	2477	4825	1949	+	0	Parent=MP011671;Rank=1;Identity=0.7895;Frameshift=46;Target=32604at4893_27292_0:000249 1 752
+contig_92	miniprot	stop_codon	4823	4825	0	+	0	Parent=MP011671;Rank=1

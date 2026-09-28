@@ -1,0 +1,2 @@
+contig_181	miniprot	mRNA	13744	14373	533	-	.	ID=MP040195;Rank=1;Identity=0.7595;Positive=0.8354;Frameshift=7;StopCodon=2;Target=7426at4893_1095631_0:0005e0 1 204
+contig_181	miniprot	CDS	13744	14373	533	-	0	Parent=MP040195;Rank=1;Identity=0.7595;Frameshift=7;StopCodon=2;Target=7426at4893_1095631_0:0005e0 1 204

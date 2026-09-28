@@ -1,0 +1,3 @@
+contig_249	miniprot	mRNA	7281	8530	1201	-	.	ID=MP028318;Rank=1;Identity=0.8132;Positive=0.8514;Frameshift=20;Target=12835at4893_1095631_0:000bdb 1 404
+contig_249	miniprot	CDS	7281	8530	1201	-	0	Parent=MP028318;Rank=1;Identity=0.8132;Frameshift=20;Target=12835at4893_1095631_0:000bdb 1 404
+contig_249	miniprot	stop_codon	7281	7283	0	-	0	Parent=MP028318;Rank=1

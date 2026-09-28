@@ -1,0 +1,2 @@
+contig_120	miniprot	mRNA	8142	13347	4941	-	.	ID=MP001123;Rank=1;Identity=0.7857;Positive=0.8209;Frameshift=93;Target=22400at4893_27292_0:002416 1 1780
+contig_120	miniprot	CDS	8142	13347	4941	-	0	Parent=MP001123;Rank=1;Identity=0.7857;Frameshift=93;Target=22400at4893_27292_0:002416 1 1780

@@ -1,0 +1,26 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+6436at4893_4932_0:0009e5|contig_414:22948-26191|-  -           1054 6436                 -            746  3.6e-148  483.3  14.9   1   6  2.7e-112  2.7e-112  364.7   0.0    11   298    17   298     8   311 0.92 <unknown description>
+6436at4893_4932_0:0009e5|contig_414:22948-26191|-  -           1054 6436                 -            746  3.6e-148  483.3  14.9   2   6   3.5e-11   3.5e-11   30.3   0.2   304   397   334   440   320   446 0.72 <unknown description>
+6436at4893_4932_0:0009e5|contig_414:22948-26191|-  -           1054 6436                 -            746  3.6e-148  483.3  14.9   3   6   6.8e-09   6.8e-09   22.8   0.1   420   503   516   610   471   622 0.77 <unknown description>
+6436at4893_4932_0:0009e5|contig_414:22948-26191|-  -           1054 6436                 -            746  3.6e-148  483.3  14.9   4   6      0.11      0.11   -1.1   1.3   495   562   657   725   639   752 0.62 <unknown description>
+6436at4893_4932_0:0009e5|contig_414:22948-26191|-  -           1054 6436                 -            746  3.6e-148  483.3  14.9   5   6   6.5e-12   6.5e-12   32.7   0.0   567   661   779   885   767   901 0.77 <unknown description>
+6436at4893_4932_0:0009e5|contig_414:22948-26191|-  -           1054 6436                 -            746  3.6e-148  483.3  14.9   6   6   1.8e-13   1.8e-13   37.9   0.0   669   743   967  1046   927  1049 0.72 <unknown description>
+6436at4893_27292_0:0008a5|contig_414:25352-26191|- -            273 6436                 -            746  2.3e-105  341.7   0.0   1   1  3.1e-105  3.1e-105  341.3   0.0    11   268    17   267     8   270 0.92 <unknown description>
+6436at4893_5478_0:001141|contig_414:25492-26127|-  -            207 6436                 -            746   4.4e-97  314.3   0.5   1   1   4.8e-97   4.8e-97  314.2   0.5    20   229     5   206     1   207 0.95 <unknown description>
+6436at4893_27292_0:000974|contig_414:22948-25113|- -            706 6436                 -            746   1.4e-36  114.3  13.7   1   5     4e-09     4e-09   23.5   0.3   320   397     2    92     1    98 0.72 <unknown description>
+6436at4893_27292_0:000974|contig_414:22948-25113|- -            706 6436                 -            746   1.4e-36  114.3  13.7   2   5   3.8e-09   3.8e-09   23.6   0.2   419   503   167   262   114   274 0.77 <unknown description>
+6436at4893_27292_0:000974|contig_414:22948-25113|- -            706 6436                 -            746   1.4e-36  114.3  13.7   3   5      0.09      0.09   -0.8   1.7   495   562   309   377   291   404 0.62 <unknown description>
+6436at4893_27292_0:000974|contig_414:22948-25113|- -            706 6436                 -            746   1.4e-36  114.3  13.7   4   5   3.3e-12   3.3e-12   33.7   0.0   567   661   431   537   419   563 0.78 <unknown description>
+6436at4893_27292_0:000974|contig_414:22948-25113|- -            706 6436                 -            746   1.4e-36  114.3  13.7   5   5   9.5e-14   9.5e-14   38.8   0.0   669   743   619   698   578   701 0.71 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/6436at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/6436at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/6436at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/6436at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/6436at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:37 2026
+# [ok]

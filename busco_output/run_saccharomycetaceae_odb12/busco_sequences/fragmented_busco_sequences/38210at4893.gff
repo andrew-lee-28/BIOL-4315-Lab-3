@@ -1,0 +1,2 @@
+contig_221	miniprot	mRNA	21560	22812	540	-	.	ID=MP028230;Rank=1;Identity=0.5548;Positive=0.6452;Frameshift=16;StopCodon=1;Target=38210at4893_1095631_0:0003d3 5 395
+contig_221	miniprot	CDS	21560	22812	540	-	0	Parent=MP028230;Rank=1;Identity=0.5548;Frameshift=16;StopCodon=1;Target=38210at4893_1095631_0:0003d3 5 395

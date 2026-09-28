@@ -1,0 +1,27 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+39694at4893_1095631_0:000191|contig_30:36363-38157|- -            588 39694                -            421  8.6e-134  434.7  46.0   1   4   1.9e-72   1.9e-72  232.6   0.0     4   162     1   159     1   167 0.95 <unknown description>
+39694at4893_1095631_0:000191|contig_30:36363-38157|- -            588 39694                -            421  8.6e-134  434.7  46.0   2   4   9.7e-23   9.7e-23   68.8   6.3   162   257   189   291   170   301 0.82 <unknown description>
+39694at4893_1095631_0:000191|contig_30:36363-38157|- -            588 39694                -            421  8.6e-134  434.7  46.0   3   4   1.6e-12   1.6e-12   35.1  19.8   209   353   290   456   285   471 0.63 <unknown description>
+39694at4893_1095631_0:000191|contig_30:36363-38157|- -            588 39694                -            421  8.6e-134  434.7  46.0   4   4   5.8e-34   5.8e-34  105.8   5.2   305   420   462   586   451   587 0.72 <unknown description>
+39694at4893_27294_0:000f11|contig_30:31789-38157|-   -            891 39694                -            421    6e-116  375.9  34.6   1   4   4.3e-65   4.3e-65  208.4   0.0     4   145     1   143     1   166 0.93 <unknown description>
+39694at4893_27294_0:000f11|contig_30:31789-38157|-   -            891 39694                -            421    6e-116  375.9  34.6   2   4   3.6e-16   3.6e-16   47.2   1.2   163   257   193   294   183   304 0.78 <unknown description>
+39694at4893_27294_0:000f11|contig_30:31789-38157|-   -            891 39694                -            421    6e-116  375.9  34.6   3   4   1.1e-09   1.1e-09   25.8  13.6   228   350   313   454   308   474 0.58 <unknown description>
+39694at4893_27294_0:000f11|contig_30:31789-38157|-   -            891 39694                -            421    6e-116  375.9  34.6   4   4     7e-33     7e-33  102.2   7.1   314   420   475   585   450   586 0.78 <unknown description>
+39694at4893_764097_0:000181|contig_30:37258-38157|-  -            294 39694                -            421   4.4e-95  307.2   6.0   1   2   3.7e-73   3.7e-73  234.9   0.1     4   162     1   159     1   174 0.94 <unknown description>
+39694at4893_764097_0:000181|contig_30:37258-38157|-  -            294 39694                -            421   4.4e-95  307.2   6.0   2   2   3.8e-24   3.8e-24   73.5   3.0   162   248   189   282   169   287 0.85 <unknown description>
+39694at4893_5478_0:0001bd|contig_30:36360-37767|-    -            465 39694                -            421     6e-65  207.9  42.4   1   4    0.0019    0.0019    5.3   0.1   133   145     2    14     1    38 0.81 <unknown description>
+39694at4893_5478_0:0001bd|contig_30:36360-37767|-    -            465 39694                -            421     6e-65  207.9  42.4   2   4   1.8e-23   1.8e-23   71.3   5.4   154   258    54   165    39   174 0.77 <unknown description>
+39694at4893_5478_0:0001bd|contig_30:36360-37767|-    -            465 39694                -            421     6e-65  207.9  42.4   3   4   1.5e-12   1.5e-12   35.2  12.5   228   351   183   332   178   351 0.64 <unknown description>
+39694at4893_5478_0:0001bd|contig_30:36360-37767|-    -            465 39694                -            421     6e-65  207.9  42.4   4   4   2.6e-33   2.6e-33  103.6   7.3   314   420   352   462   328   463 0.78 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/39694at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/39694at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/39694at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/39694at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/39694at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:26 2026
+# [ok]

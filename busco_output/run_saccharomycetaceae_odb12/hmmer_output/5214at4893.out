@@ -1,0 +1,19 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+5214at4893_27292_0:000f3e|contig_291:5867-7418|+   -            506 5214                 -            563   3.4e-26   79.6  41.5   1   3   7.6e-08   7.6e-08   19.0   7.9   198   305     6   116     1   168 0.71 <unknown description>
+5214at4893_27292_0:000f3e|contig_291:5867-7418|+   -            506 5214                 -            563   3.4e-26   79.6  41.5   2   3   7.2e-18   7.2e-18   52.1  19.5   335   491   188   378   132   398 0.63 <unknown description>
+5214at4893_27292_0:000f3e|contig_291:5867-7418|+   -            506 5214                 -            563   3.4e-26   79.6  41.5   3   3   1.8e-06   1.8e-06   14.5   2.7   478   531   398   450   381   478 0.63 <unknown description>
+5214at4893_230603_0:000ffe|contig_291:6405-7395|+  -            324 5214                 -            563   3.8e-23   69.5  22.2   1   2   7.5e-19   7.5e-19   55.4  15.0   344   492    21   203     5   226 0.62 <unknown description>
+5214at4893_230603_0:000ffe|contig_291:6405-7395|+  -            324 5214                 -            563   3.8e-23   69.5  22.2   2   2   9.5e-07   9.5e-07   15.4   1.9   474   531   216   274   204   279 0.67 <unknown description>
+5214at4893_1003335_0:0010f9|contig_291:6695-6863|+ -             57 5214                 -            563   3.1e-11   30.2   1.1   1   1   3.1e-11   3.1e-11   30.2   1.1   401   436    21    56     5    57 0.75 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/5214at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/5214at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/5214at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/5214at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/5214at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:36 2026
+# [ok]

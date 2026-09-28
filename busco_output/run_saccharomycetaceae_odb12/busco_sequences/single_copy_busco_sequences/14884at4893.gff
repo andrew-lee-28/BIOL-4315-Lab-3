@@ -1,0 +1,3 @@
+contig_35	miniprot	mRNA	5167	8563	3013	-	.	ID=MP004694;Rank=1;Identity=0.7753;Positive=0.8087;Frameshift=53;Target=14884at4893_1095631_0:0003d4 1 1097
+contig_35	miniprot	CDS	5167	8563	3013	-	0	Parent=MP004694;Rank=1;Identity=0.7753;Frameshift=53;Target=14884at4893_1095631_0:0003d4 1 1097
+contig_35	miniprot	stop_codon	5167	5169	0	-	0	Parent=MP004694;Rank=1

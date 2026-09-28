@@ -1,0 +1,2 @@
+contig_273	miniprot	mRNA	16617	16946	278	-	.	ID=MP043767;Rank=1;Identity=0.7211;Positive=0.7923;Frameshift=4;Target=22977at4893_764102_0:00036b 4 114
+contig_273	miniprot	CDS	16617	16946	278	-	0	Parent=MP043767;Rank=1;Identity=0.7211;Frameshift=4;Target=22977at4893_764102_0:00036b 4 114

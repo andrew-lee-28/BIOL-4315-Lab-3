@@ -1,0 +1,2 @@
+contig_29	miniprot	mRNA	18002	19774	1768	-	.	ID=MP017533;Rank=1;Identity=0.8087;Positive=0.8389;Frameshift=25;StopCodon=1;Target=33494at4893_1095631_0:001250 1 580
+contig_29	miniprot	CDS	18002	19774	1768	-	0	Parent=MP017533;Rank=1;Identity=0.8087;Frameshift=25;StopCodon=1;Target=33494at4893_1095631_0:001250 1 580

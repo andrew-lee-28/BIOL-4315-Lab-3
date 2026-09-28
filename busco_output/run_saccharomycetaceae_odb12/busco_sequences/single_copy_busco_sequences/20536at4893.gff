@@ -1,0 +1,2 @@
+contig_31	miniprot	mRNA	40152	42816	2570	-	.	ID=MP008571;Rank=1;Identity=0.8330;Positive=0.8587;Frameshift=50;StopCodon=2;Target=20536at4893_1095631_0:00063c 1 869
+contig_31	miniprot	CDS	40152	42816	2570	-	0	Parent=MP008571;Rank=1;Identity=0.8330;Frameshift=50;StopCodon=2;Target=20536at4893_1095631_0:00063c 1 869

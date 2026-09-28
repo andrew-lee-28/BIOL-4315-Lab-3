@@ -1,0 +1,2 @@
+contig_304	miniprot	mRNA	7010	8152	799	-	.	ID=MP030658;Rank=1;Identity=0.6923;Positive=0.7442;Frameshift=17;Target=7902at4893_27292_0:002036 1 364
+contig_304	miniprot	CDS	7010	8152	799	-	0	Parent=MP030658;Rank=1;Identity=0.6923;Frameshift=17;Target=7902at4893_27292_0:002036 1 364

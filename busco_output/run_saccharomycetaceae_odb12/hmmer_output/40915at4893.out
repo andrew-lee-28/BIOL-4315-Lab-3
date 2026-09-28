@@ -1,0 +1,22 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+40915at4893_4932_0:000791|contig_32:22067-24569|+    -            824 40915                -            710   2.2e-49  156.5  14.2   1   4   1.9e-08   2.4e-08   20.9   0.0   117   341    33   257     1   267 0.72 <unknown description>
+40915at4893_4932_0:000791|contig_32:22067-24569|+    -            824 40915                -            710   2.2e-49  156.5  14.2   2   4   2.2e-18   2.7e-18   53.8   0.1   435   533   429   544   414   599 0.72 <unknown description>
+40915at4893_4932_0:000791|contig_32:22067-24569|+    -            824 40915                -            710   2.2e-49  156.5  14.2   3   4   5.3e-27   6.6e-27   82.3   4.4   544   685   607   766   579   777 0.78 <unknown description>
+40915at4893_4932_0:000791|contig_32:22067-24569|+    -            824 40915                -            710   2.2e-49  156.5  14.2   4   4    0.0057    0.0072    2.8   1.2   684   710   795   820   772   820 0.77 <unknown description>
+40915at4893_230603_0:0007d7|contig_32:23372-24569|+  -            394 40915                -            710   3.5e-39  122.9  18.2   1   3   5.4e-18   6.7e-18   52.5   0.2   444   533     7   113     2   173 0.69 <unknown description>
+40915at4893_230603_0:0007d7|contig_32:23372-24569|+  -            394 40915                -            710   3.5e-39  122.9  18.2   2   3   6.7e-25   8.3e-25   75.3   4.2   559   685   192   336   172   346 0.76 <unknown description>
+40915at4893_230603_0:0007d7|contig_32:23372-24569|+  -            394 40915                -            710   3.5e-39  122.9  18.2   3   3    0.0035    0.0044    3.5   1.3   684   710   365   390   347   390 0.81 <unknown description>
+40915at4893_1266666_0:0009f9|contig_32:23524-24459|+ -            263 40915                -            710   2.7e-37  116.6   3.8   1   1   4.5e-37   5.6e-37  115.6   3.8   477   685     1   240     1   249 0.71 <unknown description>
+40915at4893_436907_0:000da2|contig_32:23524-24144|+  -            159 40915                -            710   6.1e-34  105.5   1.4   1   1   5.4e-34   6.8e-34  105.4   1.4   477   616     1   156     1   158 0.73 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40915at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40915at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/40915at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40915at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40915at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:26 2026
+# [ok]

@@ -1,0 +1,4 @@
+contig_224	miniprot	mRNA	3537	7959	3218	-	.	ID=MP002311;Rank=1;Identity=0.7382;Positive=0.8010;Frameshift=82;StopCodon=2;Target=34837at4893_27292_0:000e39 1 1420
+contig_224	miniprot	CDS	6270	7959	1172	-	0	Parent=MP002311;Rank=1;Identity=0.7407;Frameshift=34;StopCodon=1;Target=34837at4893_27292_0:000e39 1 544
+contig_224	miniprot	CDS	3537	6265	2046	-	1	Parent=MP002311;Rank=1;Identity=0.7366;Frameshift=48;StopCodon=1;Target=34837at4893_27292_0:000e39 545 1420
+contig_224	miniprot	stop_codon	3537	3539	0	-	0	Parent=MP002311;Rank=1

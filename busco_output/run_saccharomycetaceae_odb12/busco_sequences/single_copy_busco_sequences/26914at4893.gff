@@ -1,0 +1,2 @@
+contig_119	miniprot	mRNA	10295	10726	368	-	.	ID=MP043132;Rank=1;Identity=0.7829;Positive=0.8314;Frameshift=7;Target=26914at4893_27291_0:00049c 1 140
+contig_119	miniprot	CDS	10295	10726	368	-	0	Parent=MP043132;Rank=1;Identity=0.7829;Frameshift=7;Target=26914at4893_27291_0:00049c 1 140

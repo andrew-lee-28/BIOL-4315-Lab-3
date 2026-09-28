@@ -1,0 +1,3 @@
+contig_106	miniprot	mRNA	22512	23098	556	+	.	ID=MP040438;Rank=1;Identity=0.7537;Positive=0.8087;Frameshift=8;Target=25116at4893_1095631_0:000fce 1 200
+contig_106	miniprot	CDS	22512	23098	556	+	0	Parent=MP040438;Rank=1;Identity=0.7537;Frameshift=8;Target=25116at4893_1095631_0:000fce 1 200
+contig_106	miniprot	stop_codon	23096	23098	0	+	0	Parent=MP040438;Rank=1

@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+38928at4893_27292_0:00015a|contig_14:32805-33903|+   -            356 38928                -            356  7.1e-105  339.8   8.7   1   1  7.9e-105  7.9e-105  339.6   8.7     1   348     1   355     1   356 0.93 <unknown description>
+38928at4893_34358_0:000f8b|contig_14:32830-33573|+   -            243 38928                -            356   5.8e-78  251.2   2.2   1   1   6.4e-78   6.4e-78  251.1   2.2    12   245     4   242     1   243 0.94 <unknown description>
+38928at4893_284811_0:001285|contig_14:33112-33573|+  -            151 38928                -            356   5.6e-49  155.9   1.8   1   1   6.1e-49   6.1e-49  155.7   1.8    99   245     1   150     1   151 0.92 <unknown description>
+38928at4893_1095631_0:0013b9|contig_14:33267-33788|+ -            171 38928                -            356   1.1e-45  145.1   2.6   1   1   1.1e-45   1.1e-45  145.0   2.6   149   308     1   167     1   171 0.84 <unknown description>
+38928at4893_1230904_0:00059d|contig_14:33359-33644|+ -             94 38928                -            356   1.1e-31   99.0   0.9   1   1   1.2e-31   1.2e-31   98.9   0.9   175   266     1    93     1    93 0.87 <unknown description>
+38928at4893_4956_0:0016aa|contig_14:33314-33573|+    -             86 38928                -            356   4.7e-29   90.3   0.5   1   1     5e-29     5e-29   90.3   0.5   164   245     4    85     1    86 0.88 <unknown description>
+38928at4893_1003335_0:0012a2|contig_14:33407-33573|+ -             55 38928                -            356   2.2e-26   81.6   1.3   1   1   2.4e-26   2.4e-26   81.5   1.3   190   245     1    54     1    55 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/38928at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/38928at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/38928at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/38928at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/38928at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:24 2026
+# [ok]

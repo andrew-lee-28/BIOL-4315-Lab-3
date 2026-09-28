@@ -1,0 +1,2 @@
+contig_191	miniprot	mRNA	11556	13358	1479	-	.	ID=MP015680;Rank=1;Identity=0.6870;Positive=0.7629;Frameshift=19;StopCodon=2;Target=37264at4893_1095631_0:0010af 8 618
+contig_191	miniprot	CDS	11556	13358	1479	-	0	Parent=MP015680;Rank=1;Identity=0.6870;Frameshift=19;StopCodon=2;Target=37264at4893_1095631_0:0010af 8 618

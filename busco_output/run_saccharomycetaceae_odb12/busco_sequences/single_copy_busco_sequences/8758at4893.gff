@@ -1,0 +1,3 @@
+contig_91	miniprot	mRNA	13152	13459	293	-	.	ID=MP043823;Rank=1;Identity=0.7331;Positive=0.8296;Frameshift=5;Target=8758at4893_1095631_0:0002e3 12 114
+contig_91	miniprot	CDS	13152	13459	293	-	0	Parent=MP043823;Rank=1;Identity=0.7331;Frameshift=5;Target=8758at4893_1095631_0:0002e3 12 114
+contig_91	miniprot	stop_codon	13152	13154	0	-	0	Parent=MP043823;Rank=1

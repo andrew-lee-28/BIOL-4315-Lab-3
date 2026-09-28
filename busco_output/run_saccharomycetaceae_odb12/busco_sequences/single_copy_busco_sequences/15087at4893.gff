@@ -1,0 +1,2 @@
+contig_104	miniprot	mRNA	9449	9765	333	-	.	ID=MP044057;Rank=1;Identity=0.8250;Positive=0.8344;Frameshift=5;Target=15087at4893_764100_0:000c71 1 104
+contig_104	miniprot	CDS	9449	9765	333	-	0	Parent=MP044057;Rank=1;Identity=0.8250;Frameshift=5;Target=15087at4893_764100_0:000c71 1 104

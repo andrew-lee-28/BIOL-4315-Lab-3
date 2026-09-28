@@ -1,0 +1,27 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+40995at4893_1095631_0:0006ef|contig_60:37972-40572|- -            845 40995                -            361   2.1e-76  245.9  26.0   1   5    0.0024    0.0024    5.5   0.0     7    44    29    72    24    88 0.69 <unknown description>
+40995at4893_1095631_0:0006ef|contig_60:37972-40572|- -            845 40995                -            361   2.1e-76  245.9  26.0   2   5   3.3e-53   3.3e-53  169.6   4.2    64   194   161   295   139   301 0.89 <unknown description>
+40995at4893_1095631_0:0006ef|contig_60:37972-40572|- -            845 40995                -            361   2.1e-76  245.9  26.0   3   5   5.1e-22   5.1e-22   66.9   0.1   188   277   346   435   334   466 0.84 <unknown description>
+40995at4893_1095631_0:0006ef|contig_60:37972-40572|- -            845 40995                -            361   2.1e-76  245.9  26.0   4   5   0.00096   0.00096    6.8   0.3   260   331   511   588   504   596 0.66 <unknown description>
+40995at4893_1095631_0:0006ef|contig_60:37972-40572|- -            845 40995                -            361   2.1e-76  245.9  26.0   5   5    0.0004    0.0004    8.1   2.8   326   355   632   661   587   667 0.73 <unknown description>
+40995at4893_1071382_0:00088e|contig_60:39177-40118|- -            281 40995                -            361   4.7e-74  238.1  11.3   1   2   2.7e-53   2.7e-53  169.9   7.4    64   194    12   146     4   154 0.90 <unknown description>
+40995at4893_1071382_0:00088e|contig_60:39177-40118|- -            281 40995                -            361   4.7e-74  238.1  11.3   2   2   5.5e-23   5.5e-23   70.1   0.1   188   276   169   257   163   278 0.85 <unknown description>
+40995at4893_4950_0:000d91|contig_60:39323-40511|-    -            324 40995                -            361   1.4e-73  236.5  16.3   1   3   0.00029   0.00029    8.5   0.0    10    46    18    54     5    87 0.74 <unknown description>
+40995at4893_4950_0:000d91|contig_60:39323-40511|-    -            324 40995                -            361   1.4e-73  236.5  16.3   2   3   2.9e-49   2.9e-49  156.6   5.4    57   193   104   244    76   249 0.87 <unknown description>
+40995at4893_4950_0:000d91|contig_60:39323-40511|-    -            324 40995                -            361   1.4e-73  236.5  16.3   3   3   5.9e-25   5.9e-25   76.6   2.5   188   250   261   323   256   324 0.95 <unknown description>
+40995at4893_1789683_0:000efd|contig_60:31056-40075|- -            261 40995                -            361   2.7e-70  225.8  16.4   1   2   3.1e-49   3.1e-49  156.5   6.9    75   194     9   132     1   140 0.87 <unknown description>
+40995at4893_1789683_0:000efd|contig_60:31056-40075|- -            261 40995                -            361   2.7e-70  225.8  16.4   2   2   1.6e-24   1.6e-24   75.1   2.0   188   290   155   257   148   261 0.91 <unknown description>
+40995at4893_5478_0:00087d|contig_60:39326-40007|-    -            195 40995                -            361   4.2e-66  212.0  16.5   1   2   3.1e-44   3.1e-44  140.0   6.6    89   194     1   110     1   118 0.89 <unknown description>
+40995at4893_5478_0:00087d|contig_60:39326-40007|-    -            195 40995                -            361   4.2e-66  212.0  16.5   2   2   2.5e-25   2.5e-25   77.8   2.2   188   250   133   195   126   195 0.94 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40995at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40995at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/40995at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40995at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40995at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:28 2026
+# [ok]

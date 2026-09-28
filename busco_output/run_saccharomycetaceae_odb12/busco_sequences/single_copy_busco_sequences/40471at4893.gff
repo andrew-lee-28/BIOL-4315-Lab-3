@@ -1,0 +1,2 @@
+contig_20	miniprot	mRNA	27415	28778	1200	-	.	ID=MP025712;Rank=1;Identity=0.8216;Positive=0.8543;Frameshift=27;Target=40471at4893_1095631_0:000c8b 1 442
+contig_20	miniprot	CDS	27415	28778	1200	-	0	Parent=MP025712;Rank=1;Identity=0.8216;Frameshift=27;Target=40471at4893_1095631_0:000c8b 1 442

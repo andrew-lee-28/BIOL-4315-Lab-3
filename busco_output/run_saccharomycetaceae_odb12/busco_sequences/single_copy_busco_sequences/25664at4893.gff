@@ -1,0 +1,2 @@
+contig_401	miniprot	mRNA	6874	7402	537	+	.	ID=MP041715;Rank=1;Identity=0.7940;Positive=0.8336;Frameshift=8;Target=25664at4893_27291_0:0013f5 1 171
+contig_401	miniprot	CDS	6874	7402	537	+	0	Parent=MP041715;Rank=1;Identity=0.7940;Frameshift=8;Target=25664at4893_27291_0:0013f5 1 171

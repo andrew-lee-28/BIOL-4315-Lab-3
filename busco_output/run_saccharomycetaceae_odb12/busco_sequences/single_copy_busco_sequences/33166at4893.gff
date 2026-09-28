@@ -1,0 +1,2 @@
+contig_315	miniprot	mRNA	5484	7177	1276	+	.	ID=MP018779;Rank=1;Identity=0.7325;Positive=0.7710;Frameshift=28;StopCodon=2;Target=33166at4893_1095631_0:000bdd 1 554
+contig_315	miniprot	CDS	5484	7177	1276	+	0	Parent=MP018779;Rank=1;Identity=0.7325;Frameshift=28;StopCodon=2;Target=33166at4893_1095631_0:000bdd 1 554

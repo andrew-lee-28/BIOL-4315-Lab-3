@@ -1,0 +1,26 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+27701at4893_1095631_0:0006f6|contig_123:16467-19364|+ -            941 27701                -            717  2.2e-106  345.1  41.1   1   5   2.3e-22   2.3e-22   67.3   0.8     4   182    23   218    20   233 0.73 <unknown description>
+27701at4893_1095631_0:0006f6|contig_123:16467-19364|+ -            941 27701                -            717  2.2e-106  345.1  41.1   2   5    0.0054    0.0054    3.3   0.2   153   236   217   295   211   324 0.67 <unknown description>
+27701at4893_1095631_0:0006f6|contig_123:16467-19364|+ -            941 27701                -            717  2.2e-106  345.1  41.1   3   5     0.096     0.096   -0.8   0.3   231   289   372   430   369   440 0.69 <unknown description>
+27701at4893_1095631_0:0006f6|contig_123:16467-19364|+ -            941 27701                -            717  2.2e-106  345.1  41.1   4   5   1.9e-12   1.9e-12   34.6   0.3   289   360   464   535   452   546 0.65 <unknown description>
+27701at4893_1095631_0:0006f6|contig_123:16467-19364|+ -            941 27701                -            717  2.2e-106  345.1  41.1   5   5   7.4e-79   7.4e-79  254.1  19.1   350   715   560   940   555   941 0.86 <unknown description>
+27701at4893_27292_0:000757|contig_123:17381-19364|+   -            644 27701                -            717   3.5e-89  288.2  32.4   1   3      0.06      0.06   -0.1   0.3   231   289    75   133    72   143 0.69 <unknown description>
+27701at4893_27292_0:000757|contig_123:17381-19364|+   -            644 27701                -            717   3.5e-89  288.2  32.4   2   3   1.1e-12   1.1e-12   35.3   0.4   289   360   167   238   155   250 0.65 <unknown description>
+27701at4893_27292_0:000757|contig_123:17381-19364|+   -            644 27701                -            717   3.5e-89  288.2  32.4   3   3   9.3e-81   9.3e-81  260.4  20.4   350   715   263   643   258   644 0.87 <unknown description>
+27701at4893_1064592_0:000dc6|contig_123:17906-19192|+ -            420 27701                -            717   1.9e-73  236.2  24.7   1   2   2.3e-13   2.3e-13   37.6   1.4   296   365     4    72     1    81 0.79 <unknown description>
+27701at4893_1064592_0:000dc6|contig_123:17906-19192|+ -            420 27701                -            717   1.9e-73  236.2  24.7   2   2   2.2e-63   2.2e-63  203.0  17.4   349   660    92   419    67   420 0.80 <unknown description>
+27701at4893_48254_0:000faa|contig_123:17906-18901|+   -            325 27701                -            717     5e-59  188.5   9.4   1   2   5.8e-13   5.8e-13   36.3   1.3   296   365     4    72     1    87 0.77 <unknown description>
+27701at4893_48254_0:000faa|contig_123:17906-18901|+   -            325 27701                -            717     5e-59  188.5   9.4   2   2   1.9e-49   1.9e-49  156.8   1.8   349   567    93   324    82   325 0.78 <unknown description>
+27701at4893_34358_0:0013a8|contig_123:18297-18901|+   -            198 27701                -            717   7.3e-43  135.1   0.5   1   1     9e-43     9e-43  134.8   0.5   383   567     9   197     4   198 0.79 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/27701at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/27701at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/27701at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/27701at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/27701at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:02 2026
+# [ok]

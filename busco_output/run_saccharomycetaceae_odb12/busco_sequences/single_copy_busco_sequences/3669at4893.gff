@@ -1,0 +1,2 @@
+contig_126	miniprot	mRNA	9942	13519	2988	+	.	ID=MP004100;Rank=1;Identity=0.7700;Positive=0.8117;Frameshift=64;StopCodon=3;Target=3669at4893_27292_0:0001e4 1 1148
+contig_126	miniprot	CDS	9942	13519	2988	+	0	Parent=MP004100;Rank=1;Identity=0.7700;Frameshift=64;StopCodon=3;Target=3669at4893_27292_0:0001e4 1 1148

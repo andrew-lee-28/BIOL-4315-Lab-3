@@ -1,0 +1,18 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+37446at4893_1095631_0:000cb5|contig_329:3118-3997|- -            285 37446                -            265   1.7e-57  183.7  28.9   1   1   2.1e-57   2.1e-57  183.4  28.9     1   260     1   284     1   285 0.80 <unknown description>
+37446at4893_230603_0:001082|contig_329:3298-3997|-  -            228 37446                -            265   3.1e-50  159.9  21.8   1   1   4.9e-50   4.9e-50  159.3  21.8     1   199     1   210     1   227 0.81 <unknown description>
+37446at4893_42258_0:000025|contig_329:3403-3842|-   -            145 37446                -            265   9.8e-39  122.2  12.6   1   1   2.3e-38   2.3e-38  121.0  12.6    51   181     1   144     1   145 0.79 <unknown description>
+37446at4893_436907_0:00013a|contig_329:3537-3842|-  -            101 37446                -            265   1.6e-34  108.4   7.8   1   1   1.8e-34   1.8e-34  108.3   7.8    51   148     1    96     1   101 0.82 <unknown description>
+37446at4893_4956_0:002201|contig_329:3624-3842|-    -             72 37446                -            265   7.9e-34  106.1   2.5   1   1   8.5e-34   8.5e-34  106.0   2.5    51   122     1    71     1    72 0.98 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/37446at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/37446at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/37446at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/37446at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/37446at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:23 2026
+# [ok]

@@ -1,0 +1,2 @@
+contig_137	miniprot	mRNA	5457	6364	928	-	.	ID=MP035293;Rank=1;Identity=0.8191;Positive=0.8355;Frameshift=11;Target=39755at4893_1095631_0:00119a 1 294
+contig_137	miniprot	CDS	5457	6364	928	-	0	Parent=MP035293;Rank=1;Identity=0.8191;Frameshift=11;Target=39755at4893_1095631_0:00119a 1 294

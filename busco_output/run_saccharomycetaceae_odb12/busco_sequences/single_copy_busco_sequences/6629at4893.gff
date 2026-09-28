@@ -1,0 +1,2 @@
+contig_104	miniprot	mRNA	4942	5555	537	+	.	ID=MP040532;Rank=1;Identity=0.8182;Positive=0.8474;Frameshift=13;Target=6629at4893_1095631_0:000ecd 1 199
+contig_104	miniprot	CDS	4942	5555	537	+	0	Parent=MP040532;Rank=1;Identity=0.8182;Frameshift=13;Target=6629at4893_1095631_0:000ecd 1 199

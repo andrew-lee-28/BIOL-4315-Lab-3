@@ -1,0 +1,3 @@
+contig_26	miniprot	mRNA	46314	49585	3048	-	.	ID=MP004807;Rank=1;Identity=0.7989;Positive=0.8249;Frameshift=53;Target=2484at4893_1095631_0:00161b 1 1092
+contig_26	miniprot	CDS	46314	49585	3048	-	0	Parent=MP004807;Rank=1;Identity=0.7989;Frameshift=53;Target=2484at4893_1095631_0:00161b 1 1092
+contig_26	miniprot	stop_codon	46314	46316	0	-	0	Parent=MP004807;Rank=1

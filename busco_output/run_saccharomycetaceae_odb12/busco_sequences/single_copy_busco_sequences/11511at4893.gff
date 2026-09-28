@@ -1,0 +1,3 @@
+contig_86	miniprot	mRNA	19762	21060	721	-	.	ID=MP034412;Rank=1;Identity=0.7086;Positive=0.7711;Frameshift=16;Target=11511at4893_1095631_0:000dc3 1 307
+contig_86	miniprot	CDS	20337	21060	506	-	0	Parent=MP034412;Rank=1;Identity=0.6762;Donor=AT;Frameshift=11;Target=11511at4893_1095631_0:000dc3 1 232
+contig_86	miniprot	CDS	19762	19992	215	-	2	Parent=MP034412;Rank=1;Identity=0.8122;Frameshift=5;Target=11511at4893_1095631_0:000dc3 233 307

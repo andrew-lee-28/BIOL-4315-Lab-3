@@ -1,0 +1,3 @@
+contig_3	miniprot	mRNA	7517	10754	2399	+	.	ID=MP005586;Rank=1;Identity=0.7396;Positive=0.7812;Frameshift=55;StopCodon=2;Target=2295at4893_1095631_0:00067a 1 1036
+contig_3	miniprot	CDS	7517	10754	2399	+	0	Parent=MP005586;Rank=1;Identity=0.7396;Frameshift=55;StopCodon=2;Target=2295at4893_1095631_0:00067a 1 1036
+contig_3	miniprot	stop_codon	10752	10754	0	+	0	Parent=MP005586;Rank=1

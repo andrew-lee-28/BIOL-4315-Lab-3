@@ -1,0 +1,16 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+40568at4893_1095631_0:000651|contig_31:37426-38573|+ -            379 40568                -            449   2.5e-28   87.2   8.3   1   1   2.8e-28   3.7e-28   86.6   8.3    66   361    40   342     6   344 0.61 <unknown description>
+40568at4893_27292_0:001d4b|contig_31:37712-38573|+   -            285 40568                -            449   3.5e-26   80.1   0.4   1   1   3.5e-26   4.6e-26   79.7   0.4   117   361     2   248     1   250 0.71 <unknown description>
+40568at4893_48254_0:001058|contig_346:15230-15440|-  -             71 40568                -            449      0.57   -3.0  47.0   1   1      0.44      0.59   -3.0  47.0    28    92     7    67     1    71 0.25 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40568at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40568at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/40568at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/40568at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/40568at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:30 2026
+# [ok]

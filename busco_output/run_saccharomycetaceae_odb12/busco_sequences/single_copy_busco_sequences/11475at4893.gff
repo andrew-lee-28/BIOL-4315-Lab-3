@@ -1,0 +1,4 @@
+contig_137	miniprot	mRNA	18334	19243	808	-	.	ID=MP035635;Rank=1;Identity=0.7940;Positive=0.8206;Frameshift=14;StopCodon=1;Target=11475at4893_1095631_0:001157 1 287
+contig_137	miniprot	CDS	19175	19243	79	-	0	Parent=MP035635;Rank=1;Identity=0.8261;Target=11475at4893_1095631_0:001157 1 22
+contig_137	miniprot	CDS	18334	19170	729	-	0	Parent=MP035635;Rank=1;Identity=0.7914;Frameshift=14;StopCodon=1;Target=11475at4893_1095631_0:001157 23 287
+contig_137	miniprot	stop_codon	18334	18336	0	-	0	Parent=MP035635;Rank=1

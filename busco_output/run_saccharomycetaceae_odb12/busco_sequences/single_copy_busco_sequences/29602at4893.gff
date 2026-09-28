@@ -1,0 +1,2 @@
+contig_30	miniprot	mRNA	39331	39853	522	-	.	ID=MP041000;Rank=1;Identity=0.8441;Positive=0.8897;Frameshift=8;StopCodon=1;Target=29602at4893_1095631_0:0001ac 1 171
+contig_30	miniprot	CDS	39331	39853	522	-	0	Parent=MP041000;Rank=1;Identity=0.8441;Frameshift=8;StopCodon=1;Target=29602at4893_1095631_0:0001ac 1 171

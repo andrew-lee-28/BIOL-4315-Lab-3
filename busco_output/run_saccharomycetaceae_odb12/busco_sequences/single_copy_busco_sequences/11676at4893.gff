@@ -1,0 +1,3 @@
+contig_310	miniprot	mRNA	68712	68900	226	-	.	ID=MP044312;Rank=1;Identity=0.9355;Positive=0.9516;Frameshift=3;Target=11676at4893_4932_0:0015be 12 72
+contig_310	miniprot	CDS	68712	68900	226	-	0	Parent=MP044312;Rank=1;Identity=0.9355;Frameshift=3;Target=11676at4893_4932_0:0015be 12 72
+contig_310	miniprot	stop_codon	68712	68714	0	-	0	Parent=MP044312;Rank=1

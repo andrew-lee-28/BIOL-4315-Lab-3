@@ -1,0 +1,3 @@
+contig_254	miniprot	mRNA	1352	2309	700	+	.	ID=MP034116;Rank=1;Identity=0.6909;Positive=0.7656;Frameshift=15;Target=39530at4893_4932_0:000440 1 312
+contig_254	miniprot	CDS	1352	2309	700	+	0	Parent=MP034116;Rank=1;Identity=0.6909;Frameshift=15;Target=39530at4893_4932_0:000440 1 312
+contig_254	miniprot	stop_codon	2307	2309	0	+	0	Parent=MP034116;Rank=1

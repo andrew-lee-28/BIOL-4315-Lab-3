@@ -1,0 +1,2 @@
+contig_14	miniprot	mRNA	36519	39025	1286	+	.	ID=MP005047;Rank=1;Identity=0.6651;Positive=0.7304;Frameshift=50;StopCodon=2;Target=15762at4893_27292_0:0001a7 1 780
+contig_14	miniprot	CDS	36519	39025	1286	+	0	Parent=MP005047;Rank=1;Identity=0.6651;Frameshift=50;StopCodon=2;Target=15762at4893_27292_0:0001a7 1 780

@@ -1,0 +1,3 @@
+contig_232	miniprot	mRNA	18877	22596	1814	-	.	ID=MP003803;Rank=1;Identity=0.6248;Positive=0.7047;Frameshift=56;StopCodon=8;Target=38699at4893_1095631_0:001180 1 1178
+contig_232	miniprot	CDS	19624	22596	1517	-	0	Parent=MP003803;Rank=1;Identity=0.6316;Frameshift=47;StopCodon=7;Target=38699at4893_1095631_0:001180 1 961
+contig_232	miniprot	CDS	18877	19592	297	-	0	Parent=MP003803;Rank=1;Identity=0.5958;Frameshift=9;StopCodon=1;Target=38699at4893_1095631_0:001180 962 1178

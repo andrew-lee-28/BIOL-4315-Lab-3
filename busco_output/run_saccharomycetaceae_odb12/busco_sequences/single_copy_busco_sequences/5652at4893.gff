@@ -1,0 +1,2 @@
+contig_310	miniprot	mRNA	59173	61319	1262	+	.	ID=MP013490;Rank=1;Identity=0.6512;Positive=0.7106;Frameshift=33;StopCodon=1;Target=5652at4893_4932_0:001532 9 694
+contig_310	miniprot	CDS	59173	61319	1262	+	0	Parent=MP013490;Rank=1;Identity=0.6512;Frameshift=33;StopCodon=1;Target=5652at4893_4932_0:001532 9 694

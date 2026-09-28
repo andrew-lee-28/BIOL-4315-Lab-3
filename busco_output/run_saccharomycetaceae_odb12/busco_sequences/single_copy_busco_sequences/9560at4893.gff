@@ -1,0 +1,3 @@
+contig_14	miniprot	mRNA	30351	30599	342	-	.	ID=MP044263;Rank=1;Identity=0.8866;Positive=0.8988;Frameshift=2;Target=9560at4893_559292_0:0001b1 1 82
+contig_14	miniprot	CDS	30351	30599	342	-	0	Parent=MP044263;Rank=1;Identity=0.8866;Frameshift=2;Target=9560at4893_559292_0:0001b1 1 82
+contig_14	miniprot	stop_codon	30351	30353	0	-	0	Parent=MP044263;Rank=1

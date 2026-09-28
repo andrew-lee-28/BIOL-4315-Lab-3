@@ -1,0 +1,3 @@
+contig_418	miniprot	mRNA	6642	9984	2593	-	.	ID=MP004318;Rank=1;Identity=0.6858;Positive=0.7408;Frameshift=44;StopCodon=3;Target=19253at4893_27292_0:0003d5 3 1125
+contig_418	miniprot	CDS	6642	9984	2593	-	0	Parent=MP004318;Rank=1;Identity=0.6858;Frameshift=44;StopCodon=3;Target=19253at4893_27292_0:0003d5 3 1125
+contig_418	miniprot	stop_codon	6642	6644	0	-	0	Parent=MP004318;Rank=1

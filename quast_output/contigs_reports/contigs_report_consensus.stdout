@@ -1,0 +1,2206 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [chrI]
+	Loaded [chrII]
+	Loaded [chrIII]
+	Loaded [chrIV]
+	Loaded [chrV]
+	Loaded [chrVI]
+	Loaded [chrVII]
+	Loaded [chrVIII]
+	Loaded [chrIX]
+	Loaded [chrX]
+	Loaded [chrXI]
+	Loaded [chrXII]
+	Loaded [chrXIII]
+	Loaded [chrXIV]
+	Loaded [chrXV]
+	Loaded [chrXVI]
+	Loaded [chrM]
+	Total Regions: 17
+	Total Region Length: 12157105
+Analyzing contigs...
+CONTIG: contig_106 (37362bp)
+		This contig is unaligned. (37362 bp)
+		Unaligned bases: 37362 (number of Ns: 0)
+
+CONTIG: contig_186 (8167bp)
+		This contig is unaligned. (8167 bp)
+		Unaligned bases: 8167 (number of Ns: 0)
+
+CONTIG: contig_101 (29734bp)
+		This contig is unaligned. (29734 bp)
+		Unaligned bases: 29734 (number of Ns: 0)
+
+CONTIG: contig_401 (19016bp)
+		This contig is unaligned. (19016 bp)
+		Unaligned bases: 19016 (number of Ns: 0)
+
+CONTIG: contig_394 (13406bp)
+		This contig is unaligned. (13406 bp)
+		Unaligned bases: 13406 (number of Ns: 0)
+
+CONTIG: contig_400 (16306bp)
+		This contig is unaligned. (16306 bp)
+		Unaligned bases: 16306 (number of Ns: 0)
+
+CONTIG: contig_125 (26895bp)
+		This contig is unaligned. (26895 bp)
+		Unaligned bases: 26895 (number of Ns: 0)
+
+CONTIG: contig_266 (28509bp)
+		This contig is unaligned. (28509 bp)
+		Unaligned bases: 28509 (number of Ns: 0)
+
+CONTIG: contig_305 (10403bp)
+		This contig is unaligned. (10403 bp)
+		Unaligned bases: 10403 (number of Ns: 0)
+
+CONTIG: contig_140 (29378bp)
+		This contig is unaligned. (29378 bp)
+		Unaligned bases: 29378 (number of Ns: 0)
+
+CONTIG: contig_170 (29737bp)
+		This contig is unaligned. (29737 bp)
+		Unaligned bases: 29737 (number of Ns: 0)
+
+CONTIG: contig_52 (38864bp)
+		This contig is unaligned. (38864 bp)
+		Unaligned bases: 38864 (number of Ns: 0)
+
+CONTIG: contig_56 (37642bp)
+		This contig is unaligned. (37642 bp)
+		Unaligned bases: 37642 (number of Ns: 0)
+
+CONTIG: contig_398 (17264bp)
+		This contig is unaligned. (17264 bp)
+		Unaligned bases: 17264 (number of Ns: 0)
+
+CONTIG: contig_365 (22872bp)
+		This contig is unaligned. (22872 bp)
+		Unaligned bases: 22872 (number of Ns: 0)
+
+CONTIG: contig_402 (10684bp)
+		This contig is unaligned. (10684 bp)
+		Unaligned bases: 10684 (number of Ns: 0)
+
+CONTIG: contig_203 (26053bp)
+Best alignment score: 65.0 (LEN: 65, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 65.0, number of alignments: 1, unaligned bases: 25988
+		This contig is partially unaligned. (Aligned 65 out of 26053 non-N bases (0.25%))
+		Alignment: 823442 823506 | 23861 23925 | 65 65 | 100.0 | chrXII contig_203
+		Unaligned bases: 1 to 23860 (23860)
+		Unaligned bases: 23926 to 26053 (2128)
+
+CONTIG: contig_427 (13258bp)
+		This contig is unaligned. (13258 bp)
+		Unaligned bases: 13258 (number of Ns: 0)
+
+CONTIG: contig_112 (23371bp)
+		This contig is unaligned. (23371 bp)
+		Unaligned bases: 23371 (number of Ns: 0)
+
+CONTIG: contig_397 (6833bp)
+		This contig is unaligned. (6833 bp)
+		Unaligned bases: 6833 (number of Ns: 0)
+
+CONTIG: contig_131 (47663bp)
+Best alignment score: 5309.6 (LEN: 5575, IDY: 95.24), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 5309.6, number of alignments: 1, unaligned bases: 42088
+		This contig is partially unaligned. (Aligned 5575 out of 47663 non-N bases (11.70%))
+		Alignment: 129408 134948 | 13385 7811 | 5541 5575 | 95.24 | chrIX contig_131
+		Unaligned bases: 1 to 7810 (7810)
+		Unaligned bases: 13386 to 47663 (34278)
+
+CONTIG: contig_150 (19651bp)
+		This contig is unaligned. (19651 bp)
+		Unaligned bases: 19651 (number of Ns: 0)
+
+CONTIG: contig_379 (10644bp)
+		This contig is unaligned. (10644 bp)
+		Unaligned bases: 10644 (number of Ns: 0)
+
+CONTIG: contig_378 (6802bp)
+		This contig is unaligned. (6802 bp)
+		Unaligned bases: 6802 (number of Ns: 0)
+
+CONTIG: contig_399 (6882bp)
+		This contig is unaligned. (6882 bp)
+		Unaligned bases: 6882 (number of Ns: 0)
+
+CONTIG: contig_8 (18626bp)
+		This contig is unaligned. (18626 bp)
+		Unaligned bases: 18626 (number of Ns: 0)
+
+CONTIG: contig_66 (38903bp)
+		This contig is unaligned. (38903 bp)
+		Unaligned bases: 38903 (number of Ns: 0)
+
+CONTIG: contig_20 (74818bp)
+Best alignment score: 122.0 (LEN: 127, IDY: 96.06), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1023354 1023477 | 20200 20323 | 124 124 | 95.24 | chrIV contig_20
+		Skipping redundant alignment 546952 547077 | 20198 20323 | 126 126 | 95.31 | chrXIV contig_20
+		Skipping redundant alignment 197929 198055 | 20198 20324 | 127 127 | 96.06 | chrII contig_20
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 122.0, number of alignments: 1, unaligned bases: 74691
+		This contig is partially unaligned. (Aligned 127 out of 74818 non-N bases (0.17%))
+		Alignment: 146330 146456 | 20324 20198 | 127 127 | 96.06 | chrVIII contig_20
+		Unaligned bases: 1 to 20197 (20197)
+		Unaligned bases: 20325 to 74818 (54494)
+
+CONTIG: contig_23 (15201bp)
+		This contig is unaligned. (15201 bp)
+		Unaligned bases: 15201 (number of Ns: 0)
+
+CONTIG: contig_318 (16603bp)
+		This contig is unaligned. (16603 bp)
+		Unaligned bases: 16603 (number of Ns: 0)
+
+CONTIG: contig_281 (8699bp)
+		This contig is unaligned. (8699 bp)
+		Unaligned bases: 8699 (number of Ns: 0)
+
+CONTIG: contig_216 (20055bp)
+		This contig is unaligned. (20055 bp)
+		Unaligned bases: 20055 (number of Ns: 0)
+
+CONTIG: contig_107 (8916bp)
+		This contig is unaligned. (8916 bp)
+		Unaligned bases: 8916 (number of Ns: 0)
+
+CONTIG: contig_260 (37676bp)
+		This contig is unaligned. (37676 bp)
+		Unaligned bases: 37676 (number of Ns: 0)
+
+CONTIG: contig_21 (31375bp)
+Best alignment score: 111.0 (LEN: 116, IDY: 95.69), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 111.0, number of alignments: 1, unaligned bases: 31259
+		This contig is partially unaligned. (Aligned 116 out of 31375 non-N bases (0.37%))
+		Alignment: 449266 449381 | 15984 15869 | 116 116 | 95.69 | chrVII contig_21
+		Unaligned bases: 1 to 15868 (15868)
+		Unaligned bases: 15985 to 31375 (15391)
+
+CONTIG: contig_225 (9127bp)
+		This contig is unaligned. (9127 bp)
+		Unaligned bases: 9127 (number of Ns: 0)
+
+CONTIG: contig_138 (8979bp)
+		This contig is unaligned. (8979 bp)
+		Unaligned bases: 8979 (number of Ns: 0)
+
+CONTIG: contig_15 (25592bp)
+		This contig is unaligned. (25592 bp)
+		Unaligned bases: 25592 (number of Ns: 0)
+
+CONTIG: contig_11 (30801bp)
+		This contig is unaligned. (30801 bp)
+		Unaligned bases: 30801 (number of Ns: 0)
+
+CONTIG: contig_349 (8568bp)
+		This contig is unaligned. (8568 bp)
+		Unaligned bases: 8568 (number of Ns: 0)
+
+CONTIG: contig_176 (13180bp)
+		This contig is unaligned. (13180 bp)
+		Unaligned bases: 13180 (number of Ns: 0)
+
+CONTIG: contig_34 (10684bp)
+		This contig is unaligned. (10684 bp)
+		Unaligned bases: 10684 (number of Ns: 0)
+
+CONTIG: contig_357 (18156bp)
+		This contig is unaligned. (18156 bp)
+		Unaligned bases: 18156 (number of Ns: 0)
+
+CONTIG: contig_403 (10854bp)
+		This contig is unaligned. (10854 bp)
+		Unaligned bases: 10854 (number of Ns: 0)
+
+CONTIG: contig_85 (41101bp)
+		This contig is unaligned. (41101 bp)
+		Unaligned bases: 41101 (number of Ns: 0)
+
+CONTIG: contig_301 (14633bp)
+		This contig is unaligned. (14633 bp)
+		Unaligned bases: 14633 (number of Ns: 0)
+
+CONTIG: contig_68 (33327bp)
+		This contig is unaligned. (33327 bp)
+		Unaligned bases: 33327 (number of Ns: 0)
+
+CONTIG: contig_166 (56954bp)
+		This contig is unaligned. (56954 bp)
+		Unaligned bases: 56954 (number of Ns: 0)
+
+CONTIG: contig_65 (42857bp)
+		This contig is unaligned. (42857 bp)
+		Unaligned bases: 42857 (number of Ns: 0)
+
+CONTIG: contig_152 (18052bp)
+		This contig is unaligned. (18052 bp)
+		Unaligned bases: 18052 (number of Ns: 0)
+
+CONTIG: contig_47 (20250bp)
+		This contig is unaligned. (20250 bp)
+		Unaligned bases: 20250 (number of Ns: 0)
+
+CONTIG: contig_227 (14970bp)
+		This contig is unaligned. (14970 bp)
+		Unaligned bases: 14970 (number of Ns: 0)
+
+CONTIG: contig_119 (16785bp)
+Best alignment score: 4848.0 (LEN: 5101, IDY: 95.04), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 4848.0, number of alignments: 1, unaligned bases: 11684
+		This contig is partially unaligned. (Aligned 5101 out of 16785 non-N bases (30.39%))
+		Alignment: 1075921 1080943 | 8159 13259 | 5023 5101 | 95.04 | chrIV contig_119
+		Unaligned bases: 1 to 8158 (8158)
+		Unaligned bases: 13260 to 16785 (3526)
+
+CONTIG: contig_160 (30797bp)
+		This contig is unaligned. (30797 bp)
+		Unaligned bases: 30797 (number of Ns: 0)
+
+CONTIG: contig_211 (30235bp)
+Best alignment score: 96.0 (LEN: 101, IDY: 95.05), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 96.0, number of alignments: 1, unaligned bases: 30134
+		This contig is partially unaligned. (Aligned 101 out of 30235 non-N bases (0.33%))
+		Alignment: 365963 366062 | 24231 24331 | 100 101 | 95.05 | chrII contig_211
+		Unaligned bases: 1 to 24230 (24230)
+		Unaligned bases: 24332 to 30235 (5904)
+
+CONTIG: contig_238 (42556bp)
+Best alignment score: 6458.3 (LEN: 6726, IDY: 96.02), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 6458.3, number of alignments: 1, unaligned bases: 35830
+		This contig is partially unaligned. (Aligned 6726 out of 42556 non-N bases (15.81%))
+		Alignment: 216435 223115 | 34530 41255 | 6681 6726 | 96.02 | chrXV contig_238
+		Unaligned bases: 1 to 34529 (34529)
+		Unaligned bases: 41256 to 42556 (1301)
+
+CONTIG: contig_429 (42334bp)
+		This contig is unaligned. (42334 bp)
+		Unaligned bases: 42334 (number of Ns: 0)
+
+CONTIG: contig_372 (12772bp)
+		This contig is unaligned. (12772 bp)
+		Unaligned bases: 12772 (number of Ns: 0)
+
+CONTIG: contig_118 (39774bp)
+		This contig is unaligned. (39774 bp)
+		Unaligned bases: 39774 (number of Ns: 0)
+
+CONTIG: contig_396 (10144bp)
+		This contig is unaligned. (10144 bp)
+		Unaligned bases: 10144 (number of Ns: 0)
+
+CONTIG: contig_270 (22276bp)
+Best alignment score: 4691.0 (LEN: 4887, IDY: 95.99), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 4691.0, number of alignments: 1, unaligned bases: 17389
+		This contig is partially unaligned. (Aligned 4887 out of 22276 non-N bases (21.94%))
+		Alignment: 744378 749188 | 3278 8164 | 4811 4887 | 95.99 | chrXIII contig_270
+		Unaligned bases: 1 to 3277 (3277)
+		Unaligned bases: 8165 to 22276 (14112)
+
+CONTIG: contig_350 (12381bp)
+		This contig is unaligned. (12381 bp)
+		Unaligned bases: 12381 (number of Ns: 0)
+
+CONTIG: contig_326 (13257bp)
+		This contig is unaligned. (13257 bp)
+		Unaligned bases: 13257 (number of Ns: 0)
+
+CONTIG: contig_33 (11483bp)
+		This contig is unaligned. (11483 bp)
+		Unaligned bases: 11483 (number of Ns: 0)
+
+CONTIG: contig_413 (27157bp)
+		This contig is unaligned. (27157 bp)
+		Unaligned bases: 27157 (number of Ns: 0)
+
+CONTIG: contig_302 (31444bp)
+		This contig is unaligned. (31444 bp)
+		Unaligned bases: 31444 (number of Ns: 0)
+
+CONTIG: contig_151 (50806bp)
+		This contig is unaligned. (50806 bp)
+		Unaligned bases: 50806 (number of Ns: 0)
+
+CONTIG: contig_142 (18904bp)
+		This contig is unaligned. (18904 bp)
+		Unaligned bases: 18904 (number of Ns: 0)
+
+CONTIG: contig_373 (11315bp)
+		This contig is unaligned. (11315 bp)
+		Unaligned bases: 11315 (number of Ns: 0)
+
+CONTIG: contig_6 (44797bp)
+Best alignment score: 4485.8 (LEN: 4681, IDY: 95.83), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 7970.8, number of alignments: 2, unaligned bases: 36493
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 8304 out of 44797 non-N bases (18.54%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 44797 (number of Ns: 0) and total length of all aligns is 8304
+		Alignment: 133024 137654 | 29852 25172 | 4631 4681 | 95.83 | chrII contig_6
+		Alignment: 129452 133023 | 33498 29876 | 3572 3623 | 96.19 | chrII contig_6
+		Unaligned bases: 36493
+
+CONTIG: contig_353 (11009bp)
+		This contig is unaligned. (11009 bp)
+		Unaligned bases: 11009 (number of Ns: 0)
+
+CONTIG: contig_422 (39454bp)
+		This contig is unaligned. (39454 bp)
+		Unaligned bases: 39454 (number of Ns: 0)
+
+CONTIG: contig_10 (77105bp)
+		This contig is unaligned. (77105 bp)
+		Unaligned bases: 77105 (number of Ns: 0)
+
+CONTIG: contig_185 (15661bp)
+		This contig is unaligned. (15661 bp)
+		Unaligned bases: 15661 (number of Ns: 0)
+
+CONTIG: contig_82 (51861bp)
+Best alignment score: 376.3 (LEN: 393, IDY: 95.75), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 158 553 | 48257 47865 | 396 393 | 95.75 | chrX contig_82
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 376.3, number of alignments: 1, unaligned bases: 51468
+		This contig is partially unaligned. (Aligned 393 out of 51861 non-N bases (0.76%))
+		Alignment: 175 570 | 48257 47865 | 396 393 | 95.75 | chrIX contig_82
+		Unaligned bases: 1 to 47864 (47864)
+		Unaligned bases: 48258 to 51861 (3604)
+
+CONTIG: contig_283 (41604bp)
+		This contig is unaligned. (41604 bp)
+		Unaligned bases: 41604 (number of Ns: 0)
+
+CONTIG: contig_126 (26830bp)
+		This contig is unaligned. (26830 bp)
+		Unaligned bases: 26830 (number of Ns: 0)
+
+CONTIG: contig_87 (27517bp)
+		This contig is unaligned. (27517 bp)
+		Unaligned bases: 27517 (number of Ns: 0)
+
+CONTIG: contig_387 (38544bp)
+		This contig is unaligned. (38544 bp)
+		Unaligned bases: 38544 (number of Ns: 0)
+
+CONTIG: contig_408 (8022bp)
+		This contig is unaligned. (8022 bp)
+		Unaligned bases: 8022 (number of Ns: 0)
+
+CONTIG: contig_417 (40848bp)
+		This contig is unaligned. (40848 bp)
+		Unaligned bases: 40848 (number of Ns: 0)
+
+CONTIG: contig_202 (26413bp)
+		This contig is unaligned. (26413 bp)
+		Unaligned bases: 26413 (number of Ns: 0)
+
+CONTIG: contig_414 (42471bp)
+		This contig is unaligned. (42471 bp)
+		Unaligned bases: 42471 (number of Ns: 0)
+
+CONTIG: contig_163 (27597bp)
+Best alignment score: 9352.2 (LEN: 9751, IDY: 95.91), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 9352.2, number of alignments: 1, unaligned bases: 17846
+		This contig is partially unaligned. (Aligned 9751 out of 27597 non-N bases (35.33%))
+		Alignment: 304078 313813 | 20430 10680 | 9736 9751 | 95.91 | chrII contig_163
+		Unaligned bases: 1 to 10679 (10679)
+		Unaligned bases: 20431 to 27597 (7167)
+
+CONTIG: contig_59 (32814bp)
+		This contig is unaligned. (32814 bp)
+		Unaligned bases: 32814 (number of Ns: 0)
+
+CONTIG: contig_39 (46698bp)
+		This contig is unaligned. (46698 bp)
+		Unaligned bases: 46698 (number of Ns: 0)
+
+CONTIG: contig_16 (32227bp)
+		This contig is unaligned. (32227 bp)
+		Unaligned bases: 32227 (number of Ns: 0)
+
+CONTIG: contig_430 (65543bp)
+Best alignment score: 92.2 (LEN: 97, IDY: 95.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 92.2, number of alignments: 1, unaligned bases: 65446
+		This contig is partially unaligned. (Aligned 97 out of 65543 non-N bases (0.15%))
+		Alignment: 298329 298428 | 15833 15929 | 100 97 | 95.0 | chrV contig_430
+		Unaligned bases: 1 to 15832 (15832)
+		Unaligned bases: 15930 to 65543 (49614)
+
+CONTIG: contig_110 (50474bp)
+		This contig is unaligned. (50474 bp)
+		Unaligned bases: 50474 (number of Ns: 0)
+
+CONTIG: contig_360 (24273bp)
+		This contig is unaligned. (24273 bp)
+		Unaligned bases: 24273 (number of Ns: 0)
+
+CONTIG: contig_70 (55766bp)
+Best alignment score: 1783.1 (LEN: 1862, IDY: 95.76), Total number of alignments: 17
+			Looking for the best set of alignments (out of 17 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 110 1693 | 234 1788 | 1584 1555 | 95.71 | chrXII contig_70
+		Skipping redundant alignment 1530449 1531931 | 1840 380 | 1483 1461 | 96.29 | chrIV contig_70
+		Skipping redundant alignment 2 1539 | 322 1840 | 1538 1519 | 96.23 | chrXVI contig_70
+		Skipping redundant alignment 1076636 1078176 | 1840 322 | 1541 1519 | 96.11 | chrXII contig_70
+		Skipping redundant alignment 1089332 1090934 | 1840 258 | 1603 1583 | 96.19 | chrVII contig_70
+		Skipping redundant alignment 575266 576868 | 1840 258 | 1603 1583 | 96.19 | chrV contig_70
+		Skipping redundant alignment 28 1630 | 258 1840 | 1603 1583 | 96.13 | chrXIV contig_70
+		Skipping redundant alignment 1069973 1071578 | 1840 258 | 1606 1583 | 96.08 | chrXII contig_70
+		Skipping redundant alignment 1089601 1091206 | 1840 258 | 1606 1583 | 96.08 | chrXV contig_70
+		Skipping redundant alignment 114 1998 | 234 2095 | 1885 1862 | 95.76 | chrIX contig_70
+		Skipping redundant alignment 97 1981 | 234 2095 | 1885 1862 | 95.76 | chrX contig_70
+		Skipping redundant alignment 2012 3827 | 2291 4102 | 1816 1812 | 95.37 | chrXII contig_70
+		Skipping redundant alignment 18201 18349 | 27216 27363 | 149 148 | 98.0 | chrXV contig_70
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 4238.2, number of alignments: 4, unaligned bases: 51079
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 4687 out of 55766 non-N bases (8.40%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 55766 (number of Ns: 0) and total length of all aligns is 4687
+		Alignment: 946488 948044 | 1788 258 | 1557 1531 | 96.34 | chrXVI contig_70
+		Alignment: 946251 946323 | 2102 2030 | 73 73 | 95.89 | chrXVI contig_70
+		Alignment: 944354 946168 | 4102 2292 | 1815 1811 | 95.43 | chrXVI contig_70
+		Alignment: 705921 707164 | 45294 44023 | 1244 1272 | 95.6 | chrX contig_70
+		Unaligned bases: 51079
+
+CONTIG: contig_415 (27160bp)
+		This contig is unaligned. (27160 bp)
+		Unaligned bases: 27160 (number of Ns: 0)
+
+CONTIG: contig_130 (11372bp)
+		This contig is unaligned. (11372 bp)
+		Unaligned bases: 11372 (number of Ns: 0)
+
+CONTIG: contig_205 (21101bp)
+Best alignment score: 364.0 (LEN: 379, IDY: 96.04), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 364.0, number of alignments: 1, unaligned bases: 20722
+		This contig is partially unaligned. (Aligned 379 out of 21101 non-N bases (1.80%))
+		Alignment: 679474 679848 | 13243 12865 | 375 379 | 96.04 | chrVII contig_205
+		Unaligned bases: 1 to 12864 (12864)
+		Unaligned bases: 13244 to 21101 (7858)
+
+CONTIG: contig_428 (20325bp)
+		This contig is unaligned. (20325 bp)
+		Unaligned bases: 20325 (number of Ns: 0)
+
+CONTIG: contig_206 (33968bp)
+		This contig is unaligned. (33968 bp)
+		Unaligned bases: 33968 (number of Ns: 0)
+
+CONTIG: contig_164 (24409bp)
+		This contig is unaligned. (24409 bp)
+		Unaligned bases: 24409 (number of Ns: 0)
+
+CONTIG: contig_7 (26857bp)
+Best alignment score: 2544.7 (LEN: 2673, IDY: 95.20), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 2544.7, number of alignments: 1, unaligned bases: 24184
+		This contig is partially unaligned. (Aligned 2673 out of 26857 non-N bases (9.95%))
+		Alignment: 242220 244860 | 15285 17957 | 2641 2673 | 95.2 | chrIX contig_7
+		Unaligned bases: 1 to 15284 (15284)
+		Unaligned bases: 17958 to 26857 (8900)
+
+CONTIG: contig_224 (18874bp)
+		This contig is unaligned. (18874 bp)
+		Unaligned bases: 18874 (number of Ns: 0)
+
+CONTIG: contig_167 (28001bp)
+		This contig is unaligned. (28001 bp)
+		Unaligned bases: 28001 (number of Ns: 0)
+
+CONTIG: contig_345 (17066bp)
+		This contig is unaligned. (17066 bp)
+		Unaligned bases: 17066 (number of Ns: 0)
+
+CONTIG: contig_356 (7591bp)
+		This contig is unaligned. (7591 bp)
+		Unaligned bases: 7591 (number of Ns: 0)
+
+CONTIG: contig_370 (37085bp)
+		This contig is unaligned. (37085 bp)
+		Unaligned bases: 37085 (number of Ns: 0)
+
+CONTIG: contig_61 (22494bp)
+		This contig is unaligned. (22494 bp)
+		Unaligned bases: 22494 (number of Ns: 0)
+
+CONTIG: contig_179 (11481bp)
+		This contig is unaligned. (11481 bp)
+		Unaligned bases: 11481 (number of Ns: 0)
+
+CONTIG: contig_57 (71996bp)
+Best alignment score: 823.8 (LEN: 865, IDY: 95.24), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 823.8, number of alignments: 1, unaligned bases: 71131
+		This contig is partially unaligned. (Aligned 865 out of 71996 non-N bases (1.20%))
+		Alignment: 989025 989907 | 40530 41394 | 883 865 | 95.24 | chrVII contig_57
+		Unaligned bases: 1 to 40529 (40529)
+		Unaligned bases: 41395 to 71996 (30602)
+
+CONTIG: contig_233 (23857bp)
+		This contig is unaligned. (23857 bp)
+		Unaligned bases: 23857 (number of Ns: 0)
+
+CONTIG: contig_262 (16752bp)
+Best alignment score: 1143.9 (LEN: 1190, IDY: 96.13), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 1328.9, number of alignments: 2, unaligned bases: 15369
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1383 out of 16752 non-N bases (8.26%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 16752 (number of Ns: 0) and total length of all aligns is 1383
+		Alignment: 606921 607110 | 746 554 | 190 193 | 95.85 | chrXII contig_262
+		Alignment: 599066 600246 | 8598 7409 | 1181 1190 | 96.13 | chrXII contig_262
+		Unaligned bases: 15369
+
+CONTIG: contig_83 (9841bp)
+		This contig is unaligned. (9841 bp)
+		Unaligned bases: 9841 (number of Ns: 0)
+
+CONTIG: contig_197 (42509bp)
+		This contig is unaligned. (42509 bp)
+		Unaligned bases: 42509 (number of Ns: 0)
+
+CONTIG: contig_51 (29385bp)
+Best alignment score: 333.0 (LEN: 347, IDY: 95.97), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 405228 405408 | 22579 22400 | 181 180 | 95.03 | chrVII contig_51
+		Skipping redundant alignment 735981 736302 | 22348 22670 | 322 323 | 95.67 | chrVII contig_51
+		Skipping redundant alignment 492439 492695 | 22693 22433 | 257 261 | 95.02 | chrV contig_51
+		Skipping redundant alignment 712206 712545 | 22349 22693 | 340 345 | 95.94 | chrVII contig_51
+		Skipping redundant alignment 205220 205559 | 22349 22693 | 340 345 | 95.94 | chrIX contig_51
+		Skipping redundant alignment 707195 707534 | 22349 22693 | 340 345 | 95.94 | chrVII contig_51
+		Skipping redundant alignment 210308 210647 | 22349 22693 | 340 345 | 95.94 | chrIX contig_51
+		Skipping redundant alignment 202644 202983 | 22693 22349 | 340 345 | 95.94 | chrXI contig_51
+		Skipping redundant alignment 856555 856886 | 22359 22694 | 332 336 | 95.24 | chrXVI contig_51
+		Skipping redundant alignment 546738 547078 | 22349 22694 | 341 346 | 96.24 | chrXIV contig_51
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 333.0, number of alignments: 1, unaligned bases: 29038
+		This contig is partially unaligned. (Aligned 347 out of 29385 non-N bases (1.18%))
+		Alignment: 182618 182959 | 22347 22693 | 342 347 | 95.97 | chrI contig_51
+		Unaligned bases: 1 to 22346 (22346)
+		Unaligned bases: 22694 to 29385 (6692)
+
+CONTIG: contig_191 (29284bp)
+		This contig is unaligned. (29284 bp)
+		Unaligned bases: 29284 (number of Ns: 0)
+
+CONTIG: contig_223 (12314bp)
+		This contig is unaligned. (12314 bp)
+		Unaligned bases: 12314 (number of Ns: 0)
+
+CONTIG: contig_207 (34846bp)
+		This contig is unaligned. (34846 bp)
+		Unaligned bases: 34846 (number of Ns: 0)
+
+CONTIG: contig_27 (23835bp)
+		This contig is unaligned. (23835 bp)
+		Unaligned bases: 23835 (number of Ns: 0)
+
+CONTIG: contig_1 (23530bp)
+		This contig is unaligned. (23530 bp)
+		Unaligned bases: 23530 (number of Ns: 0)
+
+CONTIG: contig_157 (17008bp)
+		This contig is unaligned. (17008 bp)
+		Unaligned bases: 17008 (number of Ns: 0)
+
+CONTIG: contig_246 (28965bp)
+		This contig is unaligned. (28965 bp)
+		Unaligned bases: 28965 (number of Ns: 0)
+
+CONTIG: contig_248 (12609bp)
+		This contig is unaligned. (12609 bp)
+		Unaligned bases: 12609 (number of Ns: 0)
+
+CONTIG: contig_9 (64627bp)
+		This contig is unaligned. (64627 bp)
+		Unaligned bases: 64627 (number of Ns: 0)
+
+CONTIG: contig_309 (29594bp)
+		This contig is unaligned. (29594 bp)
+		Unaligned bases: 29594 (number of Ns: 0)
+
+CONTIG: contig_307 (15892bp)
+		This contig is unaligned. (15892 bp)
+		Unaligned bases: 15892 (number of Ns: 0)
+
+CONTIG: contig_339 (13355bp)
+		This contig is unaligned. (13355 bp)
+		Unaligned bases: 13355 (number of Ns: 0)
+
+CONTIG: contig_91 (17569bp)
+		This contig is unaligned. (17569 bp)
+		Unaligned bases: 17569 (number of Ns: 0)
+
+CONTIG: contig_250 (17795bp)
+		This contig is unaligned. (17795 bp)
+		Unaligned bases: 17795 (number of Ns: 0)
+
+CONTIG: contig_265 (33327bp)
+		This contig is unaligned. (33327 bp)
+		Unaligned bases: 33327 (number of Ns: 0)
+
+CONTIG: contig_19 (30024bp)
+Best alignment score: 360.0 (LEN: 368, IDY: 97.83), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 360.0, number of alignments: 1, unaligned bases: 29656
+		This contig is partially unaligned. (Aligned 368 out of 30024 non-N bases (1.23%))
+		Alignment: 79664 80025 | 20526 20893 | 362 368 | 97.83 | chrI contig_19
+		Unaligned bases: 1 to 20525 (20525)
+		Unaligned bases: 20894 to 30024 (9131)
+
+CONTIG: contig_337 (10767bp)
+		This contig is unaligned. (10767 bp)
+		Unaligned bases: 10767 (number of Ns: 0)
+
+CONTIG: contig_100 (24225bp)
+		This contig is unaligned. (24225 bp)
+		Unaligned bases: 24225 (number of Ns: 0)
+
+CONTIG: contig_411 (15674bp)
+Best alignment score: 7770.0 (LEN: 8160, IDY: 95.22), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 7770.0, number of alignments: 1, unaligned bases: 7514
+		This contig is partially unaligned. (Aligned 8160 out of 15674 non-N bases (52.06%))
+		Alignment: 893866 901908 | 15553 7394 | 8043 8160 | 95.22 | chrXVI contig_411
+		Unaligned bases: 1 to 7393 (7393)
+		Unaligned bases: 15554 to 15674 (121)
+
+CONTIG: contig_215 (19236bp)
+		This contig is unaligned. (19236 bp)
+		Unaligned bases: 19236 (number of Ns: 0)
+
+CONTIG: contig_276 (12045bp)
+Best alignment score: 97.0 (LEN: 98, IDY: 98.98), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 168391 168485 | 5357 5263 | 95 95 | 97.89 | chrIII contig_276
+		Skipping redundant alignment 498422 498510 | 5271 5359 | 89 89 | 100.0 | chrV contig_276
+		Skipping redundant alignment 946199 946295 | 5263 5359 | 97 97 | 100.0 | chrIV contig_276
+		Skipping redundant alignment 146575 146671 | 5263 5359 | 97 97 | 100.0 | chrVIII contig_276
+		Skipping redundant alignment 373999 374095 | 5359 5263 | 97 97 | 100.0 | chrXII contig_276
+		Skipping redundant alignment 735982 736078 | 5359 5263 | 97 97 | 100.0 | chrVII contig_276
+		Skipping redundant alignment 434875 434971 | 5263 5359 | 97 97 | 100.0 | chrV contig_276
+		Skipping redundant alignment 250174 250270 | 5263 5359 | 97 97 | 98.97 | chrV contig_276
+		Skipping redundant alignment 319666 319762 | 5263 5359 | 97 97 | 98.97 | chrVII contig_276
+		Skipping redundant alignment 197714 197810 | 5359 5263 | 97 97 | 98.97 | chrII contig_276
+		Skipping redundant alignment 668096 668192 | 5359 5263 | 97 97 | 98.97 | chrIV contig_276
+		Skipping redundant alignment 651420 651504 | 5276 5360 | 85 85 | 98.82 | chrIV contig_276
+		Skipping redundant alignment 880385 880482 | 5360 5263 | 98 98 | 96.94 | chrXVI contig_276
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 97.0, number of alignments: 1, unaligned bases: 11947
+		This contig is partially unaligned. (Aligned 98 out of 12045 non-N bases (0.81%))
+		Alignment: 1023136 1023233 | 5360 5263 | 98 98 | 98.98 | chrIV contig_276
+		Unaligned bases: 1 to 5262 (5262)
+		Unaligned bases: 5361 to 12045 (6685)
+
+CONTIG: contig_331 (5329bp)
+		This contig is unaligned. (5329 bp)
+		Unaligned bases: 5329 (number of Ns: 0)
+
+CONTIG: contig_341 (15560bp)
+		This contig is unaligned. (15560 bp)
+		Unaligned bases: 15560 (number of Ns: 0)
+
+CONTIG: contig_77 (39291bp)
+		This contig is unaligned. (39291 bp)
+		Unaligned bases: 39291 (number of Ns: 0)
+
+CONTIG: contig_137 (22837bp)
+		This contig is unaligned. (22837 bp)
+		Unaligned bases: 22837 (number of Ns: 0)
+
+CONTIG: contig_342 (19350bp)
+		This contig is unaligned. (19350 bp)
+		Unaligned bases: 19350 (number of Ns: 0)
+
+CONTIG: contig_81 (38999bp)
+Best alignment score: 2201.9 (LEN: 2282, IDY: 96.49), Total number of alignments: 9
+			Looking for the best set of alignments (out of 9 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1089436 1090995 | 2110 548 | 1560 1563 | 96.1 | chrXV contig_81
+		Skipping redundant alignment 1530284 1531843 | 2110 548 | 1560 1563 | 96.1 | chrIV contig_81
+		Skipping redundant alignment 1076471 1078030 | 2110 548 | 1560 1563 | 96.1 | chrXII contig_81
+		Skipping redundant alignment 1069808 1071367 | 2110 548 | 1560 1563 | 96.1 | chrXII contig_81
+		Skipping redundant alignment 575101 576657 | 2110 548 | 1557 1563 | 96.03 | chrV contig_81
+		Skipping redundant alignment 1089167 1090723 | 2110 548 | 1557 1563 | 96.03 | chrVII contig_81
+		Skipping redundant alignment 908351 908414 | 34777 34713 | 64 65 | 98.46 | chrXIII contig_81
+			The best set is below. Score: 3686.9, number of alignments: 2, unaligned bases: 35174
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 3825 out of 38999 non-N bases (9.81%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 38999 (number of Ns: 0) and total length of all aligns is 3825
+		Alignment: 148 1684 | 548 2090 | 1537 1543 | 96.24 | chrXVI contig_81
+		Alignment: 13221 15494 | 13646 15927 | 2274 2282 | 96.49 | chrXVI contig_81
+		Unaligned bases: 35174
+
+CONTIG: contig_60 (58763bp)
+		This contig is unaligned. (58763 bp)
+		Unaligned bases: 58763 (number of Ns: 0)
+
+CONTIG: contig_254 (26293bp)
+		This contig is unaligned. (26293 bp)
+		Unaligned bases: 26293 (number of Ns: 0)
+
+CONTIG: contig_385 (20375bp)
+		This contig is unaligned. (20375 bp)
+		Unaligned bases: 20375 (number of Ns: 0)
+
+CONTIG: contig_187 (13131bp)
+		This contig is unaligned. (13131 bp)
+		Unaligned bases: 13131 (number of Ns: 0)
+
+CONTIG: contig_382 (20528bp)
+		This contig is unaligned. (20528 bp)
+		Unaligned bases: 20528 (number of Ns: 0)
+
+CONTIG: contig_236 (14966bp)
+		This contig is unaligned. (14966 bp)
+		Unaligned bases: 14966 (number of Ns: 0)
+
+CONTIG: contig_189 (33711bp)
+		This contig is unaligned. (33711 bp)
+		Unaligned bases: 33711 (number of Ns: 0)
+
+CONTIG: contig_299 (17854bp)
+		This contig is unaligned. (17854 bp)
+		Unaligned bases: 17854 (number of Ns: 0)
+
+CONTIG: contig_324 (11626bp)
+Best alignment score: 5146.3 (LEN: 5408, IDY: 95.16), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 7775.3, number of alignments: 2, unaligned bases: 3519
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 8107 out of 11626 non-N bases (69.73%))
+			Real Alignment 1: 890028 892698 | 3506 6204 | 2671 2699 | 97.41 | chrIV contig_324
+			  Indel (> 5bp) between these two alignments: deletion of length 27; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 892726 898016 | 6205 11612 | 5291 5408 | 95.16 | chrIV contig_324
+		Unaligned bases: 3519
+
+CONTIG: contig_419 (21602bp)
+Best alignment score: 4948.0 (LEN: 5185, IDY: 95.43), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 4948.0, number of alignments: 1, unaligned bases: 16417
+		This contig is partially unaligned. (Aligned 5185 out of 21602 non-N bases (24.00%))
+		Alignment: 643789 648892 | 1208 6392 | 5104 5185 | 95.43 | chrX contig_419
+		Unaligned bases: 1 to 1207 (1207)
+		Unaligned bases: 6393 to 21602 (15210)
+
+CONTIG: contig_272 (35147bp)
+		This contig is unaligned. (35147 bp)
+		Unaligned bases: 35147 (number of Ns: 0)
+
+CONTIG: contig_210 (10630bp)
+		This contig is unaligned. (10630 bp)
+		Unaligned bases: 10630 (number of Ns: 0)
+
+CONTIG: contig_200 (10728bp)
+		This contig is unaligned. (10728 bp)
+		Unaligned bases: 10728 (number of Ns: 0)
+
+CONTIG: contig_317 (7480bp)
+		This contig is unaligned. (7480 bp)
+		Unaligned bases: 7480 (number of Ns: 0)
+
+CONTIG: contig_104 (52535bp)
+		This contig is unaligned. (52535 bp)
+		Unaligned bases: 52535 (number of Ns: 0)
+
+CONTIG: contig_30 (42352bp)
+Best alignment score: 5635.2 (LEN: 5897, IDY: 95.56), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 6382.2, number of alignments: 2, unaligned bases: 35648
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 6704 out of 42352 non-N bases (15.83%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 42352 (number of Ns: 0) and total length of all aligns is 6704
+		Alignment: 269172 269959 | 34315 33509 | 788 807 | 95.54 | chrIII contig_30
+		Alignment: 263036 268845 | 40212 34316 | 5810 5897 | 95.56 | chrIII contig_30
+		Unaligned bases: 35648
+
+CONTIG: contig_217 (27130bp)
+Best alignment score: 907.0 (LEN: 952, IDY: 95.27), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 907.0, number of alignments: 1, unaligned bases: 26178
+		This contig is partially unaligned. (Aligned 952 out of 27130 non-N bases (3.51%))
+		Alignment: 364839 365760 | 1101 150 | 922 952 | 95.27 | chrXIV contig_217
+		Unaligned bases: 1 to 149 (149)
+		Unaligned bases: 1102 to 27130 (26029)
+
+CONTIG: contig_298 (30658bp)
+		This contig is unaligned. (30658 bp)
+		Unaligned bases: 30658 (number of Ns: 0)
+
+CONTIG: contig_135 (29180bp)
+		This contig is unaligned. (29180 bp)
+		Unaligned bases: 29180 (number of Ns: 0)
+
+CONTIG: contig_380 (44681bp)
+Best alignment score: 729.6 (LEN: 767, IDY: 95.12), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 729.6, number of alignments: 1, unaligned bases: 43914
+		This contig is partially unaligned. (Aligned 767 out of 44681 non-N bases (1.72%))
+		Alignment: 218639 219412 | 9474 8708 | 774 767 | 95.12 | chrI contig_380
+		Unaligned bases: 1 to 8707 (8707)
+		Unaligned bases: 9475 to 44681 (35207)
+
+CONTIG: contig_391 (12202bp)
+		This contig is unaligned. (12202 bp)
+		Unaligned bases: 12202 (number of Ns: 0)
+
+CONTIG: contig_280 (32114bp)
+Best alignment score: 3048.9 (LEN: 3203, IDY: 95.19), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 3048.9, number of alignments: 1, unaligned bases: 28911
+		This contig is partially unaligned. (Aligned 3203 out of 32114 non-N bases (9.97%))
+		Alignment: 732921 736054 | 25635 22433 | 3134 3203 | 95.19 | chrVII contig_280
+		Unaligned bases: 1 to 22432 (22432)
+		Unaligned bases: 25636 to 32114 (6479)
+
+CONTIG: contig_308 (24873bp)
+		This contig is unaligned. (24873 bp)
+		Unaligned bases: 24873 (number of Ns: 0)
+
+CONTIG: contig_208 (18128bp)
+		This contig is unaligned. (18128 bp)
+		Unaligned bases: 18128 (number of Ns: 0)
+
+CONTIG: contig_340 (13532bp)
+		This contig is unaligned. (13532 bp)
+		Unaligned bases: 13532 (number of Ns: 0)
+
+CONTIG: contig_48 (10049bp)
+		This contig is unaligned. (10049 bp)
+		Unaligned bases: 10049 (number of Ns: 0)
+
+CONTIG: contig_273 (27708bp)
+		This contig is unaligned. (27708 bp)
+		Unaligned bases: 27708 (number of Ns: 0)
+
+CONTIG: contig_235 (6659bp)
+		This contig is unaligned. (6659 bp)
+		Unaligned bases: 6659 (number of Ns: 0)
+
+CONTIG: contig_384 (11688bp)
+		This contig is unaligned. (11688 bp)
+		Unaligned bases: 11688 (number of Ns: 0)
+
+CONTIG: contig_228 (39580bp)
+		This contig is unaligned. (39580 bp)
+		Unaligned bases: 39580 (number of Ns: 0)
+
+CONTIG: contig_158 (6213bp)
+		This contig is unaligned. (6213 bp)
+		Unaligned bases: 6213 (number of Ns: 0)
+
+CONTIG: contig_336 (12146bp)
+		This contig is unaligned. (12146 bp)
+		Unaligned bases: 12146 (number of Ns: 0)
+
+CONTIG: contig_395 (26656bp)
+		This contig is unaligned. (26656 bp)
+		Unaligned bases: 26656 (number of Ns: 0)
+
+CONTIG: contig_149 (19494bp)
+		This contig is unaligned. (19494 bp)
+		Unaligned bases: 19494 (number of Ns: 0)
+
+CONTIG: contig_343 (6213bp)
+		This contig is unaligned. (6213 bp)
+		Unaligned bases: 6213 (number of Ns: 0)
+
+CONTIG: contig_313 (13238bp)
+		This contig is unaligned. (13238 bp)
+		Unaligned bases: 13238 (number of Ns: 0)
+
+CONTIG: contig_421 (14000bp)
+		This contig is unaligned. (14000 bp)
+		Unaligned bases: 14000 (number of Ns: 0)
+
+CONTIG: contig_425 (79904bp)
+Best alignment score: 3724.1 (LEN: 3902, IDY: 95.44), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 3724.1, number of alignments: 1, unaligned bases: 76002
+		This contig is partially unaligned. (Aligned 3902 out of 79904 non-N bases (4.88%))
+		Alignment: 164282 168105 | 49350 45449 | 3824 3902 | 95.44 | chrIV contig_425
+		Unaligned bases: 1 to 45448 (45448)
+		Unaligned bases: 49351 to 79904 (30554)
+
+CONTIG: contig_156 (36108bp)
+		This contig is unaligned. (36108 bp)
+		Unaligned bases: 36108 (number of Ns: 0)
+
+CONTIG: contig_97 (37620bp)
+		This contig is unaligned. (37620 bp)
+		Unaligned bases: 37620 (number of Ns: 0)
+
+CONTIG: contig_124 (30278bp)
+		This contig is unaligned. (30278 bp)
+		Unaligned bases: 30278 (number of Ns: 0)
+
+CONTIG: contig_89 (21798bp)
+		This contig is unaligned. (21798 bp)
+		Unaligned bases: 21798 (number of Ns: 0)
+
+CONTIG: contig_386 (13315bp)
+		This contig is unaligned. (13315 bp)
+		Unaligned bases: 13315 (number of Ns: 0)
+
+CONTIG: contig_393 (10188bp)
+		This contig is unaligned. (10188 bp)
+		Unaligned bases: 10188 (number of Ns: 0)
+
+CONTIG: contig_32 (33303bp)
+Best alignment score: 5059.2 (LEN: 5281, IDY: 95.80), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 6834.2, number of alignments: 2, unaligned bases: 26186
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 7117 out of 33303 non-N bases (21.37%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 33303 (number of Ns: 0) and total length of all aligns is 7117
+		Alignment: 146194 151419 | 7733 13013 | 5226 5281 | 95.8 | chrVII contig_32
+		Alignment: 154293 156105 | 15939 17774 | 1813 1836 | 96.68 | chrVII contig_32
+		Unaligned bases: 26186
+
+CONTIG: contig_418 (18864bp)
+		This contig is unaligned. (18864 bp)
+		Unaligned bases: 18864 (number of Ns: 0)
+
+CONTIG: contig_258 (24910bp)
+		This contig is unaligned. (24910 bp)
+		Unaligned bases: 24910 (number of Ns: 0)
+
+CONTIG: contig_121 (25152bp)
+		This contig is unaligned. (25152 bp)
+		Unaligned bases: 25152 (number of Ns: 0)
+
+CONTIG: contig_251 (12158bp)
+		This contig is unaligned. (12158 bp)
+		Unaligned bases: 12158 (number of Ns: 0)
+
+CONTIG: contig_3 (18018bp)
+		This contig is unaligned. (18018 bp)
+		Unaligned bases: 18018 (number of Ns: 0)
+
+CONTIG: contig_319 (59917bp)
+		This contig is unaligned. (59917 bp)
+		Unaligned bases: 59917 (number of Ns: 0)
+
+CONTIG: contig_423 (12354bp)
+		This contig is unaligned. (12354 bp)
+		Unaligned bases: 12354 (number of Ns: 0)
+
+CONTIG: contig_306 (8031bp)
+		This contig is unaligned. (8031 bp)
+		Unaligned bases: 8031 (number of Ns: 0)
+
+CONTIG: contig_409 (9565bp)
+		This contig is unaligned. (9565 bp)
+		Unaligned bases: 9565 (number of Ns: 0)
+
+CONTIG: contig_390 (13808bp)
+		This contig is unaligned. (13808 bp)
+		Unaligned bases: 13808 (number of Ns: 0)
+
+CONTIG: contig_218 (24201bp)
+Best alignment score: 5213.8 (LEN: 5475, IDY: 95.23), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 5213.8, number of alignments: 1, unaligned bases: 18726
+		This contig is partially unaligned. (Aligned 5475 out of 24201 non-N bases (22.62%))
+		Alignment: 184809 190169 | 9174 3700 | 5361 5475 | 95.23 | chrVI contig_218
+		Unaligned bases: 1 to 3699 (3699)
+		Unaligned bases: 9175 to 24201 (15027)
+
+CONTIG: contig_213 (12225bp)
+		This contig is unaligned. (12225 bp)
+		Unaligned bases: 12225 (number of Ns: 0)
+
+CONTIG: contig_329 (9550bp)
+		This contig is unaligned. (9550 bp)
+		Unaligned bases: 9550 (number of Ns: 0)
+
+CONTIG: contig_2 (16395bp)
+		This contig is unaligned. (16395 bp)
+		Unaligned bases: 16395 (number of Ns: 0)
+
+CONTIG: contig_143 (28645bp)
+		This contig is unaligned. (28645 bp)
+		Unaligned bases: 28645 (number of Ns: 0)
+
+CONTIG: contig_134 (39321bp)
+Best alignment score: 766.0 (LEN: 800, IDY: 95.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 766.0, number of alignments: 1, unaligned bases: 38521
+		This contig is partially unaligned. (Aligned 800 out of 39321 non-N bases (2.03%))
+		Alignment: 50477 51275 | 31278 30479 | 799 800 | 95.75 | chrV contig_134
+		Unaligned bases: 1 to 30478 (30478)
+		Unaligned bases: 31279 to 39321 (8043)
+
+CONTIG: contig_14 (39051bp)
+		This contig is unaligned. (39051 bp)
+		Unaligned bases: 39051 (number of Ns: 0)
+
+CONTIG: contig_377 (8487bp)
+		This contig is unaligned. (8487 bp)
+		Unaligned bases: 8487 (number of Ns: 0)
+
+CONTIG: contig_219 (12528bp)
+		This contig is unaligned. (12528 bp)
+		Unaligned bases: 12528 (number of Ns: 0)
+
+CONTIG: contig_133 (24015bp)
+Best alignment score: 4090.2 (LEN: 4278, IDY: 95.61), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 4564.2, number of alignments: 2, unaligned bases: 19242
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 4773 out of 24015 non-N bases (19.88%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 24015 (number of Ns: 0) and total length of all aligns is 4773
+		Alignment: 387168 387660 | 9312 8818 | 493 495 | 95.76 | chrIX contig_133
+		Alignment: 382937 387143 | 13590 9313 | 4207 4278 | 95.61 | chrIX contig_133
+		Unaligned bases: 19242
+
+CONTIG: contig_420 (24905bp)
+		This contig is unaligned. (24905 bp)
+		Unaligned bases: 24905 (number of Ns: 0)
+
+CONTIG: contig_180 (19814bp)
+		This contig is unaligned. (19814 bp)
+		Unaligned bases: 19814 (number of Ns: 0)
+
+CONTIG: contig_220 (22476bp)
+		This contig is unaligned. (22476 bp)
+		Unaligned bases: 22476 (number of Ns: 0)
+
+CONTIG: contig_239 (23420bp)
+		This contig is unaligned. (23420 bp)
+		Unaligned bases: 23420 (number of Ns: 0)
+
+CONTIG: contig_44 (50903bp)
+		This contig is unaligned. (50903 bp)
+		Unaligned bases: 50903 (number of Ns: 0)
+
+CONTIG: contig_259 (23938bp)
+Best alignment score: 83.1 (LEN: 86, IDY: 96.63), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 83.1, number of alignments: 1, unaligned bases: 23852
+		This contig is partially unaligned. (Aligned 86 out of 23938 non-N bases (0.36%))
+		Alignment: 132366 132454 | 6335 6420 | 89 86 | 96.63 | chrXII contig_259
+		Unaligned bases: 1 to 6334 (6334)
+		Unaligned bases: 6421 to 23938 (17518)
+
+CONTIG: contig_321 (26941bp)
+Best alignment score: 4466.3 (LEN: 4692, IDY: 95.19), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 548773 549637 | 5240 6098 | 865 859 | 95.72 | chrVIII contig_321
+		Skipping redundant alignment 818704 823306 | 1497 6098 | 4603 4602 | 95.5 | chrVII contig_321
+		Skipping redundant alignment 259578 264183 | 6098 1497 | 4606 4602 | 95.2 | chrII contig_321
+		Skipping redundant alignment 216312 221005 | 1409 6098 | 4694 4690 | 95.14 | chrXII contig_321
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 4561.4, number of alignments: 2, unaligned bases: 21891
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 5050 out of 26941 non-N bases (18.74%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 26941 (number of Ns: 0) and total length of all aligns is 5050
+		Alignment: 493728 498423 | 1409 6100 | 4696 4692 | 95.19 | chrV contig_321
+		Alignment: 426313 426668 | 26549 26906 | 356 358 | 96.68 | chrII contig_321
+		Unaligned bases: 21891
+
+CONTIG: contig_62 (29511bp)
+		This contig is unaligned. (29511 bp)
+		Unaligned bases: 29511 (number of Ns: 0)
+
+CONTIG: contig_168 (10176bp)
+		This contig is unaligned. (10176 bp)
+		Unaligned bases: 10176 (number of Ns: 0)
+
+CONTIG: contig_352 (17732bp)
+		This contig is unaligned. (17732 bp)
+		Unaligned bases: 17732 (number of Ns: 0)
+
+CONTIG: contig_178 (22268bp)
+		This contig is unaligned. (22268 bp)
+		Unaligned bases: 22268 (number of Ns: 0)
+
+CONTIG: contig_282 (21050bp)
+		This contig is unaligned. (21050 bp)
+		Unaligned bases: 21050 (number of Ns: 0)
+
+CONTIG: contig_80 (31718bp)
+		This contig is unaligned. (31718 bp)
+		Unaligned bases: 31718 (number of Ns: 0)
+
+CONTIG: contig_232 (26295bp)
+		This contig is unaligned. (26295 bp)
+		Unaligned bases: 26295 (number of Ns: 0)
+
+CONTIG: contig_363 (24829bp)
+		This contig is unaligned. (24829 bp)
+		Unaligned bases: 24829 (number of Ns: 0)
+
+CONTIG: contig_67 (75713bp)
+		This contig is unaligned. (75713 bp)
+		Unaligned bases: 75713 (number of Ns: 0)
+
+CONTIG: contig_290 (18860bp)
+		This contig is unaligned. (18860 bp)
+		Unaligned bases: 18860 (number of Ns: 0)
+
+CONTIG: contig_4 (36976bp)
+		This contig is unaligned. (36976 bp)
+		Unaligned bases: 36976 (number of Ns: 0)
+
+CONTIG: contig_230 (12759bp)
+		This contig is unaligned. (12759 bp)
+		Unaligned bases: 12759 (number of Ns: 0)
+
+CONTIG: contig_79 (20274bp)
+		This contig is unaligned. (20274 bp)
+		Unaligned bases: 20274 (number of Ns: 0)
+
+CONTIG: contig_204 (58377bp)
+		This contig is unaligned. (58377 bp)
+		Unaligned bases: 58377 (number of Ns: 0)
+
+CONTIG: contig_304 (22299bp)
+		This contig is unaligned. (22299 bp)
+		Unaligned bases: 22299 (number of Ns: 0)
+
+CONTIG: contig_90 (11433bp)
+		This contig is unaligned. (11433 bp)
+		Unaligned bases: 11433 (number of Ns: 0)
+
+CONTIG: contig_271 (13729bp)
+		This contig is unaligned. (13729 bp)
+		Unaligned bases: 13729 (number of Ns: 0)
+
+CONTIG: contig_410 (16297bp)
+		This contig is unaligned. (16297 bp)
+		Unaligned bases: 16297 (number of Ns: 0)
+
+CONTIG: contig_426 (50922bp)
+Best alignment score: 187.0 (LEN: 195, IDY: 95.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 187.0, number of alignments: 1, unaligned bases: 50727
+		This contig is partially unaligned. (Aligned 195 out of 50922 non-N bases (0.38%))
+		Alignment: 323483 323677 | 20928 21122 | 195 195 | 95.9 | chrIV contig_426
+		Unaligned bases: 1 to 20927 (20927)
+		Unaligned bases: 21123 to 50922 (29800)
+
+CONTIG: contig_115 (8007bp)
+		This contig is unaligned. (8007 bp)
+		Unaligned bases: 8007 (number of Ns: 0)
+
+CONTIG: contig_181 (17237bp)
+		This contig is unaligned. (17237 bp)
+		Unaligned bases: 17237 (number of Ns: 0)
+
+CONTIG: contig_278 (12437bp)
+Best alignment score: 144.1 (LEN: 150, IDY: 96.05), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 144.1, number of alignments: 1, unaligned bases: 12287
+		This contig is partially unaligned. (Aligned 150 out of 12437 non-N bases (1.21%))
+		Alignment: 161307 161458 | 8405 8256 | 152 150 | 96.05 | chrX contig_278
+		Unaligned bases: 1 to 8255 (8255)
+		Unaligned bases: 8406 to 12437 (4032)
+
+CONTIG: contig_72 (22595bp)
+		This contig is unaligned. (22595 bp)
+		Unaligned bases: 22595 (number of Ns: 0)
+
+CONTIG: contig_221 (25085bp)
+		This contig is unaligned. (25085 bp)
+		Unaligned bases: 25085 (number of Ns: 0)
+
+CONTIG: contig_113 (39161bp)
+		This contig is unaligned. (39161 bp)
+		Unaligned bases: 39161 (number of Ns: 0)
+
+CONTIG: contig_311 (17442bp)
+		This contig is unaligned. (17442 bp)
+		Unaligned bases: 17442 (number of Ns: 0)
+
+CONTIG: contig_55 (25257bp)
+		This contig is unaligned. (25257 bp)
+		Unaligned bases: 25257 (number of Ns: 0)
+
+CONTIG: contig_165 (22786bp)
+		This contig is unaligned. (22786 bp)
+		Unaligned bases: 22786 (number of Ns: 0)
+
+CONTIG: contig_63 (38667bp)
+		This contig is unaligned. (38667 bp)
+		Unaligned bases: 38667 (number of Ns: 0)
+
+CONTIG: contig_26 (53026bp)
+		This contig is unaligned. (53026 bp)
+		Unaligned bases: 53026 (number of Ns: 0)
+
+CONTIG: contig_366 (19927bp)
+		This contig is unaligned. (19927 bp)
+		Unaligned bases: 19927 (number of Ns: 0)
+
+CONTIG: contig_192 (39628bp)
+Best alignment score: 9577.9 (LEN: 10064, IDY: 95.17), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 9577.9, number of alignments: 1, unaligned bases: 29564
+		This contig is partially unaligned. (Aligned 10064 out of 39628 non-N bases (25.40%))
+		Alignment: 157267 167228 | 14369 24432 | 9962 10064 | 95.17 | chrIX contig_192
+		Unaligned bases: 1 to 14368 (14368)
+		Unaligned bases: 24433 to 39628 (15196)
+
+CONTIG: contig_288 (17932bp)
+		This contig is unaligned. (17932 bp)
+		Unaligned bases: 17932 (number of Ns: 0)
+
+CONTIG: contig_37 (4792bp)
+		This contig is unaligned. (4792 bp)
+		Unaligned bases: 4792 (number of Ns: 0)
+
+CONTIG: contig_193 (32820bp)
+		This contig is unaligned. (32820 bp)
+		Unaligned bases: 32820 (number of Ns: 0)
+
+CONTIG: contig_244 (23706bp)
+Best alignment score: 1001.0 (LEN: 1053, IDY: 95.06), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1001.0, number of alignments: 1, unaligned bases: 22653
+		This contig is partially unaligned. (Aligned 1053 out of 23706 non-N bases (4.44%))
+		Alignment: 29252 30290 | 17152 18204 | 1039 1053 | 95.06 | chrVII contig_244
+		Unaligned bases: 1 to 17151 (17151)
+		Unaligned bases: 18205 to 23706 (5502)
+
+CONTIG: contig_355 (16326bp)
+		This contig is unaligned. (16326 bp)
+		Unaligned bases: 16326 (number of Ns: 0)
+
+CONTIG: contig_31 (51627bp)
+		This contig is unaligned. (51627 bp)
+		Unaligned bases: 51627 (number of Ns: 0)
+
+CONTIG: contig_229 (40055bp)
+		This contig is unaligned. (40055 bp)
+		Unaligned bases: 40055 (number of Ns: 0)
+
+CONTIG: contig_325 (49592bp)
+Best alignment score: 2755.1 (LEN: 2887, IDY: 95.43), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 2755.1, number of alignments: 1, unaligned bases: 46705
+		This contig is partially unaligned. (Aligned 2887 out of 49592 non-N bases (5.82%))
+		Alignment: 6703 9572 | 42485 39599 | 2870 2887 | 95.43 | chrXIV contig_325
+		Unaligned bases: 1 to 39598 (39598)
+		Unaligned bases: 42486 to 49592 (7107)
+
+CONTIG: contig_18 (11940bp)
+		This contig is unaligned. (11940 bp)
+		Unaligned bases: 11940 (number of Ns: 0)
+
+CONTIG: contig_432 (18028bp)
+Best alignment score: 13337.2 (LEN: 13992, IDY: 95.32), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 15914.3, number of alignments: 2, unaligned bases: 829
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 17199 out of 18028 non-N bases (95.40%))
+			Excluding internal overlap of size 8345 between Alignment 1 and 2: 451418 463118 | 11552 1 | 11701 11552 --> 459793 463118 | 3207 1 | 3326 3207
+			Real Alignment 1: 459793 463118 | 3207 1 | 3326 3207 | 95.92 | chrXII contig_432
+			  Extensive misassembly (relocation, inconsistency = -9137) between these two alignments
+			Real Alignment 2: 454828 468929 | 17199 3208 | 14102 13992 | 95.32 | chrXII contig_432
+		Unaligned bases: 829
+
+CONTIG: contig_84 (21941bp)
+		This contig is unaligned. (21941 bp)
+		Unaligned bases: 21941 (number of Ns: 0)
+
+CONTIG: contig_333 (9862bp)
+Best alignment score: 574.4 (LEN: 603, IDY: 95.25), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 574.4, number of alignments: 1, unaligned bases: 9259
+		This contig is partially unaligned. (Aligned 603 out of 9862 non-N bases (6.11%))
+		Alignment: 874526 875135 | 9804 9202 | 610 603 | 95.25 | chrXV contig_333
+		Unaligned bases: 1 to 9201 (9201)
+		Unaligned bases: 9805 to 9862 (58)
+
+CONTIG: contig_196 (18056bp)
+		This contig is unaligned. (18056 bp)
+		Unaligned bases: 18056 (number of Ns: 0)
+
+CONTIG: contig_297 (13622bp)
+		This contig is unaligned. (13622 bp)
+		Unaligned bases: 13622 (number of Ns: 0)
+
+CONTIG: contig_49 (12412bp)
+		This contig is unaligned. (12412 bp)
+		Unaligned bases: 12412 (number of Ns: 0)
+
+CONTIG: contig_316 (14492bp)
+Best alignment score: 122.0 (LEN: 124, IDY: 98.39), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 122.0, number of alignments: 1, unaligned bases: 14368
+		This contig is partially unaligned. (Aligned 124 out of 14492 non-N bases (0.86%))
+		Alignment: 549637 549759 | 6641 6518 | 123 124 | 98.39 | chrVIII contig_316
+		Unaligned bases: 1 to 6517 (6517)
+		Unaligned bases: 6642 to 14492 (7851)
+
+CONTIG: contig_145 (29145bp)
+		This contig is unaligned. (29145 bp)
+		Unaligned bases: 29145 (number of Ns: 0)
+
+CONTIG: contig_264 (8864bp)
+		This contig is unaligned. (8864 bp)
+		Unaligned bases: 8864 (number of Ns: 0)
+
+CONTIG: contig_369 (14773bp)
+		This contig is unaligned. (14773 bp)
+		Unaligned bases: 14773 (number of Ns: 0)
+
+CONTIG: contig_120 (30341bp)
+		This contig is unaligned. (30341 bp)
+		Unaligned bases: 30341 (number of Ns: 0)
+
+CONTIG: contig_123 (28568bp)
+		This contig is unaligned. (28568 bp)
+		Unaligned bases: 28568 (number of Ns: 0)
+
+CONTIG: contig_231 (24811bp)
+		This contig is unaligned. (24811 bp)
+		Unaligned bases: 24811 (number of Ns: 0)
+
+CONTIG: contig_405 (7105bp)
+		This contig is unaligned. (7105 bp)
+		Unaligned bases: 7105 (number of Ns: 0)
+
+CONTIG: contig_253 (15148bp)
+Best alignment score: 3008.1 (LEN: 3141, IDY: 95.77), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 3008.1, number of alignments: 1, unaligned bases: 12007
+		This contig is partially unaligned. (Aligned 3141 out of 15148 non-N bases (20.74%))
+		Alignment: 368874 371978 | 3207 67 | 3105 3141 | 95.77 | chrXV contig_253
+		Unaligned bases: 1 to 66 (66)
+		Unaligned bases: 3208 to 15148 (11941)
+
+CONTIG: contig_256 (24954bp)
+		This contig is unaligned. (24954 bp)
+		Unaligned bases: 24954 (number of Ns: 0)
+
+CONTIG: contig_322 (15062bp)
+		This contig is unaligned. (15062 bp)
+		Unaligned bases: 15062 (number of Ns: 0)
+
+CONTIG: contig_234 (15223bp)
+		This contig is unaligned. (15223 bp)
+		Unaligned bases: 15223 (number of Ns: 0)
+
+CONTIG: contig_362 (8857bp)
+		This contig is unaligned. (8857 bp)
+		Unaligned bases: 8857 (number of Ns: 0)
+
+CONTIG: contig_45 (34926bp)
+Best alignment score: 1863.0 (LEN: 1959, IDY: 95.10), Total number of alignments: 21
+			Looking for the best set of alignments (out of 21 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1175328 1175621 | 13967 13670 | 294 298 | 95.3 | chrIV contig_45
+		Skipping redundant alignment 817413 817714 | 13664 13969 | 302 306 | 96.12 | chrVII contig_45
+		Skipping redundant alignment 594831 595132 | 13969 13664 | 302 306 | 96.12 | chrXV contig_45
+		Skipping redundant alignment 822995 823296 | 13664 13969 | 302 306 | 96.12 | chrVII contig_45
+		Skipping redundant alignment 600413 600714 | 13969 13664 | 302 306 | 96.12 | chrXV contig_45
+		Skipping redundant alignment 184180 184481 | 13969 13664 | 302 306 | 95.79 | chrXIII contig_45
+		Skipping redundant alignment 265173 265474 | 13969 13664 | 302 306 | 95.79 | chrII contig_45
+		Skipping redundant alignment 189762 190063 | 13969 13664 | 302 306 | 95.79 | chrXIII contig_45
+		Skipping redundant alignment 543630 543931 | 13664 13969 | 302 306 | 95.79 | chrVIII contig_45
+		Skipping redundant alignment 549326 549627 | 13664 13969 | 302 306 | 95.47 | chrVIII contig_45
+		Skipping redundant alignment 931698 932001 | 13969 13662 | 304 308 | 95.5 | chrVII contig_45
+		Skipping redundant alignment 221047 221361 | 13969 13653 | 315 317 | 95.96 | chrII contig_45
+		Skipping redundant alignment 535221 535538 | 13969 13648 | 318 322 | 96.62 | chrVII contig_45
+		Skipping redundant alignment 362587 362908 | 13644 13969 | 322 326 | 96.66 | chrXIII contig_45
+		Skipping redundant alignment 226631 226952 | 13969 13644 | 322 326 | 96.66 | chrII contig_45
+		Skipping redundant alignment 102192 102513 | 13644 13969 | 322 326 | 95.74 | chrXIV contig_45
+		Skipping redundant alignment 517452 517774 | 13643 13969 | 323 327 | 96.67 | chrXI contig_45
+		Skipping redundant alignment 458139 458461 | 13643 13969 | 323 327 | 95.41 | chrXI contig_45
+		Skipping redundant alignment 96606 96931 | 13640 13969 | 326 330 | 95.8 | chrXIV contig_45
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 1929.1, number of alignments: 2, unaligned bases: 32639
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 2287 out of 34926 non-N bases (6.55%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 34926 (number of Ns: 0) and total length of all aligns is 2287
+		Alignment: 793757 795688 | 13639 11681 | 1932 1959 | 95.1 | chrXII contig_45
+		Alignment: 357003 357326 | 13642 13969 | 324 328 | 96.68 | chrXIII contig_45
+		Unaligned bases: 32639
+
+CONTIG: contig_416 (26967bp)
+		This contig is unaligned. (26967 bp)
+		Unaligned bases: 26967 (number of Ns: 0)
+
+CONTIG: contig_300 (28271bp)
+		This contig is unaligned. (28271 bp)
+		Unaligned bases: 28271 (number of Ns: 0)
+
+CONTIG: contig_132 (16666bp)
+		This contig is unaligned. (16666 bp)
+		Unaligned bases: 16666 (number of Ns: 0)
+
+CONTIG: contig_53 (27871bp)
+		This contig is unaligned. (27871 bp)
+		Unaligned bases: 27871 (number of Ns: 0)
+
+CONTIG: contig_383 (36044bp)
+Best alignment score: 2380.1 (LEN: 2487, IDY: 95.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 2380.1, number of alignments: 1, unaligned bases: 33557
+		This contig is partially unaligned. (Aligned 2487 out of 36044 non-N bases (6.90%))
+		Alignment: 355182 357647 | 13782 16268 | 2466 2487 | 95.7 | chrX contig_383
+		Unaligned bases: 1 to 13781 (13781)
+		Unaligned bases: 16269 to 36044 (19776)
+
+CONTIG: contig_201 (21758bp)
+		This contig is unaligned. (21758 bp)
+		Unaligned bases: 21758 (number of Ns: 0)
+
+CONTIG: contig_381 (7320bp)
+		This contig is unaligned. (7320 bp)
+		Unaligned bases: 7320 (number of Ns: 0)
+
+CONTIG: contig_109 (37716bp)
+Best alignment score: 79.0 (LEN: 83, IDY: 95.18), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 79.0, number of alignments: 1, unaligned bases: 37633
+		This contig is partially unaligned. (Aligned 83 out of 37716 non-N bases (0.22%))
+		Alignment: 5462 5543 | 6594 6676 | 82 83 | 95.18 | chrII contig_109
+		Unaligned bases: 1 to 6593 (6593)
+		Unaligned bases: 6677 to 37716 (31040)
+
+CONTIG: contig_103 (42677bp)
+		This contig is unaligned. (42677 bp)
+		Unaligned bases: 42677 (number of Ns: 0)
+
+CONTIG: contig_122 (15727bp)
+		This contig is unaligned. (15727 bp)
+		Unaligned bases: 15727 (number of Ns: 0)
+
+CONTIG: contig_154 (28765bp)
+		This contig is unaligned. (28765 bp)
+		Unaligned bases: 28765 (number of Ns: 0)
+
+CONTIG: contig_209 (14720bp)
+		This contig is unaligned. (14720 bp)
+		Unaligned bases: 14720 (number of Ns: 0)
+
+CONTIG: contig_359 (31855bp)
+		This contig is unaligned. (31855 bp)
+		Unaligned bases: 31855 (number of Ns: 0)
+
+CONTIG: contig_358 (22789bp)
+		This contig is unaligned. (22789 bp)
+		Unaligned bases: 22789 (number of Ns: 0)
+
+CONTIG: contig_279 (22553bp)
+		This contig is unaligned. (22553 bp)
+		Unaligned bases: 22553 (number of Ns: 0)
+
+CONTIG: contig_171 (22713bp)
+		This contig is unaligned. (22713 bp)
+		Unaligned bases: 22713 (number of Ns: 0)
+
+CONTIG: contig_367 (6314bp)
+		This contig is unaligned. (6314 bp)
+		Unaligned bases: 6314 (number of Ns: 0)
+
+CONTIG: contig_240 (19602bp)
+		This contig is unaligned. (19602 bp)
+		Unaligned bases: 19602 (number of Ns: 0)
+
+CONTIG: contig_243 (22073bp)
+		This contig is unaligned. (22073 bp)
+		Unaligned bases: 22073 (number of Ns: 0)
+
+CONTIG: contig_328 (20162bp)
+		This contig is unaligned. (20162 bp)
+		Unaligned bases: 20162 (number of Ns: 0)
+
+CONTIG: contig_114 (21119bp)
+		This contig is unaligned. (21119 bp)
+		Unaligned bases: 21119 (number of Ns: 0)
+
+CONTIG: contig_255 (14500bp)
+		This contig is unaligned. (14500 bp)
+		Unaligned bases: 14500 (number of Ns: 0)
+
+CONTIG: contig_41 (22365bp)
+		This contig is unaligned. (22365 bp)
+		Unaligned bases: 22365 (number of Ns: 0)
+
+CONTIG: contig_58 (27458bp)
+		This contig is unaligned. (27458 bp)
+		Unaligned bases: 27458 (number of Ns: 0)
+
+CONTIG: contig_388 (12216bp)
+		This contig is unaligned. (12216 bp)
+		Unaligned bases: 12216 (number of Ns: 0)
+
+CONTIG: contig_28 (47138bp)
+Best alignment score: 2991.1 (LEN: 3135, IDY: 95.41), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 2991.1, number of alignments: 1, unaligned bases: 44003
+		This contig is partially unaligned. (Aligned 3135 out of 47138 non-N bases (6.65%))
+		Alignment: 231509 234544 | 31192 28058 | 3036 3135 | 95.41 | chrII contig_28
+		Unaligned bases: 1 to 28057 (28057)
+		Unaligned bases: 31193 to 47138 (15946)
+
+CONTIG: contig_50 (25097bp)
+		This contig is unaligned. (25097 bp)
+		Unaligned bases: 25097 (number of Ns: 0)
+
+CONTIG: contig_139 (39214bp)
+		This contig is unaligned. (39214 bp)
+		Unaligned bases: 39214 (number of Ns: 0)
+
+CONTIG: contig_116 (9853bp)
+Best alignment score: 149.0 (LEN: 156, IDY: 95.51), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 149.0, number of alignments: 1, unaligned bases: 9697
+		This contig is partially unaligned. (Aligned 156 out of 9853 non-N bases (1.58%))
+		Alignment: 780315 780469 | 8290 8445 | 155 156 | 95.51 | chrII contig_116
+		Unaligned bases: 1 to 8289 (8289)
+		Unaligned bases: 8446 to 9853 (1408)
+
+CONTIG: contig_29 (45822bp)
+		This contig is unaligned. (45822 bp)
+		Unaligned bases: 45822 (number of Ns: 0)
+
+CONTIG: contig_108 (46330bp)
+		This contig is unaligned. (46330 bp)
+		Unaligned bases: 46330 (number of Ns: 0)
+
+CONTIG: contig_5 (49913bp)
+		This contig is unaligned. (49913 bp)
+		Unaligned bases: 49913 (number of Ns: 0)
+
+CONTIG: contig_335 (42695bp)
+		This contig is unaligned. (42695 bp)
+		Unaligned bases: 42695 (number of Ns: 0)
+
+CONTIG: contig_78 (31247bp)
+Best alignment score: 184.0 (LEN: 190, IDY: 96.86), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 184.0, number of alignments: 1, unaligned bases: 31057
+		This contig is partially unaligned. (Aligned 190 out of 31247 non-N bases (0.61%))
+		Alignment: 677272 677462 | 10301 10490 | 191 190 | 96.86 | chrIV contig_78
+		Unaligned bases: 1 to 10300 (10300)
+		Unaligned bases: 10491 to 31247 (20757)
+
+CONTIG: contig_332 (29267bp)
+Best alignment score: 4605.2 (LEN: 4843, IDY: 95.09), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 6137 6338 | 23446 23247 | 202 200 | 95.54 | chrV contig_332
+		Skipping redundant alignment 2374 6891 | 27646 23181 | 4518 4466 | 95.56 | chrIX contig_332
+		Skipping redundant alignment 2357 6874 | 27646 23181 | 4518 4466 | 95.56 | chrX contig_332
+		Skipping redundant alignment 1525583 1530385 | 23181 27927 | 4803 4747 | 95.59 | chrIV contig_332
+		Skipping redundant alignment 1084735 1089537 | 23181 27927 | 4803 4747 | 95.59 | chrXV contig_332
+		Skipping redundant alignment 1071770 1076572 | 23181 27927 | 4803 4747 | 95.59 | chrXII contig_332
+		Skipping redundant alignment 1694 6501 | 27927 23181 | 4808 4747 | 95.22 | chrXIV contig_332
+		Skipping redundant alignment 1084461 1089268 | 23181 27927 | 4808 4747 | 95.22 | chrVII contig_332
+		Skipping redundant alignment 1603 6410 | 27927 23181 | 4808 4747 | 95.22 | chrXVI contig_332
+			The best set is below. Score: 4605.2, number of alignments: 1, unaligned bases: 24424
+		This contig is partially unaligned. (Aligned 4843 out of 29267 non-N bases (16.55%))
+		Alignment: 570338 575202 | 23085 27927 | 4865 4843 | 95.09 | chrV contig_332
+		Unaligned bases: 1 to 23084 (23084)
+		Unaligned bases: 27928 to 29267 (1340)
+
+CONTIG: contig_99 (14945bp)
+		This contig is unaligned. (14945 bp)
+		Unaligned bases: 14945 (number of Ns: 0)
+
+CONTIG: contig_194 (23973bp)
+		This contig is unaligned. (23973 bp)
+		Unaligned bases: 23973 (number of Ns: 0)
+
+CONTIG: contig_173 (14430bp)
+		This contig is unaligned. (14430 bp)
+		Unaligned bases: 14430 (number of Ns: 0)
+
+CONTIG: contig_320 (17927bp)
+		This contig is unaligned. (17927 bp)
+		Unaligned bases: 17927 (number of Ns: 0)
+
+CONTIG: contig_404 (10322bp)
+		This contig is unaligned. (10322 bp)
+		Unaligned bases: 10322 (number of Ns: 0)
+
+CONTIG: contig_177 (11507bp)
+		This contig is unaligned. (11507 bp)
+		Unaligned bases: 11507 (number of Ns: 0)
+
+CONTIG: contig_174 (22723bp)
+		This contig is unaligned. (22723 bp)
+		Unaligned bases: 22723 (number of Ns: 0)
+
+CONTIG: contig_351 (10178bp)
+		This contig is unaligned. (10178 bp)
+		Unaligned bases: 10178 (number of Ns: 0)
+
+CONTIG: contig_69 (33173bp)
+		This contig is unaligned. (33173 bp)
+		Unaligned bases: 33173 (number of Ns: 0)
+
+CONTIG: contig_95 (13077bp)
+		This contig is unaligned. (13077 bp)
+		Unaligned bases: 13077 (number of Ns: 0)
+
+CONTIG: contig_128 (8944bp)
+		This contig is unaligned. (8944 bp)
+		Unaligned bases: 8944 (number of Ns: 0)
+
+CONTIG: contig_303 (23528bp)
+		This contig is unaligned. (23528 bp)
+		Unaligned bases: 23528 (number of Ns: 0)
+
+CONTIG: contig_22 (83559bp)
+		This contig is unaligned. (83559 bp)
+		Unaligned bases: 83559 (number of Ns: 0)
+
+CONTIG: contig_12 (46129bp)
+		This contig is unaligned. (46129 bp)
+		Unaligned bases: 46129 (number of Ns: 0)
+
+CONTIG: contig_136 (8186bp)
+		This contig is unaligned. (8186 bp)
+		Unaligned bases: 8186 (number of Ns: 0)
+
+CONTIG: contig_257 (15100bp)
+		This contig is unaligned. (15100 bp)
+		Unaligned bases: 15100 (number of Ns: 0)
+
+CONTIG: contig_159 (19891bp)
+		This contig is unaligned. (19891 bp)
+		Unaligned bases: 19891 (number of Ns: 0)
+
+CONTIG: contig_268 (11913bp)
+		This contig is unaligned. (11913 bp)
+		Unaligned bases: 11913 (number of Ns: 0)
+
+CONTIG: contig_376 (10518bp)
+		This contig is unaligned. (10518 bp)
+		Unaligned bases: 10518 (number of Ns: 0)
+
+CONTIG: contig_105 (30267bp)
+		This contig is unaligned. (30267 bp)
+		Unaligned bases: 30267 (number of Ns: 0)
+
+CONTIG: contig_96 (22757bp)
+		This contig is unaligned. (22757 bp)
+		Unaligned bases: 22757 (number of Ns: 0)
+
+CONTIG: contig_241 (38634bp)
+		This contig is unaligned. (38634 bp)
+		Unaligned bases: 38634 (number of Ns: 0)
+
+CONTIG: contig_347 (36095bp)
+		This contig is unaligned. (36095 bp)
+		Unaligned bases: 36095 (number of Ns: 0)
+
+CONTIG: contig_291 (12097bp)
+		This contig is unaligned. (12097 bp)
+		Unaligned bases: 12097 (number of Ns: 0)
+
+CONTIG: contig_35 (28197bp)
+		This contig is unaligned. (28197 bp)
+		Unaligned bases: 28197 (number of Ns: 0)
+
+CONTIG: contig_284 (17318bp)
+		This contig is unaligned. (17318 bp)
+		Unaligned bases: 17318 (number of Ns: 0)
+
+CONTIG: contig_252 (38367bp)
+		This contig is unaligned. (38367 bp)
+		Unaligned bases: 38367 (number of Ns: 0)
+
+CONTIG: contig_310 (84371bp)
+Best alignment score: 12967.7 (LEN: 13623, IDY: 95.19), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 17324.8, number of alignments: 2, unaligned bases: 65902
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 18469 out of 84371 non-N bases (21.89%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 84371 (number of Ns: 0) and total length of all aligns is 18469
+		Alignment: 976863 981698 | 5815 10660 | 4836 4846 | 95.09 | chrXII contig_310
+		Alignment: 527593 541070 | 12650 26272 | 13478 13623 | 95.19 | chrXVI contig_310
+		Unaligned bases: 65902
+
+CONTIG: contig_292 (11777bp)
+Best alignment score: 1896.9 (LEN: 1989, IDY: 95.37), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1896.9, number of alignments: 1, unaligned bases: 9788
+		This contig is partially unaligned. (Aligned 1989 out of 11777 non-N bases (16.89%))
+		Alignment: 503454 505409 | 5493 3505 | 1956 1989 | 95.37 | chrVII contig_292
+		Unaligned bases: 1 to 3504 (3504)
+		Unaligned bases: 5494 to 11777 (6284)
+
+CONTIG: contig_43 (18995bp)
+		This contig is unaligned. (18995 bp)
+		Unaligned bases: 18995 (number of Ns: 0)
+
+CONTIG: contig_424 (22402bp)
+		This contig is unaligned. (22402 bp)
+		Unaligned bases: 22402 (number of Ns: 0)
+
+CONTIG: contig_285 (14370bp)
+		This contig is unaligned. (14370 bp)
+		Unaligned bases: 14370 (number of Ns: 0)
+
+CONTIG: contig_431 (40991bp)
+Best alignment score: 111.1 (LEN: 116, IDY: 95.76), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 111.1, number of alignments: 1, unaligned bases: 40875
+		This contig is partially unaligned. (Aligned 116 out of 40991 non-N bases (0.28%))
+		Alignment: 182572 182688 | 24746 24631 | 117 116 | 95.76 | chrII contig_431
+		Unaligned bases: 1 to 24630 (24630)
+		Unaligned bases: 24747 to 40991 (16245)
+
+CONTIG: contig_247 (10574bp)
+		This contig is unaligned. (10574 bp)
+		Unaligned bases: 10574 (number of Ns: 0)
+
+CONTIG: contig_344 (26087bp)
+		This contig is unaligned. (26087 bp)
+		Unaligned bases: 26087 (number of Ns: 0)
+
+CONTIG: contig_175 (19286bp)
+		This contig is unaligned. (19286 bp)
+		Unaligned bases: 19286 (number of Ns: 0)
+
+CONTIG: contig_172 (27060bp)
+		This contig is unaligned. (27060 bp)
+		Unaligned bases: 27060 (number of Ns: 0)
+
+CONTIG: contig_42 (20376bp)
+		This contig is unaligned. (20376 bp)
+		Unaligned bases: 20376 (number of Ns: 0)
+
+CONTIG: contig_296 (10004bp)
+		This contig is unaligned. (10004 bp)
+		Unaligned bases: 10004 (number of Ns: 0)
+
+CONTIG: contig_334 (10822bp)
+		This contig is unaligned. (10822 bp)
+		Unaligned bases: 10822 (number of Ns: 0)
+
+CONTIG: contig_102 (21816bp)
+		This contig is unaligned. (21816 bp)
+		Unaligned bases: 21816 (number of Ns: 0)
+
+CONTIG: contig_13 (18091bp)
+Best alignment score: 13877.1 (LEN: 14528, IDY: 95.52), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 13877.1, number of alignments: 1, unaligned bases: 3563
+		This contig is partially unaligned. (Aligned 14528 out of 18091 non-N bases (80.31%))
+		Alignment: 209456 223758 | 28 14555 | 14303 14528 | 95.52 | chrIII contig_13
+		Unaligned bases: 1 to 27 (27)
+		Unaligned bases: 14556 to 18091 (3536)
+
+CONTIG: contig_127 (9894bp)
+		This contig is unaligned. (9894 bp)
+		Unaligned bases: 9894 (number of Ns: 0)
+
+CONTIG: contig_392 (16340bp)
+		This contig is unaligned. (16340 bp)
+		Unaligned bases: 16340 (number of Ns: 0)
+
+CONTIG: contig_36 (8891bp)
+		This contig is unaligned. (8891 bp)
+		Unaligned bases: 8891 (number of Ns: 0)
+
+CONTIG: contig_71 (12965bp)
+		This contig is unaligned. (12965 bp)
+		Unaligned bases: 12965 (number of Ns: 0)
+
+CONTIG: contig_74 (27313bp)
+		This contig is unaligned. (27313 bp)
+		Unaligned bases: 27313 (number of Ns: 0)
+
+CONTIG: contig_38 (26198bp)
+		This contig is unaligned. (26198 bp)
+		Unaligned bases: 26198 (number of Ns: 0)
+
+CONTIG: contig_88 (26134bp)
+		This contig is unaligned. (26134 bp)
+		Unaligned bases: 26134 (number of Ns: 0)
+
+CONTIG: contig_117 (24219bp)
+		This contig is unaligned. (24219 bp)
+		Unaligned bases: 24219 (number of Ns: 0)
+
+CONTIG: contig_73 (12908bp)
+		This contig is unaligned. (12908 bp)
+		Unaligned bases: 12908 (number of Ns: 0)
+
+CONTIG: contig_144 (49399bp)
+		This contig is unaligned. (49399 bp)
+		Unaligned bases: 49399 (number of Ns: 0)
+
+CONTIG: contig_147 (23700bp)
+		This contig is unaligned. (23700 bp)
+		Unaligned bases: 23700 (number of Ns: 0)
+
+CONTIG: contig_146 (32514bp)
+		This contig is unaligned. (32514 bp)
+		Unaligned bases: 32514 (number of Ns: 0)
+
+CONTIG: contig_162 (32237bp)
+		This contig is unaligned. (32237 bp)
+		Unaligned bases: 32237 (number of Ns: 0)
+
+CONTIG: contig_294 (4384bp)
+		This contig is unaligned. (4384 bp)
+		Unaligned bases: 4384 (number of Ns: 0)
+
+CONTIG: contig_161 (13254bp)
+		This contig is unaligned. (13254 bp)
+		Unaligned bases: 13254 (number of Ns: 0)
+
+CONTIG: contig_24 (45574bp)
+Best alignment score: 2587.3 (LEN: 2716, IDY: 95.26), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 2587.3, number of alignments: 1, unaligned bases: 42858
+		This contig is partially unaligned. (Aligned 2716 out of 45574 non-N bases (5.96%))
+		Alignment: 147025 149745 | 34162 36877 | 2721 2716 | 95.26 | chrIII contig_24
+		Unaligned bases: 1 to 34161 (34161)
+		Unaligned bases: 36878 to 45574 (8697)
+
+CONTIG: contig_155 (22323bp)
+		This contig is unaligned. (22323 bp)
+		Unaligned bases: 22323 (number of Ns: 0)
+
+CONTIG: contig_330 (18937bp)
+		This contig is unaligned. (18937 bp)
+		Unaligned bases: 18937 (number of Ns: 0)
+
+CONTIG: contig_277 (13564bp)
+		This contig is unaligned. (13564 bp)
+		Unaligned bases: 13564 (number of Ns: 0)
+
+CONTIG: contig_199 (27993bp)
+		This contig is unaligned. (27993 bp)
+		Unaligned bases: 27993 (number of Ns: 0)
+
+CONTIG: contig_275 (11651bp)
+		This contig is unaligned. (11651 bp)
+		Unaligned bases: 11651 (number of Ns: 0)
+
+CONTIG: contig_374 (9231bp)
+		This contig is unaligned. (9231 bp)
+		Unaligned bases: 9231 (number of Ns: 0)
+
+CONTIG: contig_40 (41737bp)
+		This contig is unaligned. (41737 bp)
+		Unaligned bases: 41737 (number of Ns: 0)
+
+CONTIG: contig_286 (9931bp)
+		This contig is unaligned. (9931 bp)
+		Unaligned bases: 9931 (number of Ns: 0)
+
+CONTIG: contig_315 (27898bp)
+		This contig is unaligned. (27898 bp)
+		Unaligned bases: 27898 (number of Ns: 0)
+
+CONTIG: contig_141 (10240bp)
+		This contig is unaligned. (10240 bp)
+		Unaligned bases: 10240 (number of Ns: 0)
+
+CONTIG: contig_75 (46303bp)
+		This contig is unaligned. (46303 bp)
+		Unaligned bases: 46303 (number of Ns: 0)
+
+CONTIG: contig_295 (14793bp)
+		This contig is unaligned. (14793 bp)
+		Unaligned bases: 14793 (number of Ns: 0)
+
+CONTIG: contig_407 (16193bp)
+		This contig is unaligned. (16193 bp)
+		Unaligned bases: 16193 (number of Ns: 0)
+
+CONTIG: contig_354 (15347bp)
+		This contig is unaligned. (15347 bp)
+		Unaligned bases: 15347 (number of Ns: 0)
+
+CONTIG: contig_195 (27106bp)
+		This contig is unaligned. (27106 bp)
+		Unaligned bases: 27106 (number of Ns: 0)
+
+CONTIG: contig_25 (27539bp)
+		This contig is unaligned. (27539 bp)
+		Unaligned bases: 27539 (number of Ns: 0)
+
+CONTIG: contig_226 (8745bp)
+		This contig is unaligned. (8745 bp)
+		Unaligned bases: 8745 (number of Ns: 0)
+
+CONTIG: contig_183 (4276bp)
+		This contig is unaligned. (4276 bp)
+		Unaligned bases: 4276 (number of Ns: 0)
+
+CONTIG: contig_212 (11765bp)
+		This contig is unaligned. (11765 bp)
+		Unaligned bases: 11765 (number of Ns: 0)
+
+CONTIG: contig_94 (12471bp)
+		This contig is unaligned. (12471 bp)
+		Unaligned bases: 12471 (number of Ns: 0)
+
+CONTIG: contig_346 (22278bp)
+		This contig is unaligned. (22278 bp)
+		Unaligned bases: 22278 (number of Ns: 0)
+
+CONTIG: contig_348 (24282bp)
+		This contig is unaligned. (24282 bp)
+		Unaligned bases: 24282 (number of Ns: 0)
+
+CONTIG: contig_190 (49002bp)
+		This contig is unaligned. (49002 bp)
+		Unaligned bases: 49002 (number of Ns: 0)
+
+CONTIG: contig_188 (11790bp)
+		This contig is unaligned. (11790 bp)
+		Unaligned bases: 11790 (number of Ns: 0)
+
+CONTIG: contig_98 (22354bp)
+		This contig is unaligned. (22354 bp)
+		Unaligned bases: 22354 (number of Ns: 0)
+
+CONTIG: contig_76 (10160bp)
+		This contig is unaligned. (10160 bp)
+		Unaligned bases: 10160 (number of Ns: 0)
+
+CONTIG: contig_214 (26026bp)
+		This contig is unaligned. (26026 bp)
+		Unaligned bases: 26026 (number of Ns: 0)
+
+CONTIG: contig_86 (46367bp)
+Best alignment score: 246.1 (LEN: 258, IDY: 95.37), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 458241 458471 | 20100 20335 | 231 236 | 95.34 | chrXI contig_86
+		Skipping redundant alignment 535211 535461 | 20335 20079 | 251 257 | 95.35 | chrVII contig_86
+		Skipping redundant alignment 221037 221287 | 20335 20079 | 251 257 | 95.35 | chrII contig_86
+		Skipping redundant alignment 517534 517784 | 20079 20335 | 251 257 | 95.35 | chrXI contig_86
+		Skipping redundant alignment 362668 362919 | 20079 20336 | 252 258 | 95.37 | chrXIII contig_86
+		Skipping redundant alignment 226620 226871 | 20336 20079 | 252 258 | 95.37 | chrII contig_86
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 246.1, number of alignments: 1, unaligned bases: 46109
+		This contig is partially unaligned. (Aligned 258 out of 46367 non-N bases (0.56%))
+		Alignment: 357086 357337 | 20079 20336 | 252 258 | 95.37 | chrXIII contig_86
+		Unaligned bases: 1 to 20078 (20078)
+		Unaligned bases: 20337 to 46367 (26031)
+
+CONTIG: contig_242 (26338bp)
+		This contig is unaligned. (26338 bp)
+		Unaligned bases: 26338 (number of Ns: 0)
+
+CONTIG: contig_182 (8142bp)
+		This contig is unaligned. (8142 bp)
+		Unaligned bases: 8142 (number of Ns: 0)
+
+CONTIG: contig_222 (8018bp)
+		This contig is unaligned. (8018 bp)
+		Unaligned bases: 8018 (number of Ns: 0)
+
+CONTIG: contig_184 (15788bp)
+		This contig is unaligned. (15788 bp)
+		Unaligned bases: 15788 (number of Ns: 0)
+
+CONTIG: contig_389 (6525bp)
+		This contig is unaligned. (6525 bp)
+		Unaligned bases: 6525 (number of Ns: 0)
+
+CONTIG: contig_327 (8124bp)
+		This contig is unaligned. (8124 bp)
+		Unaligned bases: 8124 (number of Ns: 0)
+
+CONTIG: contig_17 (7319bp)
+		This contig is unaligned. (7319 bp)
+		Unaligned bases: 7319 (number of Ns: 0)
+
+CONTIG: contig_261 (15811bp)
+		This contig is unaligned. (15811 bp)
+		Unaligned bases: 15811 (number of Ns: 0)
+
+CONTIG: contig_371 (6065bp)
+		This contig is unaligned. (6065 bp)
+		Unaligned bases: 6065 (number of Ns: 0)
+
+CONTIG: contig_245 (7981bp)
+		This contig is unaligned. (7981 bp)
+		Unaligned bases: 7981 (number of Ns: 0)
+
+CONTIG: contig_46 (24097bp)
+		This contig is unaligned. (24097 bp)
+		Unaligned bases: 24097 (number of Ns: 0)
+
+CONTIG: contig_375 (7051bp)
+		This contig is unaligned. (7051 bp)
+		Unaligned bases: 7051 (number of Ns: 0)
+
+CONTIG: contig_323 (4997bp)
+		This contig is unaligned. (4997 bp)
+		Unaligned bases: 4997 (number of Ns: 0)
+
+CONTIG: contig_314 (7547bp)
+		This contig is unaligned. (7547 bp)
+		Unaligned bases: 7547 (number of Ns: 0)
+
+CONTIG: contig_198 (8446bp)
+		This contig is unaligned. (8446 bp)
+		Unaligned bases: 8446 (number of Ns: 0)
+
+CONTIG: contig_111 (8185bp)
+		This contig is unaligned. (8185 bp)
+		Unaligned bases: 8185 (number of Ns: 0)
+
+CONTIG: contig_263 (7035bp)
+		This contig is unaligned. (7035 bp)
+		Unaligned bases: 7035 (number of Ns: 0)
+
+CONTIG: contig_169 (16140bp)
+		This contig is unaligned. (16140 bp)
+		Unaligned bases: 16140 (number of Ns: 0)
+
+CONTIG: contig_249 (12629bp)
+		This contig is unaligned. (12629 bp)
+		Unaligned bases: 12629 (number of Ns: 0)
+
+CONTIG: contig_129 (8402bp)
+		This contig is unaligned. (8402 bp)
+		Unaligned bases: 8402 (number of Ns: 0)
+
+CONTIG: contig_237 (7378bp)
+		This contig is unaligned. (7378 bp)
+		Unaligned bases: 7378 (number of Ns: 0)
+
+CONTIG: contig_93 (12025bp)
+		This contig is unaligned. (12025 bp)
+		Unaligned bases: 12025 (number of Ns: 0)
+
+CONTIG: contig_361 (7715bp)
+		This contig is unaligned. (7715 bp)
+		Unaligned bases: 7715 (number of Ns: 0)
+
+CONTIG: contig_312 (5698bp)
+		This contig is unaligned. (5698 bp)
+		Unaligned bases: 5698 (number of Ns: 0)
+
+CONTIG: contig_412 (23453bp)
+		This contig is unaligned. (23453 bp)
+		Unaligned bases: 23453 (number of Ns: 0)
+
+CONTIG: contig_287 (15550bp)
+		This contig is unaligned. (15550 bp)
+		Unaligned bases: 15550 (number of Ns: 0)
+
+CONTIG: contig_364 (7614bp)
+		This contig is unaligned. (7614 bp)
+		Unaligned bases: 7614 (number of Ns: 0)
+
+CONTIG: contig_153 (11093bp)
+		This contig is unaligned. (11093 bp)
+		Unaligned bases: 11093 (number of Ns: 0)
+
+CONTIG: contig_274 (13467bp)
+		This contig is unaligned. (13467 bp)
+		Unaligned bases: 13467 (number of Ns: 0)
+
+CONTIG: contig_92 (13532bp)
+		This contig is unaligned. (13532 bp)
+		Unaligned bases: 13532 (number of Ns: 0)
+
+CONTIG: contig_289 (12443bp)
+		This contig is unaligned. (12443 bp)
+		Unaligned bases: 12443 (number of Ns: 0)
+
+CONTIG: contig_406 (6437bp)
+		This contig is unaligned. (6437 bp)
+		Unaligned bases: 6437 (number of Ns: 0)
+
+CONTIG: contig_269 (11050bp)
+		This contig is unaligned. (11050 bp)
+		Unaligned bases: 11050 (number of Ns: 0)
+
+CONTIG: contig_54 (13157bp)
+		This contig is unaligned. (13157 bp)
+		Unaligned bases: 13157 (number of Ns: 0)
+
+CONTIG: contig_293 (19120bp)
+		This contig is unaligned. (19120 bp)
+		Unaligned bases: 19120 (number of Ns: 0)
+
+CONTIG: contig_338 (10482bp)
+		This contig is unaligned. (10482 bp)
+		Unaligned bases: 10482 (number of Ns: 0)
+
+CONTIG: contig_267 (8001bp)
+		This contig is unaligned. (8001 bp)
+		Unaligned bases: 8001 (number of Ns: 0)
+
+CONTIG: contig_368 (7229bp)
+		This contig is unaligned. (7229 bp)
+		Unaligned bases: 7229 (number of Ns: 0)
+
+CONTIG: contig_148 (27572bp)
+		This contig is unaligned. (27572 bp)
+		Unaligned bases: 27572 (number of Ns: 0)
+
+Analyzing coverage...
+Writing SNPs into /data/outputs/quast_output/contigs_reports/minimap_output/consensus.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /data/outputs/quast_output/contigs_reports/minimap_output/consensus.used_snps
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 1
+		Relocations: 1
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 1
+	Misassembled Contig Bases: 18028
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 374 + 57 part
+Half Unaligned Contigs with Misassemblies: 10
+Unaligned Bases in Fully and Partially Unaligned Contigs: 9860368
+
+Ambiguously Mapped Contigs: 8
+Total Bases in Ambiguously Mapped Contigs: 332109
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 197503
+	Raw Aligned Bases in Assembly: 202822
+	Total Aligned Bases in Assembly (with "Extras"): 202822
+
+	SNPs: 3121
+	Insertions: 4955
+	Deletions: 3230
+

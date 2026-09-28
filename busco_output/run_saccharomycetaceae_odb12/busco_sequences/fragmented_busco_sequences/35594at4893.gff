@@ -1,0 +1,2 @@
+contig_205	miniprot	mRNA	5919	9696	2489	+	.	ID=MP001531;Rank=1;Identity=0.6646;Positive=0.7357;Frameshift=58;StopCodon=3;Target=35594at4893_27292_0:00087c 294 1528
+contig_205	miniprot	CDS	5919	9696	2489	+	0	Parent=MP001531;Rank=1;Identity=0.6646;Frameshift=58;StopCodon=3;Target=35594at4893_27292_0:00087c 294 1528

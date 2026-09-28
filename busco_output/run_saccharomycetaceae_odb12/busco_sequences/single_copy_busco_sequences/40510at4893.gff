@@ -1,0 +1,3 @@
+contig_197	miniprot	mRNA	33449	34292	710	-	.	ID=MP036735;Rank=1;Identity=0.8266;Positive=0.8587;Frameshift=17;StopCodon=1;Target=40510at4893_1095631_0:000a1d 1 267
+contig_197	miniprot	CDS	33449	34292	710	-	0	Parent=MP036735;Rank=1;Identity=0.8266;Frameshift=17;StopCodon=1;Target=40510at4893_1095631_0:000a1d 1 267
+contig_197	miniprot	stop_codon	33449	33451	0	-	0	Parent=MP036735;Rank=1

@@ -1,0 +1,2 @@
+contig_68	miniprot	mRNA	19568	20552	995	+	.	ID=MP032669;Rank=1;Identity=0.7795;Positive=0.8127;Frameshift=12;Target=5220at4893_4932_0:00004a 1 318
+contig_68	miniprot	CDS	19568	20552	995	+	0	Parent=MP032669;Rank=1;Identity=0.7795;Frameshift=12;Target=5220at4893_4932_0:00004a 1 318

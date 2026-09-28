@@ -1,0 +1,3 @@
+contig_359	miniprot	mRNA	5338	6585	939	-	.	ID=MP028445;Rank=1;Identity=0.7680;Positive=0.8112;Frameshift=24;StopCodon=2;Target=6261at4893_1095631_0:000f0a 1 403
+contig_359	miniprot	CDS	5338	6585	939	-	0	Parent=MP028445;Rank=1;Identity=0.7680;Frameshift=24;StopCodon=2;Target=6261at4893_1095631_0:000f0a 1 403
+contig_359	miniprot	stop_codon	5338	5340	0	-	0	Parent=MP028445;Rank=1

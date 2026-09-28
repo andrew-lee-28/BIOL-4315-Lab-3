@@ -1,0 +1,2 @@
+contig_394	miniprot	mRNA	7183	9190	2413	-	.	ID=MP014193;Rank=1;Identity=0.8987;Positive=0.9194;Frameshift=26;StopCodon=1;Target=6136at4893_1095631_0:0002dc 4 670
+contig_394	miniprot	CDS	7183	9190	2413	-	0	Parent=MP014193;Rank=1;Identity=0.8987;Frameshift=26;StopCodon=1;Target=6136at4893_1095631_0:0002dc 4 670

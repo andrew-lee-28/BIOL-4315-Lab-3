@@ -1,0 +1,2 @@
+contig_208	miniprot	mRNA	3087	3748	555	-	.	ID=MP039730;Rank=1;Identity=0.7726;Positive=0.8223;Frameshift=11;Target=40252at4893_27292_0:0011ea 1 211
+contig_208	miniprot	CDS	3087	3748	555	-	0	Parent=MP039730;Rank=1;Identity=0.7726;Frameshift=11;Target=40252at4893_27292_0:0011ea 1 211

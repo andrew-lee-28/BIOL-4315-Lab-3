@@ -1,0 +1,2 @@
+contig_135	miniprot	mRNA	8598	11338	1693	-	.	ID=MP008175;Rank=1;Identity=0.6804;Positive=0.7481;Frameshift=50;StopCodon=1;Target=33244at4893_1095631_0:001111 23 888
+contig_135	miniprot	CDS	8598	11338	1693	-	0	Parent=MP008175;Rank=1;Identity=0.6804;Frameshift=50;StopCodon=1;Target=33244at4893_1095631_0:001111 23 888

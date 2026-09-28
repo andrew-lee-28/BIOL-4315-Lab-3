@@ -1,0 +1,3 @@
+contig_380	miniprot	mRNA	31645	33520	1372	-	.	ID=MP016731;Rank=1;Identity=0.7032;Positive=0.7571;Frameshift=30;StopCodon=1;Target=26104at4893_1095631_0:000810 5 602
+contig_380	miniprot	CDS	31645	33520	1372	-	0	Parent=MP016731;Rank=1;Identity=0.7032;Frameshift=30;StopCodon=1;Target=26104at4893_1095631_0:000810 5 602
+contig_380	miniprot	stop_codon	31645	31647	0	-	0	Parent=MP016731;Rank=1

@@ -1,0 +1,2 @@
+contig_290	miniprot	mRNA	1709	3747	1230	-	.	ID=MP014917;Rank=1;Identity=0.6867;Positive=0.7511;Frameshift=36;Target=26499at4893_27292_0:000c70 1 642
+contig_290	miniprot	CDS	1709	3747	1230	-	0	Parent=MP014917;Rank=1;Identity=0.6867;Frameshift=36;Target=26499at4893_27292_0:000c70 1 642

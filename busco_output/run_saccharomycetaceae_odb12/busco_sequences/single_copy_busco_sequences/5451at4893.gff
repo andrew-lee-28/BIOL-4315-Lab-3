@@ -1,0 +1,3 @@
+contig_52	miniprot	mRNA	23150	24948	2186	-	.	ID=MP017208;Rank=1;Identity=0.8952;Positive=0.9201;Frameshift=21;StopCodon=1;Target=5451at4893_1095631_0:00108a 1 589
+contig_52	miniprot	CDS	23150	24948	2186	-	0	Parent=MP017208;Rank=1;Identity=0.8952;Frameshift=21;StopCodon=1;Target=5451at4893_1095631_0:00108a 1 589
+contig_52	miniprot	stop_codon	23150	23152	0	-	0	Parent=MP017208;Rank=1

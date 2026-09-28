@@ -1,0 +1,2 @@
+contig_324	miniprot	mRNA	8545	11618	2842	+	.	ID=MP002728;Rank=1;Identity=0.8228;Positive=0.8548;Frameshift=59;Target=25151at4893_1095631_0:0002cb 1 996
+contig_324	miniprot	CDS	8545	11618	2842	+	0	Parent=MP002728;Rank=1;Identity=0.8228;Frameshift=59;Target=25151at4893_1095631_0:0002cb 1 996

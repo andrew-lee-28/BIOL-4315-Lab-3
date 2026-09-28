@@ -1,0 +1,3 @@
+contig_318	miniprot	mRNA	13904	14485	484	-	.	ID=MP040865;Rank=1;Identity=0.7077;Positive=0.7744;Frameshift=6;Target=24688at4893_4932_0:000c76 5 193
+contig_318	miniprot	CDS	13904	14485	484	-	0	Parent=MP040865;Rank=1;Identity=0.7077;Frameshift=6;Target=24688at4893_4932_0:000c76 5 193
+contig_318	miniprot	stop_codon	13904	13906	0	-	0	Parent=MP040865;Rank=1

@@ -1,0 +1,2 @@
+contig_92	miniprot	mRNA	6190	6819	524	+	.	ID=MP039092;Rank=1;Identity=0.8082;Positive=0.8225;Frameshift=13;Target=3989at4893_1095631_0:0003e0 8 209
+contig_92	miniprot	CDS	6190	6819	524	+	0	Parent=MP039092;Rank=1;Identity=0.8082;Frameshift=13;Target=3989at4893_1095631_0:0003e0 8 209

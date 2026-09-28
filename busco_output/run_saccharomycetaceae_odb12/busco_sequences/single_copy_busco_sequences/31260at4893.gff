@@ -1,0 +1,3 @@
+contig_166	miniprot	mRNA	51243	52544	1579	-	.	ID=MP026703;Rank=1;Identity=0.9199;Positive=0.9268;Frameshift=20;Target=31260at4893_1095631_0:0003ab 1 430
+contig_166	miniprot	CDS	51243	52544	1579	-	0	Parent=MP026703;Rank=1;Identity=0.9199;Frameshift=20;Target=31260at4893_1095631_0:0003ab 1 430
+contig_166	miniprot	stop_codon	51243	51245	0	-	0	Parent=MP026703;Rank=1

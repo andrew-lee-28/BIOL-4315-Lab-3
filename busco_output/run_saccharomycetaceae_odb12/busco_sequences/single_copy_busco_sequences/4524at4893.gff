@@ -1,0 +1,2 @@
+contig_78	miniprot	mRNA	4205	6324	1981	+	.	ID=MP013391;Rank=1;Identity=0.8037;Positive=0.8473;Frameshift=35;StopCodon=2;Target=4524at4893_27292_0:000248 3 696
+contig_78	miniprot	CDS	4205	6324	1981	+	0	Parent=MP013391;Rank=1;Identity=0.8037;Frameshift=35;StopCodon=2;Target=4524at4893_27292_0:000248 3 696

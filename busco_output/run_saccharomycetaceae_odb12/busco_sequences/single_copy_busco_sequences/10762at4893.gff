@@ -1,0 +1,3 @@
+contig_310	miniprot	mRNA	63871	67540	3878	-	.	ID=MP003639;Rank=1;Identity=0.8736;Positive=0.9029;Frameshift=74;Target=10762at4893_1160507_0:000e05 1 1203
+contig_310	miniprot	CDS	63871	67540	3878	-	0	Parent=MP003639;Rank=1;Identity=0.8736;Frameshift=74;Target=10762at4893_1160507_0:000e05 1 1203
+contig_310	miniprot	stop_codon	63871	63873	0	-	0	Parent=MP003639;Rank=1

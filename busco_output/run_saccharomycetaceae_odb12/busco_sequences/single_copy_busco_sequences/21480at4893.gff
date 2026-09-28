@@ -1,0 +1,3 @@
+contig_77	miniprot	mRNA	29299	30477	904	-	.	ID=MP029886;Rank=1;Identity=0.7538;Positive=0.7970;Frameshift=22;Target=21480at4893_1095631_0:00025a 4 378
+contig_77	miniprot	CDS	29299	30477	904	-	0	Parent=MP029886;Rank=1;Identity=0.7538;Frameshift=22;Target=21480at4893_1095631_0:00025a 4 378
+contig_77	miniprot	stop_codon	29299	29301	0	-	0	Parent=MP029886;Rank=1

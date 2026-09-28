@@ -1,0 +1,2 @@
+contig_431	miniprot	mRNA	35576	36021	260	-	.	ID=MP042875;Rank=1;Identity=0.6913;Positive=0.7852;Frameshift=10;Target=35075at4893_1095631_0:0000e8 5 143
+contig_431	miniprot	CDS	35576	36021	260	-	0	Parent=MP042875;Rank=1;Identity=0.6913;Frameshift=10;Target=35075at4893_1095631_0:0000e8 5 143

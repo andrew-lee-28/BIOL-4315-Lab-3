@@ -1,0 +1,2 @@
+contig_394	miniprot	mRNA	11083	12160	1066	+	.	ID=MP031535;Rank=1;Identity=0.8386;Positive=0.8773;Frameshift=20;StopCodon=1;Target=37455at4893_1095631_0:0002d8 2 349
+contig_394	miniprot	CDS	11083	12160	1066	+	0	Parent=MP031535;Rank=1;Identity=0.8386;Frameshift=20;StopCodon=1;Target=37455at4893_1095631_0:0002d8 2 349

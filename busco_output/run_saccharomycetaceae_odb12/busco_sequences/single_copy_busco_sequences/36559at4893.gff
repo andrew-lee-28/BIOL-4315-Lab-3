@@ -1,0 +1,2 @@
+contig_29	miniprot	mRNA	28995	30017	1206	-	.	ID=MP032460;Rank=1;Identity=0.8713;Positive=0.8889;Frameshift=13;Target=36559at4893_1095631_0:0011ad 1 335
+contig_29	miniprot	CDS	28995	30017	1206	-	0	Parent=MP032460;Rank=1;Identity=0.8713;Frameshift=13;Target=36559at4893_1095631_0:0011ad 1 335

@@ -1,0 +1,8 @@
+[M::mp_ntseq_read@0.036*1.33] read 10063190 bases in 431 contigs
+[M::mp_idx_build@0.037*1.31] 79046 blocks
+[M::mp_idx_build@0.106*3.42] collected syncmers
+[M::mp_idx_build@0.207*2.24] 5022040 kmer-block pairs
+[M::mp_idx_print_stat] 1294381 distinct k-mers; mean occ of infrequent k-mers: 3.88; 0 frequent k-mers accounting for 0 occurrences
+[M::main] Version: 0.17-r279
+[M::main] CMD: miniprot -t 8 -d outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/ref.mpi /data/outputs/medaka_round2/consensus.fasta
+[M::main] Real time: 0.263 sec; CPU: 0.494 sec; Peak RSS: 0.141 GB

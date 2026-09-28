@@ -1,0 +1,2 @@
+contig_121	miniprot	mRNA	20160	20848	464	-	.	ID=MP038221;Rank=1;Identity=0.6923;Positive=0.7663;Frameshift=7;StopCodon=1;Target=7482at4893_1095631_0:0008d6 5 219
+contig_121	miniprot	CDS	20160	20848	464	-	0	Parent=MP038221;Rank=1;Identity=0.6923;Frameshift=7;StopCodon=1;Target=7482at4893_1095631_0:0008d6 5 219

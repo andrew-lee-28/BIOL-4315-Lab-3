@@ -1,0 +1,2 @@
+contig_83	miniprot	mRNA	6582	7745	824	+	.	ID=MP026302;Rank=1;Identity=0.6835;Positive=0.7316;Frameshift=19;StopCodon=1;Target=22670at4893_1095631_0:0011a9 53 434
+contig_83	miniprot	CDS	6582	7745	824	+	0	Parent=MP026302;Rank=1;Identity=0.6835;Frameshift=19;StopCodon=1;Target=22670at4893_1095631_0:0011a9 53 434

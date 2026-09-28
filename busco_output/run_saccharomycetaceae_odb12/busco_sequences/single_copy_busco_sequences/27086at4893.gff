@@ -1,0 +1,3 @@
+contig_101	miniprot	mRNA	10053	11761	1564	-	.	ID=MP018583;Rank=1;Identity=0.8161;Positive=0.8440;Frameshift=31;StopCodon=1;Target=27086at4893_1095631_0:000885 1 560
+contig_101	miniprot	CDS	10053	11761	1564	-	0	Parent=MP018583;Rank=1;Identity=0.8161;Frameshift=31;StopCodon=1;Target=27086at4893_1095631_0:000885 1 560
+contig_101	miniprot	stop_codon	10053	10055	0	-	0	Parent=MP018583;Rank=1

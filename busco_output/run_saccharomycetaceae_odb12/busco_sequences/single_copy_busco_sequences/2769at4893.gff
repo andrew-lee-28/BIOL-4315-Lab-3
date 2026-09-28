@@ -1,0 +1,2 @@
+contig_47	miniprot	mRNA	11088	12958	1888	-	.	ID=MP015880;Rank=1;Identity=0.8462;Positive=0.8749;Frameshift=30;Target=2769at4893_1095631_0:0009c4 1 610
+contig_47	miniprot	CDS	11088	12958	1888	-	0	Parent=MP015880;Rank=1;Identity=0.8462;Frameshift=30;Target=2769at4893_1095631_0:0009c4 1 610

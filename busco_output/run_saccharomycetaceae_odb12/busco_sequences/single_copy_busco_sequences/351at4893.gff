@@ -1,0 +1,3 @@
+contig_201	miniprot	mRNA	294	1319	966	+	.	ID=MP032909;Rank=1;Identity=0.8442;Positive=0.8647;Frameshift=20;StopCodon=1;Target=351at4893_1095631_0:000a8c 1 329
+contig_201	miniprot	CDS	294	1319	966	+	0	Parent=MP032909;Rank=1;Identity=0.8442;Frameshift=20;StopCodon=1;Target=351at4893_1095631_0:000a8c 1 329
+contig_201	miniprot	stop_codon	1317	1319	0	+	0	Parent=MP032909;Rank=1

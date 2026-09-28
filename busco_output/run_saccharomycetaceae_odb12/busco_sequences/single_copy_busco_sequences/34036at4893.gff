@@ -1,0 +1,2 @@
+contig_140	miniprot	mRNA	23617	24264	459	-	.	ID=MP039352;Rank=1;Identity=0.7626;Positive=0.8040;Frameshift=12;Target=34036at4893_1095631_0:000105 7 215
+contig_140	miniprot	CDS	23617	24264	459	-	0	Parent=MP039352;Rank=1;Identity=0.7626;Frameshift=12;Target=34036at4893_1095631_0:000105 7 215

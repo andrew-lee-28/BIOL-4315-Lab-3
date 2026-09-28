@@ -1,0 +1,3 @@
+contig_10	miniprot	mRNA	14383	14908	488	-	.	ID=MP041812;Rank=1;Identity=0.8244;Positive=0.8645;Frameshift=7;StopCodon=1;Target=31943at4893_764097_0:0006b4 1 168
+contig_10	miniprot	CDS	14383	14908	488	-	0	Parent=MP041812;Rank=1;Identity=0.8244;Frameshift=7;StopCodon=1;Target=31943at4893_764097_0:0006b4 1 168
+contig_10	miniprot	stop_codon	14383	14385	0	-	0	Parent=MP041812;Rank=1

@@ -1,0 +1,2 @@
+contig_227	miniprot	mRNA	6923	7712	676	+	.	ID=MP036360;Rank=1;Identity=0.7851;Positive=0.8420;Frameshift=12;Target=20949at4893_1095631_0:000f8e 1 252
+contig_227	miniprot	CDS	6923	7712	676	+	0	Parent=MP036360;Rank=1;Identity=0.7851;Frameshift=12;Target=20949at4893_1095631_0:000f8e 1 252

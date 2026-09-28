@@ -1,0 +1,2 @@
+contig_188	miniprot	mRNA	2826	5222	2196	+	.	ID=MP010112;Rank=1;Identity=0.7777;Positive=0.8196;Frameshift=40;Target=4247at4893_1095631_0:000c9d 1 789
+contig_188	miniprot	CDS	2826	5222	2196	+	0	Parent=MP010112;Rank=1;Identity=0.7777;Frameshift=40;Target=4247at4893_1095631_0:000c9d 1 789

@@ -1,0 +1,2 @@
+contig_206	miniprot	mRNA	19386	20641	1039	+	.	ID=MP027502;Rank=1;Identity=0.7606;Positive=0.8030;Frameshift=23;StopCodon=1;Target=20233at4893_27292_0:0020d2 6 417
+contig_206	miniprot	CDS	19386	20641	1039	+	0	Parent=MP027502;Rank=1;Identity=0.7606;Frameshift=23;StopCodon=1;Target=20233at4893_27292_0:0020d2 6 417

@@ -1,0 +1,2 @@
+contig_261	miniprot	mRNA	10203	12151	1300	-	.	ID=MP015719;Rank=1;Identity=0.6723;Positive=0.7473;Frameshift=27;StopCodon=1;Target=5061at4893_1095631_0:000a6a 7 628
+contig_261	miniprot	CDS	10203	12151	1300	-	0	Parent=MP015719;Rank=1;Identity=0.6723;Frameshift=27;StopCodon=1;Target=5061at4893_1095631_0:000a6a 7 628

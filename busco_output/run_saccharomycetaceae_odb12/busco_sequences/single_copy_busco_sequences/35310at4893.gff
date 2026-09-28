@@ -1,0 +1,3 @@
+contig_292	miniprot	mRNA	2003	2783	403	-	.	ID=MP037555;Rank=1;Identity=0.6437;Positive=0.6897;Frameshift=12;StopCodon=1;Target=35310at4893_1095631_0:000717 4 251
+contig_292	miniprot	CDS	2003	2783	403	-	0	Parent=MP037555;Rank=1;Identity=0.6437;Frameshift=12;StopCodon=1;Target=35310at4893_1095631_0:000717 4 251
+contig_292	miniprot	stop_codon	2003	2005	0	-	0	Parent=MP037555;Rank=1

@@ -1,0 +1,2 @@
+contig_181	miniprot	mRNA	1895	2590	411	-	.	ID=MP039090;Rank=1;Identity=0.6619;Positive=0.7693;Frameshift=12;Target=39599at4893_27292_0:0006ad 1 221
+contig_181	miniprot	CDS	1895	2590	411	-	0	Parent=MP039090;Rank=1;Identity=0.6619;Frameshift=12;Target=39599at4893_27292_0:0006ad 1 221

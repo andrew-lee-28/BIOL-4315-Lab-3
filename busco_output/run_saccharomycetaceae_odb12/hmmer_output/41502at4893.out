@@ -1,0 +1,16 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+41502at4893_1064592_0:0011ec|contig_40:4781-5142|+ -            119 41502                -            322   2.5e-29   90.6   1.1   1   1   1.4e-29   2.7e-29   90.5   1.1    10   105     5   101     1   115 0.85 <unknown description>
+41502at4893_1095631_0:000e24|contig_40:4760-5394|+ -            208 41502                -            322   2.3e-28   87.4   2.7   1   2   1.2e-28   2.3e-28   87.4   2.7     7   106     9   109     3   127 0.84 <unknown description>
+41502at4893_1095631_0:000e24|contig_40:4760-5394|+ -            208 41502                -            322   2.3e-28   87.4   2.7   2   2      0.16      0.32   -1.8   0.1   101   139   161   199   137   205 0.55 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/41502at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/41502at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/41502at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/41502at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/41502at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:37 2026
+# [ok]

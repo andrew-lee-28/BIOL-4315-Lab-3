@@ -1,0 +1,3 @@
+contig_55	miniprot	mRNA	6694	7635	654	+	.	ID=MP033622;Rank=1;Identity=0.6299;Positive=0.7158;Frameshift=11;Target=3086at4893_1095631_0:00024c 1 298
+contig_55	miniprot	CDS	6694	7053	350	+	0	Parent=MP033622;Rank=1;Identity=0.7500;Frameshift=4;Target=3086at4893_1095631_0:00024c 1 116
+contig_55	miniprot	CDS	7058	7635	304	+	0	Parent=MP033622;Rank=1;Identity=0.5557;Frameshift=7;Target=3086at4893_1095631_0:00024c 117 298

@@ -1,0 +1,2 @@
+contig_108	miniprot	mRNA	7826	9371	1604	+	.	ID=MP021081;Rank=1;Identity=0.8433;Positive=0.8801;Frameshift=22;StopCodon=2;Target=27657at4893_1095631_0:00074c 1 506
+contig_108	miniprot	CDS	7826	9371	1604	+	0	Parent=MP021081;Rank=1;Identity=0.8433;Frameshift=22;StopCodon=2;Target=27657at4893_1095631_0:00074c 1 506

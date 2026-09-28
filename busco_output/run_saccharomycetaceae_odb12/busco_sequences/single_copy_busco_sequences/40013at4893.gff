@@ -1,0 +1,2 @@
+contig_176	miniprot	mRNA	9427	10882	1072	+	.	ID=MP022404;Rank=1;Identity=0.6565;Positive=0.7337;Frameshift=19;Target=40013at4893_27292_0:001498 14 493
+contig_176	miniprot	CDS	9427	10882	1072	+	0	Parent=MP022404;Rank=1;Identity=0.6565;Frameshift=19;Target=40013at4893_27292_0:001498 14 493

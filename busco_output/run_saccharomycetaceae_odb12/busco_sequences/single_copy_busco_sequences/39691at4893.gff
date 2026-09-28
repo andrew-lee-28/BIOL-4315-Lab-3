@@ -1,0 +1,2 @@
+contig_45	miniprot	mRNA	29310	30075	519	+	.	ID=MP037194;Rank=1;Identity=0.7082;Positive=0.7782;Frameshift=15;StopCodon=1;Target=39691at4893_1095631_0:000aea 6 251
+contig_45	miniprot	CDS	29310	30075	519	+	0	Parent=MP037194;Rank=1;Identity=0.7082;Frameshift=15;StopCodon=1;Target=39691at4893_1095631_0:000aea 6 251

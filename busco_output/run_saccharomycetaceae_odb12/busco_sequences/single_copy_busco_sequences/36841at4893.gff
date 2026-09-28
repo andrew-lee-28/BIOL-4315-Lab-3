@@ -1,0 +1,3 @@
+contig_328	miniprot	mRNA	14211	14795	616	-	.	ID=MP040365;Rank=1;Identity=0.8154;Positive=0.8462;Frameshift=7;Target=36841at4893_1095631_0:000c2e 12 201
+contig_328	miniprot	CDS	14211	14795	616	-	0	Parent=MP040365;Rank=1;Identity=0.8154;Frameshift=7;Target=36841at4893_1095631_0:000c2e 12 201
+contig_328	miniprot	stop_codon	14211	14213	0	-	0	Parent=MP040365;Rank=1

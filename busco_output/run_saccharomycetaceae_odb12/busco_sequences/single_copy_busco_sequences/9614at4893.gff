@@ -1,0 +1,4 @@
+contig_29	miniprot	mRNA	38166	38888	610	-	.	ID=MP041037;Rank=1;Identity=0.8402;Positive=0.8866;Frameshift=8;StopCodon=2;Target=9614at4893_226126_0:000734 1 190
+contig_29	miniprot	CDS	38861	38888	43	-	0	Parent=MP041037;Rank=1;Identity=0.7000;Target=9614at4893_226126_0:000734 1 9
+contig_29	miniprot	CDS	38166	38721	567	-	2	Parent=MP041037;Rank=1;Identity=0.8478;Frameshift=8;StopCodon=2;Target=9614at4893_226126_0:000734 10 190
+contig_29	miniprot	stop_codon	38166	38168	0	-	0	Parent=MP041037;Rank=1

@@ -1,0 +1,3 @@
+contig_241	miniprot	mRNA	22139	22809	613	+	.	ID=MP039497;Rank=1;Identity=0.7949;Positive=0.8443;Frameshift=11;StopCodon=1;Target=20512at4893_1095631_0:001033 1 213
+contig_241	miniprot	CDS	22139	22809	613	+	0	Parent=MP039497;Rank=1;Identity=0.7949;Frameshift=11;StopCodon=1;Target=20512at4893_1095631_0:001033 1 213
+contig_241	miniprot	stop_codon	22807	22809	0	+	0	Parent=MP039497;Rank=1

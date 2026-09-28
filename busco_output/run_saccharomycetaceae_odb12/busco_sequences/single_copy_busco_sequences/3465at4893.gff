@@ -1,0 +1,2 @@
+contig_260	miniprot	mRNA	7946	9892	1353	-	.	ID=MP014530;Rank=1;Identity=0.7196;Positive=0.7850;Frameshift=37;StopCodon=1;Target=3465at4893_27292_0:00031f 1 635
+contig_260	miniprot	CDS	7946	9892	1353	-	0	Parent=MP014530;Rank=1;Identity=0.7196;Frameshift=37;StopCodon=1;Target=3465at4893_27292_0:00031f 1 635

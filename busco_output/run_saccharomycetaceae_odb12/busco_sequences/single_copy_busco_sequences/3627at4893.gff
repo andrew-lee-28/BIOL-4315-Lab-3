@@ -1,0 +1,2 @@
+contig_280	miniprot	mRNA	23376	24600	1270	-	.	ID=MP028507;Rank=1;Identity=0.8540;Positive=0.8931;Frameshift=18;StopCodon=2;Target=3627at4893_1095631_0:00062f 5 402
+contig_280	miniprot	CDS	23376	24600	1270	-	0	Parent=MP028507;Rank=1;Identity=0.8540;Frameshift=18;StopCodon=2;Target=3627at4893_1095631_0:00062f 5 402

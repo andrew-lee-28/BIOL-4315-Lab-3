@@ -1,0 +1,6 @@
+contig_414	miniprot	mRNA	28682	40337	5989	-	.	ID=MP000060;Rank=1;Identity=0.5806;Positive=0.6596;Frameshift=146;StopCodon=9;Target=17438at4893_27292_0:000912 1 3731
+contig_414	miniprot	CDS	38718	40337	1158	-	0	Parent=MP000060;Rank=1;Identity=0.7334;Frameshift=26;StopCodon=2;Target=17438at4893_27292_0:000912 1 516
+contig_414	miniprot	CDS	37316	38598	-47	-	1	Parent=MP000060;Rank=1;Identity=0.2685;Frameshift=10;StopCodon=1;Target=17438at4893_27292_0:000912 517 953
+contig_414	miniprot	CDS	35054	37209	-93	-	2	Parent=MP000060;Rank=1;Identity=0.3291;Frameshift=20;StopCodon=4;Target=17438at4893_27292_0:000912 954 1664
+contig_414	miniprot	CDS	34459	35040	45	-	2	Parent=MP000060;Rank=1;Identity=0.3015;Frameshift=3;StopCodon=1;Target=17438at4893_27292_0:000912 1665 1858
+contig_414	miniprot	CDS	28682	34412	4926	-	1	Parent=MP000060;Rank=1;Identity=0.7433;Frameshift=87;StopCodon=1;Target=17438at4893_27292_0:000912 1859 3731

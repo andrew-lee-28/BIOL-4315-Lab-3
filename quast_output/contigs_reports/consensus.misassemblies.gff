@@ -1,0 +1,2 @@
+##gff-version 3
+contig_432	QUAST	possible_assembly_error	3207	3208	.	.	.	Name=Extensive misassembly;type=relocation;Note=inconsistency is -9137

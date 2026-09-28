@@ -1,0 +1,2 @@
+contig_20	miniprot	mRNA	54932	55702	739	-	.	ID=MP030942;Rank=1;Identity=0.8069;Positive=0.8533;Frameshift=15;Target=29186at4893_27291_0:000f94 104 357
+contig_20	miniprot	CDS	54932	55702	739	-	0	Parent=MP030942;Rank=1;Identity=0.8069;Frameshift=15;Target=29186at4893_27291_0:000f94 104 357

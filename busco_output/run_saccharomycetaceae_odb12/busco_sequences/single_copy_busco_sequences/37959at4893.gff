@@ -1,0 +1,2 @@
+contig_148	miniprot	mRNA	8048	12747	4704	+	.	ID=MP001719;Rank=1;Identity=0.8293;Positive=0.8553;Frameshift=76;StopCodon=2;Target=37959at4893_4932_0:0013ce 1 1534
+contig_148	miniprot	CDS	8048	12747	4704	+	0	Parent=MP001719;Rank=1;Identity=0.8293;Frameshift=76;StopCodon=2;Target=37959at4893_4932_0:0013ce 1 1534

@@ -1,0 +1,2 @@
+contig_106	miniprot	mRNA	9663	11256	1240	-	.	ID=MP020634;Rank=1;Identity=0.7495;Positive=0.8036;Frameshift=31;StopCodon=1;Target=39595at4893_27292_0:001165 9 526
+contig_106	miniprot	CDS	9663	11256	1240	-	0	Parent=MP020634;Rank=1;Identity=0.7495;Frameshift=31;StopCodon=1;Target=39595at4893_27292_0:001165 9 526

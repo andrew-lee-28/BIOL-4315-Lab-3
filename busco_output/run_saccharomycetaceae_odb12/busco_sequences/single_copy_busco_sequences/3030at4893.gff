@@ -1,0 +1,3 @@
+contig_223	miniprot	mRNA	8019	9188	958	-	.	ID=MP029805;Rank=1;Identity=0.7411;Positive=0.8098;Frameshift=19;Target=3030at4893_1095631_0:000144 1 380
+contig_223	miniprot	CDS	8019	9188	958	-	0	Parent=MP029805;Rank=1;Identity=0.7411;Frameshift=19;Target=3030at4893_1095631_0:000144 1 380
+contig_223	miniprot	stop_codon	8019	8021	0	-	0	Parent=MP029805;Rank=1

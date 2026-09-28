@@ -1,0 +1,2 @@
+contig_144	miniprot	mRNA	9542	12340	1482	-	.	ID=MP008560;Rank=1;Identity=0.6378;Positive=0.7094;Frameshift=42;StopCodon=2;Target=37538at4893_27292_0:0013c4 1 870
+contig_144	miniprot	CDS	9542	12340	1482	-	0	Parent=MP008560;Rank=1;Identity=0.6378;Frameshift=42;StopCodon=2;Target=37538at4893_27292_0:0013c4 1 870

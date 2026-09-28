@@ -1,0 +1,3 @@
+contig_285	miniprot	mRNA	8598	10803	2017	-	.	ID=MP013197;Rank=1;Identity=0.7959;Positive=0.8395;Frameshift=41;Target=11116at4893_27291_0:0005f5 1 704
+contig_285	miniprot	CDS	8598	10803	2017	-	0	Parent=MP013197;Rank=1;Identity=0.7959;Frameshift=41;Target=11116at4893_27291_0:0005f5 1 704
+contig_285	miniprot	stop_codon	8598	8600	0	-	0	Parent=MP013197;Rank=1

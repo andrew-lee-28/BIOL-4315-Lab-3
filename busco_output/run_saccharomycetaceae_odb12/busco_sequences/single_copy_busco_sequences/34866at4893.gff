@@ -1,0 +1,2 @@
+contig_134	miniprot	mRNA	8641	11510	2585	-	.	ID=MP006890;Rank=1;Identity=0.7988;Positive=0.8379;Frameshift=51;StopCodon=1;Target=34866at4893_1095631_0:000570 1 956
+contig_134	miniprot	CDS	8641	11510	2585	-	0	Parent=MP006890;Rank=1;Identity=0.7988;Frameshift=51;StopCodon=1;Target=34866at4893_1095631_0:000570 1 956

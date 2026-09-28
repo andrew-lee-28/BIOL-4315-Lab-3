@@ -1,0 +1,2 @@
+contig_342	miniprot	mRNA	18613	19223	372	+	.	ID=MP040717;Rank=1;Identity=0.7136;Positive=0.7816;Frameshift=12;StopCodon=1;Target=37285at4893_1095631_0:00038c 4 196
+contig_342	miniprot	CDS	18613	19223	372	+	0	Parent=MP040717;Rank=1;Identity=0.7136;Frameshift=12;StopCodon=1;Target=37285at4893_1095631_0:00038c 4 196

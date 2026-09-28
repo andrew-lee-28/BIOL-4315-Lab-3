@@ -1,0 +1,16 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+16915at4893_1095631_0:0005d4|contig_181:5596-7225|- -            529 16915                -            521  4.1e-182  593.9   0.4   1   1    5e-182    5e-182  593.6   0.4    25   518    36   528    20   529 0.95 <unknown description>
+16915at4893_764102_0:0003f7|contig_181:5596-6452|-  -            278 16915                -            521  8.9e-114  368.4   0.0   1   1    1e-113    1e-113  368.2   0.0   241   518     1   277     1   278 0.96 <unknown description>
+16915at4893_1095631_0:0017fe|contig_181:6031-7225|- -            389 16915                -            521  5.7e-111  359.1   0.2   1   1  6.7e-111  6.7e-111  358.9   0.2    23   375    35   388    12   389 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/16915at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/16915at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/16915at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/16915at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/16915at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:31:50 2026
+# [ok]

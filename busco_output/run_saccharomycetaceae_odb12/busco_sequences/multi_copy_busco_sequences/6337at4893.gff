@@ -1,0 +1,6 @@
+contig_412	miniprot	mRNA	7955	10017	1333	+	.	ID=MP014662;Rank=1;Identity=0.6935;Positive=0.7471;Frameshift=35;StopCodon=2;Target=6337at4893_1095631_0:0010ce 3 660
+contig_412	miniprot	CDS	7955	10017	1333	+	0	Parent=MP014662;Rank=1;Identity=0.6935;Frameshift=35;StopCodon=2;Target=6337at4893_1095631_0:0010ce 3 660
+contig_412	miniprot	stop_codon	10015	10017	0	+	0	Parent=MP014662;Rank=1
+contig_346	miniprot	mRNA	7731	9763	1309	-	.	ID=MP014663;Rank=2;Identity=0.6961;Positive=0.7504;Frameshift=36;StopCodon=2;Target=6337at4893_1095631_0:0010ce 1 660
+contig_346	miniprot	CDS	7731	9763	1309	-	0	Parent=MP014663;Rank=2;Identity=0.6961;Frameshift=36;StopCodon=2;Target=6337at4893_1095631_0:0010ce 1 660
+contig_346	miniprot	stop_codon	7731	7733	0	-	0	Parent=MP014663;Rank=2

@@ -1,0 +1,3 @@
+contig_110	miniprot	mRNA	18396	19435	814	+	.	ID=MP033303;Rank=1;Identity=0.8071;Positive=0.8476;Frameshift=20;Target=31053at4893_1095631_0:0008ca 1 325
+contig_110	miniprot	CDS	18396	19435	814	+	0	Parent=MP033303;Rank=1;Identity=0.8071;Frameshift=20;Target=31053at4893_1095631_0:0008ca 1 325
+contig_110	miniprot	stop_codon	19433	19435	0	+	0	Parent=MP033303;Rank=1

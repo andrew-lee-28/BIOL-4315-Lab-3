@@ -1,0 +1,2 @@
+contig_336	miniprot	mRNA	4623	5299	410	+	.	ID=MP039270;Rank=1;Identity=0.7511;Positive=0.7820;Frameshift=14;StopCodon=1;Target=5794at4893_1095631_0:000c9a 1 215
+contig_336	miniprot	CDS	4623	5299	410	+	0	Parent=MP039270;Rank=1;Identity=0.7511;Frameshift=14;StopCodon=1;Target=5794at4893_1095631_0:000c9a 1 215

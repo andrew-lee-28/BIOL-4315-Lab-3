@@ -1,0 +1,2 @@
+contig_108	miniprot	mRNA	14719	15714	992	-	.	ID=MP033584;Rank=1;Identity=0.8877;Positive=0.9057;Frameshift=19;Target=556at4893_1095631_0:0007a5 1 322
+contig_108	miniprot	CDS	14719	15714	992	-	0	Parent=MP033584;Rank=1;Identity=0.8877;Frameshift=19;Target=556at4893_1095631_0:0007a5 1 322

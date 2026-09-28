@@ -1,0 +1,2 @@
+contig_424	miniprot	mRNA	14414	16425	1565	-	.	ID=MP013689;Rank=1;Identity=0.7181;Positive=0.7715;Frameshift=31;StopCodon=2;Target=27947at4893_1095631_0:00090e 1 643
+contig_424	miniprot	CDS	14414	16425	1565	-	0	Parent=MP013689;Rank=1;Identity=0.7181;Frameshift=31;StopCodon=2;Target=27947at4893_1095631_0:00090e 1 643

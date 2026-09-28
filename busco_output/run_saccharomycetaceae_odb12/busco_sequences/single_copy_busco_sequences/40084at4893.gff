@@ -1,0 +1,3 @@
+contig_21	miniprot	mRNA	24696	25064	277	-	.	ID=MP043681;Rank=1;Identity=0.7459;Positive=0.8432;Frameshift=8;Target=40084at4893_1095631_0:0006ad 1 120
+contig_21	miniprot	CDS	24696	25064	277	-	0	Parent=MP043681;Rank=1;Identity=0.7459;Frameshift=8;Target=40084at4893_1095631_0:0006ad 1 120
+contig_21	miniprot	stop_codon	24696	24698	0	-	0	Parent=MP043681;Rank=1

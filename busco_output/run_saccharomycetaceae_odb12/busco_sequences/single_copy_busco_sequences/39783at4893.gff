@@ -1,0 +1,4 @@
+contig_51	miniprot	mRNA	15624	17921	1837	-	.	ID=MP012238;Rank=1;Identity=0.7897;Positive=0.8300;Frameshift=46;StopCodon=1;Target=39783at4893_1095631_0:000b2b 1 733
+contig_51	miniprot	CDS	16956	17921	838	-	0	Parent=MP012238;Rank=1;Identity=0.8142;Frameshift=19;StopCodon=1;Target=39783at4893_1095631_0:000b2b 1 311
+contig_51	miniprot	CDS	15624	16949	999	-	0	Parent=MP012238;Rank=1;Identity=0.7719;Frameshift=27;Target=39783at4893_1095631_0:000b2b 312 733
+contig_51	miniprot	stop_codon	15624	15626	0	-	0	Parent=MP012238;Rank=1

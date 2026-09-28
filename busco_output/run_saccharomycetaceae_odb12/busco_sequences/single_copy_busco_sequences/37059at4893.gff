@@ -1,0 +1,3 @@
+contig_60	miniprot	mRNA	49199	49882	566	-	.	ID=MP039221;Rank=1;Identity=0.7719;Positive=0.8026;Frameshift=9;Target=37059at4893_1095631_0:0006f5 1 218
+contig_60	miniprot	CDS	49199	49882	566	-	0	Parent=MP039221;Rank=1;Identity=0.7719;Frameshift=9;Target=37059at4893_1095631_0:0006f5 1 218
+contig_60	miniprot	stop_codon	49199	49201	0	-	0	Parent=MP039221;Rank=1

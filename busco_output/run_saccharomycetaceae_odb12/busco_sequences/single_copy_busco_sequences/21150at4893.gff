@@ -1,0 +1,2 @@
+contig_126	miniprot	mRNA	4770	9513	620	+	.	ID=MP001631;Rank=1;Identity=0.4096;Positive=0.5102;Frameshift=57;StopCodon=7;Target=21150at4893_27292_0:0003dc 18 1546
+contig_126	miniprot	CDS	4770	9513	620	+	0	Parent=MP001631;Rank=1;Identity=0.4096;Frameshift=57;StopCodon=7;Target=21150at4893_27292_0:0003dc 18 1546

@@ -1,0 +1,3 @@
+contig_102	miniprot	mRNA	7917	9364	1116	-	.	ID=MP023771;Rank=1;Identity=0.7654;Positive=0.8148;Frameshift=31;StopCodon=1;Target=7330at4893_1095631_0:000265 1 469
+contig_102	miniprot	CDS	7917	9364	1116	-	0	Parent=MP023771;Rank=1;Identity=0.7654;Frameshift=31;StopCodon=1;Target=7330at4893_1095631_0:000265 1 469
+contig_102	miniprot	stop_codon	7917	7919	0	-	0	Parent=MP023771;Rank=1

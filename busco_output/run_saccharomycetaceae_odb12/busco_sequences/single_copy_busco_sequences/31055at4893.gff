@@ -1,0 +1,2 @@
+contig_351	miniprot	mRNA	7282	8180	690	+	.	ID=MP035602;Rank=1;Identity=0.7325;Positive=0.7691;Frameshift=13;StopCodon=1;Target=31055at4893_27292_0:0006ed 1 288
+contig_351	miniprot	CDS	7282	8180	690	+	0	Parent=MP035602;Rank=1;Identity=0.7325;Frameshift=13;StopCodon=1;Target=31055at4893_27292_0:0006ed 1 288

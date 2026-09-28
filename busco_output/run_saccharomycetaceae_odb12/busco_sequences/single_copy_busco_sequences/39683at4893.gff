@@ -1,0 +1,3 @@
+contig_119	miniprot	mRNA	13413	16655	2742	-	.	ID=MP005198;Rank=1;Identity=0.7537;Positive=0.8014;Frameshift=45;StopCodon=3;Target=39683at4893_1095631_0:0002b5 8 1062
+contig_119	miniprot	CDS	13413	16655	2742	-	0	Parent=MP005198;Rank=1;Identity=0.7537;Frameshift=45;StopCodon=3;Target=39683at4893_1095631_0:0002b5 8 1062
+contig_119	miniprot	stop_codon	13413	13415	0	-	0	Parent=MP005198;Rank=1

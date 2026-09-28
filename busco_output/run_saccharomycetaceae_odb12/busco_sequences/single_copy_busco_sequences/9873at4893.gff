@@ -1,0 +1,2 @@
+contig_267	miniprot	mRNA	3986	5148	952	+	.	ID=MP029662;Rank=1;Identity=0.7346;Positive=0.7628;Frameshift=14;StopCodon=1;Target=9873at4893_27292_0:001096 1 373
+contig_267	miniprot	CDS	3986	5148	952	+	0	Parent=MP029662;Rank=1;Identity=0.7346;Frameshift=14;StopCodon=1;Target=9873at4893_27292_0:001096 1 373

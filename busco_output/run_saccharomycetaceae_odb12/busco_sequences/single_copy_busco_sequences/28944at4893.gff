@@ -1,0 +1,2 @@
+contig_104	miniprot	mRNA	19360	20242	700	+	.	ID=MP035216;Rank=1;Identity=0.7350;Positive=0.7816;Frameshift=15;Target=28944at4893_1095631_0:000eb5 1 295
+contig_104	miniprot	CDS	19360	20242	700	+	0	Parent=MP035216;Rank=1;Identity=0.7350;Frameshift=15;Target=28944at4893_1095631_0:000eb5 1 295

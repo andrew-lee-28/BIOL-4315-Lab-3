@@ -1,0 +1,2 @@
+contig_425	miniprot	mRNA	38972	39293	286	+	.	ID=MP043734;Rank=1;Identity=0.7000;Positive=0.7727;Frameshift=4;Target=28045at4893_4932_0:00049f 1 109
+contig_425	miniprot	CDS	38972	39293	286	+	0	Parent=MP043734;Rank=1;Identity=0.7000;Frameshift=4;Target=28045at4893_4932_0:00049f 1 109

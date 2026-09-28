@@ -1,0 +1,3 @@
+contig_135	miniprot	mRNA	20407	20818	539	+	.	ID=MP042946;Rank=1;Identity=0.8686;Positive=0.9124;Frameshift=4;Target=10064at4893_27291_0:001589 8 143
+contig_135	miniprot	CDS	20407	20818	539	+	0	Parent=MP042946;Rank=1;Identity=0.8686;Frameshift=4;Target=10064at4893_27291_0:001589 8 143
+contig_135	miniprot	stop_codon	20816	20818	0	+	0	Parent=MP042946;Rank=1

@@ -1,0 +1,20 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+39274at4893_1095631_0:0003c3|contig_166:18008-21282|+ -           1069 39274                -            678   3.6e-51  161.3  13.6   1   5   2.7e-06   2.7e-06   13.0   0.1    13    75    21    83     9    89 0.71 <unknown description>
+39274at4893_1095631_0:0003c3|contig_166:18008-21282|+ -           1069 39274                -            678   3.6e-51  161.3  13.6   2   5   5.9e-07   5.9e-07   15.2   0.3    62   101   175   214   162   225 0.78 <unknown description>
+39274at4893_1095631_0:0003c3|contig_166:18008-21282|+ -           1069 39274                -            678   3.6e-51  161.3  13.6   3   5   5.8e-14   5.8e-14   38.3   0.6    92   221   279   409   237   426 0.74 <unknown description>
+39274at4893_1095631_0:0003c3|contig_166:18008-21282|+ -           1069 39274                -            678   3.6e-51  161.3  13.6   4   5    0.0018    0.0018    3.7   0.2   230   302   466   554   427   578 0.53 <unknown description>
+39274at4893_1095631_0:0003c3|contig_166:18008-21282|+ -           1069 39274                -            678   3.6e-51  161.3  13.6   5   5   1.7e-31   1.7e-31   96.3   0.0   408   677   769  1065   761  1066 0.78 <unknown description>
+39274at4893_1230905_0:00104b|contig_166:18588-19185|+ -            156 39274                -            678   5.9e-15   41.6   1.2   1   2   5.1e-06   5.1e-06   12.1   0.2    75    99     1    25     1    32 0.84 <unknown description>
+39274at4893_1230905_0:00104b|contig_166:18588-19185|+ -            156 39274                -            678   5.9e-15   41.6   1.2   2   2   4.1e-11   4.1e-11   28.9   0.0   114   195    73   155    37   155 0.74 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/39274at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/39274at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/39274at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/39274at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/39274at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:18 2026
+# [ok]

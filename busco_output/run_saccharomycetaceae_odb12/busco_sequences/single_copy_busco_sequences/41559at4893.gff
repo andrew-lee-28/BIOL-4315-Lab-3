@@ -1,0 +1,2 @@
+contig_160	miniprot	mRNA	22946	24669	877	+	.	ID=MP016920;Rank=1;Identity=0.5659;Positive=0.6267;Frameshift=20;StopCodon=3;Target=41559at4893_4932_0:000c47 24 591
+contig_160	miniprot	CDS	22946	24669	877	+	0	Parent=MP016920;Rank=1;Identity=0.5659;Frameshift=20;StopCodon=3;Target=41559at4893_4932_0:000c47 24 591

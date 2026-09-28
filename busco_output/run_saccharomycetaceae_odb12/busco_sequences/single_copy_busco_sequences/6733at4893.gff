@@ -1,0 +1,3 @@
+contig_60	miniprot	mRNA	41264	42500	755	+	.	ID=MP029477;Rank=1;Identity=0.7009;Positive=0.7615;Frameshift=23;Target=6733at4893_1095631_0:000703 1 387
+contig_60	miniprot	CDS	41264	42500	755	+	0	Parent=MP029477;Rank=1;Identity=0.7009;Frameshift=23;Target=6733at4893_1095631_0:000703 1 387
+contig_60	miniprot	stop_codon	42498	42500	0	+	0	Parent=MP029477;Rank=1

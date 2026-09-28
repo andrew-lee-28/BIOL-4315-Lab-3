@@ -1,0 +1,3 @@
+contig_22	miniprot	mRNA	34261	35402	803	-	.	ID=MP030404;Rank=1;Identity=0.6760;Positive=0.7467;Frameshift=16;StopCodon=1;Target=28095at4893_1095631_0:00060a 1 368
+contig_22	miniprot	CDS	34261	35402	803	-	0	Parent=MP030404;Rank=1;Identity=0.6760;Frameshift=16;StopCodon=1;Target=28095at4893_1095631_0:00060a 1 368
+contig_22	miniprot	stop_codon	34261	34263	0	-	0	Parent=MP030404;Rank=1

@@ -1,0 +1,3 @@
+contig_175	miniprot	mRNA	3862	4496	462	+	.	ID=MP040389;Rank=1;Identity=0.7228;Positive=0.7606;Frameshift=13;Target=42167at4893_4932_0:000715 1 201
+contig_175	miniprot	CDS	3862	4496	462	+	0	Parent=MP040389;Rank=1;Identity=0.7228;Frameshift=13;Target=42167at4893_4932_0:000715 1 201
+contig_175	miniprot	stop_codon	4494	4496	0	+	0	Parent=MP040389;Rank=1

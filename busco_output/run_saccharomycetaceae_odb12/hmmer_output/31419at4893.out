@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+31419at4893_1160507_0:0006c9|contig_330:8127-9855|- -            560 31419                -            740   1.8e-78  252.6   3.3   1   1   2.4e-78   2.4e-78  252.1   3.3    54   606     2   552     1   558 0.84 <unknown description>
+31419at4893_1095631_0:0008b0|contig_330:7686-9855|- -            688 31419                -            740   2.2e-78  252.2   0.6   1   2   4.1e-78   4.1e-78  251.4   0.5    54   680     2   636     1   646 0.80 <unknown description>
+31419at4893_1095631_0:0008b0|contig_330:7686-9855|- -            688 31419                -            740   2.2e-78  252.2   0.6   2   2      0.25      0.25   -2.5   0.0   707   736   642   676   636   679 0.66 <unknown description>
+31419at4893_1064592_0:000511|contig_330:8416-9767|- -            417 31419                -            740   1.2e-54  173.7  22.6   1   2   1.4e-47   1.4e-47  150.4  10.8    84   432     2   356     1   369 0.81 <unknown description>
+31419at4893_1064592_0:000511|contig_330:8416-9767|- -            417 31419                -            740   1.2e-54  173.7  22.6   2   2   6.3e-11   6.3e-11   29.2   4.4   482   525   376   416   357   417 0.84 <unknown description>
+31419at4893_27294_0:000ecf|contig_330:8949-9855|-   -            298 31419                -            740   1.3e-43  137.3   4.3   1   1   1.4e-43   1.4e-43  137.2   4.3    54   349     2   297     1   298 0.82 <unknown description>
+31419at4893_42260_0:000388|contig_330:9137-9767|-   -            208 31419                -            740   1.9e-32  100.4   4.6   1   1   2.1e-32   2.1e-32  100.2   4.6    84   287     2   207     1   208 0.84 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/31419at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/31419at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/31419at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/31419at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/31419at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:06 2026
+# [ok]

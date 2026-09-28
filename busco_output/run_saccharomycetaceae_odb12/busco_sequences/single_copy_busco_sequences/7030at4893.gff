@@ -1,0 +1,3 @@
+contig_425	miniprot	mRNA	28954	30240	1298	-	.	ID=MP027220;Rank=1;Identity=0.8252;Positive=0.8788;Frameshift=18;StopCodon=1;Target=7030at4893_1095631_0:000430 5 422
+contig_425	miniprot	CDS	28954	30240	1298	-	0	Parent=MP027220;Rank=1;Identity=0.8252;Frameshift=18;StopCodon=1;Target=7030at4893_1095631_0:000430 5 422
+contig_425	miniprot	stop_codon	28954	28956	0	-	0	Parent=MP027220;Rank=1

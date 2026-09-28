@@ -1,0 +1,3 @@
+contig_102	miniprot	mRNA	15968	17943	1726	+	.	ID=MP015504;Rank=1;Identity=0.7739;Positive=0.8376;Frameshift=33;Target=33916at4893_1095631_0:000209 6 635
+contig_102	miniprot	CDS	15968	17943	1726	+	0	Parent=MP015504;Rank=1;Identity=0.7739;Frameshift=33;Target=33916at4893_1095631_0:000209 6 635
+contig_102	miniprot	stop_codon	17941	17943	0	+	0	Parent=MP015504;Rank=1

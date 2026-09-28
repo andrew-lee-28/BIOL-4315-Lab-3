@@ -1,0 +1,2 @@
+contig_103	miniprot	mRNA	9963	10607	539	-	.	ID=MP038259;Rank=1;Identity=0.8056;Positive=0.8333;Frameshift=14;Target=25501at4893_1095631_0:000e4d 31 238
+contig_103	miniprot	CDS	9963	10607	539	-	0	Parent=MP038259;Rank=1;Identity=0.8056;Frameshift=14;Target=25501at4893_1095631_0:000e4d 31 238

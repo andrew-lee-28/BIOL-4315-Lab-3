@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+28771at4893_1095631_0:001187|contig_67:20178-23444|+ -           1070 28771                -           1060  2.2e-133  434.5   0.0   1   1  2.8e-133  2.8e-133  434.1   0.0    12  1057    16  1045     2  1048 0.81 <unknown description>
+28771at4893_1071383_0:000102|contig_67:20802-23048|+ -            707 28771                -           1060  2.6e-107  348.1   0.0   1   2   3.6e-63   3.6e-63  202.0   0.0   210   611     1   397     1   406 0.88 <unknown description>
+28771at4893_1071383_0:000102|contig_67:20802-23048|+ -            707 28771                -           1060  2.6e-107  348.1   0.0   2   2   9.3e-46   9.3e-46  144.3   0.0   657   954   421   706   410   707 0.88 <unknown description>
+28771at4893_27292_0:0014d7|contig_67:20178-22520|+   -            746 28771                -           1060   5.5e-85  274.2   0.0   1   2   2.2e-67   2.2e-67  215.9   0.0    12   485    16   476     2   492 0.83 <unknown description>
+28771at4893_27292_0:0014d7|contig_67:20178-22520|+   -            746 28771                -           1060   5.5e-85  274.2   0.0   2   2   3.4e-19   3.4e-19   56.4   0.0   530   760   496   730   485   738 0.76 <unknown description>
+28771at4893_1245769_0:000eeb|contig_67:20761-21588|+ -            273 28771                -           1060   8.9e-52  164.3   0.0   1   1   9.9e-52   9.9e-52  164.1   0.0   197   473     2   272     1   273 0.90 <unknown description>
+28771at4893_1266666_0:000832|contig_67:21149-21588|+ -            146 28771                -           1060   3.9e-37  115.8   0.0   1   1   4.1e-37   4.1e-37  115.7   0.0   330   473     7   145     1   146 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/28771at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/28771at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/28771at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/28771at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/28771at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:01 2026
+# [ok]

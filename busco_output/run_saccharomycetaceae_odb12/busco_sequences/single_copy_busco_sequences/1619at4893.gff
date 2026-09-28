@@ -1,0 +1,3 @@
+contig_194	miniprot	mRNA	18825	20855	1794	-	.	ID=MP014598;Rank=1;Identity=0.7881;Positive=0.8394;Frameshift=36;StopCodon=2;Target=1619at4893_1095631_0:000ccf 1 661
+contig_194	miniprot	CDS	18825	20855	1794	-	0	Parent=MP014598;Rank=1;Identity=0.7881;Frameshift=36;StopCodon=2;Target=1619at4893_1095631_0:000ccf 1 661
+contig_194	miniprot	stop_codon	18825	18827	0	-	0	Parent=MP014598;Rank=1

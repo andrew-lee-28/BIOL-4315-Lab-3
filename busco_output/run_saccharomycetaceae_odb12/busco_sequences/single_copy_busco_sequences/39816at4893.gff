@@ -1,0 +1,2 @@
+contig_59	miniprot	mRNA	2334	3211	928	+	.	ID=MP034650;Rank=1;Identity=0.8188;Positive=0.8494;Frameshift=13;Target=39816at4893_1095631_0:000061 1 287
+contig_59	miniprot	CDS	2334	3211	928	+	0	Parent=MP034650;Rank=1;Identity=0.8188;Frameshift=13;Target=39816at4893_1095631_0:000061 1 287

@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+4588at4893_1095631_0:000ee8|contig_243:12176-13479|- -            429 4588                 -            386  7.1e-135  438.3   2.7   1   1    1e-132    1e-132  431.2   2.7     3   385    14   427    12   428 0.86 <unknown description>
+4588at4893_764097_0:000b36|contig_243:12480-13479|-  -            329 4588                 -            386    1e-109  355.5   1.4   1   2   3.5e-43   3.5e-43  136.4   0.5     3   111    14   122    12   134 0.92 <unknown description>
+4588at4893_764097_0:000b36|contig_243:12480-13479|-  -            329 4588                 -            386    1e-109  355.5   1.4   2   2   5.2e-68   5.2e-68  218.2   0.0   108   277   139   312   129   327 0.89 <unknown description>
+4588at4893_45286_0:0003fe|contig_243:12730-13445|-   -            237 4588                 -            386     1e-96  312.7   1.7   1   1   1.2e-94   1.2e-94  305.9   1.7     3   216     3   237     1   237 0.86 <unknown description>
+4588at4893_27292_0:00111f|contig_243:12886-13479|-   -            196 4588                 -            386   1.3e-65  210.3   0.7   1   2     1e-43     1e-43  138.3   0.5     3   111    14   122    12   135 0.92 <unknown description>
+4588at4893_27292_0:00111f|contig_243:12886-13479|-   -            196 4588                 -            386   1.3e-65  210.3   0.7   2   2   3.3e-23   3.3e-23   70.7   0.0   108   164   139   196   129   196 0.91 <unknown description>
+4588at4893_27292_0:001072|contig_243:12176-12853|-   -            223 4588                 -            386   1.1e-58  187.5   0.2   1   1   1.2e-58   1.2e-58  187.3   0.2   175   385     1   221     1   222 0.88 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/4588at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/4588at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/4588at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/4588at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/4588at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:28 2026
+# [ok]

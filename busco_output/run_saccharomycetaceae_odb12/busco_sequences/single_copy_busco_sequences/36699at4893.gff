@@ -1,0 +1,3 @@
+contig_110	miniprot	mRNA	21706	22132	486	+	.	ID=MP043086;Rank=1;Identity=0.8621;Positive=0.9042;Frameshift=7;Target=36699at4893_1095631_0:0008ac 1 141
+contig_110	miniprot	CDS	21706	22132	486	+	0	Parent=MP043086;Rank=1;Identity=0.8621;Frameshift=7;Target=36699at4893_1095631_0:0008ac 1 141
+contig_110	miniprot	stop_codon	22130	22132	0	+	0	Parent=MP043086;Rank=1

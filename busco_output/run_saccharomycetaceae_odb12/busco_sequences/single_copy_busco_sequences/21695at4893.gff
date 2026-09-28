@@ -1,0 +1,3 @@
+contig_48	miniprot	mRNA	7652	9233	1310	+	.	ID=MP021149;Rank=1;Identity=0.7863;Positive=0.8334;Frameshift=33;StopCodon=2;Target=21695at4893_1095631_0:0002e9 1 515
+contig_48	miniprot	CDS	7652	9233	1310	+	0	Parent=MP021149;Rank=1;Identity=0.7863;Frameshift=33;StopCodon=2;Target=21695at4893_1095631_0:0002e9 1 515
+contig_48	miniprot	stop_codon	9231	9233	0	+	0	Parent=MP021149;Rank=1

@@ -1,0 +1,3 @@
+contig_102	miniprot	mRNA	14013	14710	660	-	.	ID=MP038942;Rank=1;Identity=0.8393;Positive=0.8780;Frameshift=13;Target=41100at4893_1095631_0:00023c 1 224
+contig_102	miniprot	CDS	14013	14710	660	-	0	Parent=MP038942;Rank=1;Identity=0.8393;Frameshift=13;Target=41100at4893_1095631_0:00023c 1 224
+contig_102	miniprot	stop_codon	14013	14015	0	-	0	Parent=MP038942;Rank=1

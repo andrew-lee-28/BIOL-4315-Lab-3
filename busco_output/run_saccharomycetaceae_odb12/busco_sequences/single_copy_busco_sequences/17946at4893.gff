@@ -1,0 +1,3 @@
+contig_258	miniprot	mRNA	16849	17503	595	+	.	ID=MP039651;Rank=1;Identity=0.8058;Positive=0.8422;Frameshift=11;Target=17946at4893_764097_0:00081d 2 211
+contig_258	miniprot	CDS	16849	17503	595	+	0	Parent=MP039651;Rank=1;Identity=0.8058;Frameshift=11;Target=17946at4893_764097_0:00081d 2 211
+contig_258	miniprot	stop_codon	17501	17503	0	+	0	Parent=MP039651;Rank=1

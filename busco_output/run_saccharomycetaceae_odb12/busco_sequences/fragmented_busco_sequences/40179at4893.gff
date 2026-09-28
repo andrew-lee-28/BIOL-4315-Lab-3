@@ -1,0 +1,2 @@
+contig_46	miniprot	mRNA	18742	19350	442	-	.	ID=MP039640;Rank=1;Identity=0.7024;Positive=0.7659;Frameshift=9;Target=40179at4893_559292_0:00003e 3 200
+contig_46	miniprot	CDS	18742	19350	442	-	0	Parent=MP039640;Rank=1;Identity=0.7024;Frameshift=9;Target=40179at4893_559292_0:00003e 3 200

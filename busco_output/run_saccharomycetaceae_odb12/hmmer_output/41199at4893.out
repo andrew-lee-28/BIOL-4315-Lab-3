@@ -1,0 +1,15 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+41199at4893_1095631_0:002238|contig_83:2180-2842|- -            218 41199                -            483   2.7e-16   47.3   5.5   1   1   2.2e-16   4.5e-16   46.5   5.5   145   348     1   201     1   216 0.72 <unknown description>
+41199at4893_226126_0:0006d4|contig_83:2655-3370|-  -            234 41199                -            483   2.6e-13   37.4  17.3   1   1   1.1e-12   2.2e-12   34.4  17.3    10   209     1   233     1   233 0.64 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/41199at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/41199at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/41199at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/41199at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/41199at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:32 2026
+# [ok]

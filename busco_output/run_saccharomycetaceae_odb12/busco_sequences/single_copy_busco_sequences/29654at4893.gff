@@ -1,0 +1,2 @@
+contig_425	miniprot	mRNA	19375	20829	1787	-	.	ID=MP022494;Rank=1;Identity=0.8846;Positive=0.9008;Frameshift=15;StopCodon=1;Target=29654at4893_1095631_0:000419 1 491
+contig_425	miniprot	CDS	19375	20829	1787	-	0	Parent=MP022494;Rank=1;Identity=0.8846;Frameshift=15;StopCodon=1;Target=29654at4893_1095631_0:000419 1 491

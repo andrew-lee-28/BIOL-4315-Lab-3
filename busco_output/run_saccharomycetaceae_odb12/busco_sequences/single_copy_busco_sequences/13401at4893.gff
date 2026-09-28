@@ -1,0 +1,3 @@
+contig_118	miniprot	mRNA	27850	29756	1823	-	.	ID=MP015999;Rank=1;Identity=0.8412;Positive=0.8616;Frameshift=37;StopCodon=1;Target=13401at4893_1095631_0:000d65 4 620
+contig_118	miniprot	CDS	27850	29756	1823	-	0	Parent=MP015999;Rank=1;Identity=0.8412;Frameshift=37;StopCodon=1;Target=13401at4893_1095631_0:000d65 4 620
+contig_118	miniprot	stop_codon	27850	27852	0	-	0	Parent=MP015999;Rank=1

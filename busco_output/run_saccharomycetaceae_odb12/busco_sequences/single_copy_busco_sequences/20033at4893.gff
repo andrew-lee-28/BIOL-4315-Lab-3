@@ -1,0 +1,3 @@
+contig_23	miniprot	mRNA	6803	14250	1702	+	.	ID=MP012658;Rank=1;Identity=0.7092;Positive=0.7835;Frameshift=38;StopCodon=1;Target=20033at4893_230603_0:000b7c 1 720
+contig_23	miniprot	CDS	6803	8938	1659	+	0	Parent=MP012658;Rank=1;Identity=0.7301;Frameshift=38;StopCodon=1;Target=20033at4893_230603_0:000b7c 1 681
+contig_23	miniprot	CDS	14144	14250	43	+	2	Parent=MP012658;Rank=1;Identity=0.3158;Target=20033at4893_230603_0:000b7c 682 720

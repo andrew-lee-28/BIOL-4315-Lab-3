@@ -1,0 +1,2 @@
+contig_65	miniprot	mRNA	32141	33375	1061	+	.	ID=MP027519;Rank=1;Identity=0.7346;Positive=0.7891;Frameshift=19;Target=32285at4893_1095631_0:0001e3 1 417
+contig_65	miniprot	CDS	32141	33375	1061	+	0	Parent=MP027519;Rank=1;Identity=0.7346;Frameshift=19;Target=32285at4893_1095631_0:0001e3 1 417

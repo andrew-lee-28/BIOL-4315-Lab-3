@@ -1,0 +1,3 @@
+contig_5	miniprot	mRNA	32728	33457	576	+	.	ID=MP038489;Rank=1;Identity=0.7407;Positive=0.7860;Frameshift=12;Target=16707at4893_27292_0:000b0f 1 233
+contig_5	miniprot	CDS	32728	33457	576	+	0	Parent=MP038489;Rank=1;Identity=0.7407;Frameshift=12;Target=16707at4893_27292_0:000b0f 1 233
+contig_5	miniprot	stop_codon	33455	33457	0	+	0	Parent=MP038489;Rank=1

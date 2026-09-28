@@ -1,0 +1,3 @@
+contig_57	miniprot	mRNA	42022	44475	1693	-	.	ID=MP010693;Rank=1;Identity=0.7228;Positive=0.7615;Frameshift=45;StopCodon=4;Target=41952at4893_764097_0:000522 1 782
+contig_57	miniprot	CDS	42022	44475	1693	-	0	Parent=MP010693;Rank=1;Identity=0.7228;Frameshift=45;StopCodon=4;Target=41952at4893_764097_0:000522 1 782
+contig_57	miniprot	stop_codon	42022	42024	0	-	0	Parent=MP010693;Rank=1

@@ -1,0 +1,2 @@
+contig_279	miniprot	mRNA	18496	19446	599	+	.	ID=MP034769;Rank=1;Identity=0.6923;Positive=0.7516;Frameshift=19;Target=10303at4893_764102_0:0004fd 1 301
+contig_279	miniprot	CDS	18496	19446	599	+	0	Parent=MP034769;Rank=1;Identity=0.6923;Frameshift=19;Target=10303at4893_764102_0:0004fd 1 301

@@ -1,0 +1,3 @@
+contig_31	miniprot	mRNA	45258	46822	1043	-	.	ID=MP021730;Rank=1;Identity=0.7519;Positive=0.7863;Frameshift=33;StopCodon=1;Target=25957at4893_1095631_0:00068c 6 507
+contig_31	miniprot	CDS	45258	46822	1043	-	0	Parent=MP021730;Rank=1;Identity=0.7519;Frameshift=33;StopCodon=1;Target=25957at4893_1095631_0:00068c 6 507
+contig_31	miniprot	stop_codon	45258	45260	0	-	0	Parent=MP021730;Rank=1

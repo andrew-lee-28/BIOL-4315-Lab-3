@@ -1,0 +1,2 @@
+contig_404	miniprot	mRNA	7413	9856	1979	-	.	ID=MP010538;Rank=1;Identity=0.7656;Positive=0.8108;Frameshift=44;StopCodon=3;Target=3290at4893_1095631_0:0003a4 1 788
+contig_404	miniprot	CDS	7413	9856	1979	-	0	Parent=MP010538;Rank=1;Identity=0.7656;Frameshift=44;StopCodon=3;Target=3290at4893_1095631_0:0003a4 1 788

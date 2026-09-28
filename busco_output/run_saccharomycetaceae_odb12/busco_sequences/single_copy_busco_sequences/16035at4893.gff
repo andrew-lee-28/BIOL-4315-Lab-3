@@ -1,0 +1,3 @@
+contig_41	miniprot	mRNA	13459	14341	507	+	.	ID=MP036199;Rank=1;Identity=0.7135;Positive=0.7644;Frameshift=17;Target=16035at4893_1095631_0:000075 1 278
+contig_41	miniprot	CDS	13459	14341	507	+	0	Parent=MP036199;Rank=1;Identity=0.7135;Frameshift=17;Target=16035at4893_1095631_0:000075 1 278
+contig_41	miniprot	stop_codon	14339	14341	0	+	0	Parent=MP036199;Rank=1

@@ -1,0 +1,3 @@
+contig_386	miniprot	mRNA	8051	8467	389	-	.	ID=MP043294;Rank=1;Identity=0.8313;Positive=0.8530;Frameshift=5;StopCodon=1;Target=29165at4893_1095631_0:00109a 1 134
+contig_386	miniprot	CDS	8051	8467	389	-	0	Parent=MP043294;Rank=1;Identity=0.8313;Frameshift=5;StopCodon=1;Target=29165at4893_1095631_0:00109a 1 134
+contig_386	miniprot	stop_codon	8051	8053	0	-	0	Parent=MP043294;Rank=1

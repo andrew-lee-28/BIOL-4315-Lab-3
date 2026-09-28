@@ -1,0 +1,2 @@
+contig_56	miniprot	mRNA	12345	13859	1317	-	.	ID=MP022719;Rank=1;Identity=0.7495;Positive=0.8028;Frameshift=20;StopCodon=2;Target=16854at4893_1095631_0:00090f 1 487
+contig_56	miniprot	CDS	12345	13859	1317	-	0	Parent=MP022719;Rank=1;Identity=0.7495;Frameshift=20;StopCodon=2;Target=16854at4893_1095631_0:00090f 1 487

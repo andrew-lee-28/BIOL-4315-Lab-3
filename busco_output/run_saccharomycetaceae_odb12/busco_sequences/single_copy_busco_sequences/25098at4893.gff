@@ -1,0 +1,3 @@
+contig_296	miniprot	mRNA	4986	7250	1887	-	.	ID=MP011940;Rank=1;Identity=0.7799;Positive=0.8273;Frameshift=42;StopCodon=3;Target=25098at4893_1095631_0:000a16 1 742
+contig_296	miniprot	CDS	4986	7250	1887	-	0	Parent=MP011940;Rank=1;Identity=0.7799;Frameshift=42;StopCodon=3;Target=25098at4893_1095631_0:000a16 1 742
+contig_296	miniprot	stop_codon	4986	4988	0	-	0	Parent=MP011940;Rank=1

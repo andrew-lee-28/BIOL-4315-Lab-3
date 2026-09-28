@@ -1,0 +1,3286 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: saccharomycetaceae_odb12 (Creation date: 2026-05-22, number of genomes: 34, number of BUSCOs: 3282)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+15at4893	Missing
+20at4893	Missing
+21at4893	Missing
+28at4893	Missing
+32at4893	Missing
+33at4893	Missing
+35at4893	Missing
+39at4893	Missing
+75at4893	Complete	contig_425	49399	48763	-	298.6	189	https://v12-1.orthodb.org/?query=75at4893	Cdc36
+80at4893	Complete	contig_192	23694	24588	+	317.8	239	https://v12-1.orthodb.org/?query=80at4893	Mob1
+85at4893	Missing
+86at4893	Complete	contig_222	1744	463	-	457.6	316	https://v12-1.orthodb.org/?query=86at4893	Guanine nucleotide-binding protein subunit beta-like protein
+94at4893	Missing
+115at4893	Missing
+140at4893	Missing
+145at4893	Missing
+153at4893	Complete	contig_148	7260	6890	-	244.5	120	https://v12-1.orthodb.org/?query=153at4893	DNA-directed RNA polymerase II core subunit
+161at4893	Missing
+180at4893	Missing
+186at4893	Missing
+201at4893	Missing
+235at4893	Missing
+250at4893	Missing
+261at4893	Missing
+269at4893	Missing
+271at4893	Missing
+276at4893	Missing
+284at4893	Complete	contig_25	21464	21085	-	148.8	111	https://v12-1.orthodb.org/?query=284at4893	transcription factor IIA subunit
+337at4893	Complete	contig_428	2936	4997	+	805.6	647	https://v12-1.orthodb.org/?query=337at4893	fatty acid transporter
+351at4893	Complete	contig_201	293	1316	+	517.4	325	https://v12-1.orthodb.org/?query=351at4893	Swd2
+361at4893	Missing
+376at4893	Missing
+389at4893	Missing
+407at4893	Missing
+413at4893	Missing
+415at4893	Missing
+462at4893	Missing
+552at4893	Missing
+556at4893	Complete	contig_108	15714	14718	-	596.1	318	https://v12-1.orthodb.org/?query=556at4893	protein kinase activator
+564at4893	Missing
+573at4893	Missing
+584at4893	Missing
+604at4893	Missing
+655at4893	Complete	contig_82	22937	24230	+	844.5	428	https://v12-1.orthodb.org/?query=655at4893	histone deacetylase
+659at4893	Missing
+673at4893	Missing
+676at4893	Missing
+691at4893	Missing
+708at4893	Missing
+745at4893	Missing
+757at4893	Missing
+768at4893	Missing
+772at4893	Missing
+783at4893	Missing
+787at4893	Missing
+791at4893	Missing
+816at4893	Missing
+822at4893	Missing
+865at4893	Missing
+878at4893	Missing
+893at4893	Missing
+940at4893	Missing
+942at4893	Missing
+944at4893	Missing
+982at4893	Missing
+1013at4893	Complete	contig_314	91	1632	+	685.4	492	https://v12-1.orthodb.org/?query=1013at4893	tRNA methyltransferase
+1017at4893	Missing
+1018at4893	Complete	contig_54	8794	9530	+	353.7	233	https://v12-1.orthodb.org/?query=1018at4893	putative serine hydrolase
+1023at4893	Missing
+1034at4893	Missing
+1035at4893	Missing
+1079at4893	Missing
+1103at4893	Missing
+1106at4893	Missing
+1111at4893	Complete	contig_310	14461	14096	-	166.0	114	https://v12-1.orthodb.org/?query=1111at4893	mitochondrial ribosomal protein
+1112at4893	Missing
+1125at4893	Missing
+1132at4893	Missing
+1138at4893	Missing
+1141at4893	Missing
+1166at4893	Missing
+1171at4893	Missing
+1187at4893	Missing
+1199at4893	Missing
+1218at4893	Missing
+1235at4893	Missing
+1272at4893	Missing
+1284at4893	Missing
+1289at4893	Missing
+1314at4893	Missing
+1319at4893	Missing
+1335at4893	Missing
+1342at4893	Missing
+1377at4893	Missing
+1388at4893	Missing
+1398at4893	Missing
+1410at4893	Missing
+1435at4893	Missing
+1438at4893	Missing
+1452at4893	Missing
+1473at4893	Missing
+1515at4893	Missing
+1521at4893	Missing
+1525at4893	Missing
+1536at4893	Missing
+1552at4893	Missing
+1558at4893	Complete	contig_131	2931	2236	-	357.1	215	https://v12-1.orthodb.org/?query=1558at4893	GTP-binding protein
+1563at4893	Missing
+1570at4893	Missing
+1593at4893	Missing
+1598at4893	Missing
+1601at4893	Missing
+1612at4893	Missing
+1619at4893	Complete	contig_194	20855	18827	-	385.0	468	https://v12-1.orthodb.org/?query=1619at4893	DNA cross-link repair protein PSO2
+1635at4893	Missing
+1644at4893	Complete	contig_238	22291	20513	-	631.5	556	https://v12-1.orthodb.org/?query=1644at4893	Rib2
+1656at4893	Complete	contig_253	1201	1519	+	186.2	104	https://v12-1.orthodb.org/?query=1656at4893	HSP10
+1676at4893	Missing
+1679at4893	Missing
+1693at4893	Missing
+1708at4893	Complete	contig_204	15836	13850	-	1177.0	644	https://v12-1.orthodb.org/?query=1708at4893	nucleolar GTP-binding protein 1
+1716at4893	Missing
+1725at4893	Missing
+1736at4893	Missing
+1738at4893	Missing
+1743at4893	Missing
+1744at4893	Missing
+1765at4893	Missing
+1767at4893	Missing
+1775at4893	Missing
+1791at4893	Missing
+1796at4893	Missing
+1799at4893	Missing
+1823at4893	Missing
+1846at4893	Missing
+1847at4893	Missing
+1851at4893	Missing
+1852at4893	Missing
+1856at4893	Missing
+1868at4893	Missing
+1875at4893	Missing
+1899at4893	Missing
+1928at4893	Missing
+1939at4893	Missing
+1946at4893	Missing
+1972at4893	Missing
+1983at4893	Missing
+1998at4893	Missing
+2000at4893	Missing
+2013at4893	Missing
+2042at4893	Missing
+2071at4893	Missing
+2081at4893	Missing
+2111at4893	Complete	contig_211	13606	11035	-	752.5	726	https://v12-1.orthodb.org/?query=2111at4893	ubiquitin carboxyl-terminal hydrolase 14
+2115at4893	Complete	contig_30	13536	14697	+	142.4	294	https://v12-1.orthodb.org/?query=2115at4893	oxidant-induced cell-cycle arrest
+2126at4893	Missing
+2172at4893	Missing
+2186at4893	Missing
+2187at4893	Missing
+2196at4893	Missing
+2197at4893	Complete	contig_425	22645	21314	-	749.4	444	https://v12-1.orthodb.org/?query=2197at4893	26S proteasome regulatory subunit RPN5 C-terminal domain
+2198at4893	Missing
+2212at4893	Missing
+2234at4893	Missing
+2252at4893	Missing
+2261at4893	Missing
+2277at4893	Missing
+2281at4893	Missing
+2283at4893	Complete	contig_302	16241	13316	-	1232.7	917	https://v12-1.orthodb.org/?query=2283at4893	P-type ATPase
+2287at4893	Missing
+2295at4893	Complete	contig_3	7516	10751	+	1145.4	953	https://v12-1.orthodb.org/?query=2295at4893	STAS domain
+2296at4893	Missing
+2337at4893	Missing
+2362at4893	Complete	contig_308	575	1586	+	367.8	313	https://v12-1.orthodb.org/?query=2362at4893	glyoxalase I
+2387at4893	Missing
+2394at4893	Missing
+2411at4893	Missing
+2416at4893	Missing
+2450at4893	Missing
+2454at4893	Missing
+2461at4893	Missing
+2468at4893	Missing
+2477at4893	Missing
+2484at4893	Complete	contig_26	49585	46316	-	1392.3	1033	https://v12-1.orthodb.org/?query=2484at4893	glutamate dehydrogenase (NAD(+))
+2486at4893	Missing
+2493at4893	Missing
+2496at4893	Missing
+2500at4893	Missing
+2506at4893	Missing
+2509at4893	Missing
+2517at4893	Missing
+2523at4893	Missing
+2532at4893	Missing
+2557at4893	Complete	contig_32	18950	18196	-	169.8	209	https://v12-1.orthodb.org/?query=2557at4893	Mnd1
+2558at4893	Missing
+2575at4893	Complete	contig_84	9650	10452	+	172.8	194	https://v12-1.orthodb.org/?query=2575at4893	DNA polymerase zeta subunit
+2588at4893	Missing
+2597at4893	Missing
+2602at4893	Missing
+2608at4893	Missing
+2612at4893	Missing
+2619at4893	Missing
+2620at4893	Missing
+2625at4893	Missing
+2637at4893	Missing
+2668at4893	Missing
+2675at4893	Missing
+2689at4893	Missing
+2691at4893	Missing
+2718at4893	Complete	contig_401	11366	9863	-	521.4	441	https://v12-1.orthodb.org/?query=2718at4893	transcriptional coactivator HFI1/ADA1
+2719at4893	Missing
+2748at4893	Missing
+2764at4893	Missing
+2768at4893	Missing
+2769at4893	Complete	contig_47	12958	11087	-	826.5	596	https://v12-1.orthodb.org/?query=2769at4893	Exo70
+2773at4893	Missing
+2804at4893	Missing
+2807at4893	Missing
+2813at4893	Missing
+2849at4893	Missing
+2851at4893	Missing
+2859at4893	Missing
+2888at4893	Missing
+2897at4893	Missing
+2946at4893	Missing
+2959at4893	Missing
+2981at4893	Complete	contig_427	6223	7099	+	300.2	267	https://v12-1.orthodb.org/?query=2981at4893	kinase
+2990at4893	Complete	contig_279	4281	3080	-	359.2	366	https://v12-1.orthodb.org/?query=2990at4893	Tam41
+2998at4893	Missing
+2999at4893	Missing
+3008at4893	Missing
+3026at4893	Missing
+3029at4893	Complete	contig_303	10684	8458	-	306.2	580	https://v12-1.orthodb.org/?query=3029at4893	Zn(2)-C6 fungal-type DNA-binding domain signature
+3030at4893	Complete	contig_223	9188	8021	-	455.7	354	https://v12-1.orthodb.org/?query=3030at4893	probable trans-2-enoyl-CoA reductase,mitochondrial
+3050at4893	Missing
+3058at4893	Missing
+3067at4893	Missing
+3078at4893	Complete	contig_197	22898	26069	+	1450.8	1006	https://v12-1.orthodb.org/?query=3078at4893	ubiquitin activating enzyme e1
+3081at4893	Missing
+3086at4893	Complete	contig_55	6693	7635	+	227.0	258	https://v12-1.orthodb.org/?query=3086at4893	Mrp1
+3121at4893	Missing
+3146at4893	Missing
+3153at4893	Missing
+3155at4893	Missing
+3181at4893	Missing
+3189at4893	Missing
+3192at4893	Missing
+3240at4893	Missing
+3265at4893	Missing
+3269at4893	Missing
+3290at4893	Complete	contig_404	9856	7412	-	1010.4	795	https://v12-1.orthodb.org/?query=3290at4893	Tsr1
+3307at4893	Missing
+3337at4893	Missing
+3339at4893	Complete	contig_108	14242	12010	-	975.8	711	https://v12-1.orthodb.org/?query=3339at4893	YGL114W
+3341at4893	Missing
+3344at4893	Missing
+3349at4893	Missing
+3370at4893	Missing
+3392at4893	Missing
+3395at4893	Missing
+3399at4893	Missing
+3402at4893	Missing
+3405at4893	Missing
+3434at4893	Missing
+3438at4893	Missing
+3439at4893	Missing
+3465at4893	Complete	contig_260	9892	7945	-	650.9	610	https://v12-1.orthodb.org/?query=3465at4893	ATP-dependent RNA helicase
+3507at4893	Missing
+3510at4893	Complete	contig_325	11864	12598	+	248.1	231	https://v12-1.orthodb.org/?query=3510at4893	Bsd2
+3515at4893	Complete	contig_260	20298	19182	-	290.1	320	https://v12-1.orthodb.org/?query=3515at4893	Rav2p
+3531at4893	Missing
+3554at4893	Complete	contig_52	27847	26483	-	536.1	371	https://v12-1.orthodb.org/?query=3554at4893	NAD-dependent histone deacetylase HST3
+3585at4893	Missing
+3601at4893	Missing
+3606at4893	Missing
+3618at4893	Missing
+3620at4893	Missing
+3627at4893	Complete	contig_280	24600	23375	-	244.7	299	https://v12-1.orthodb.org/?query=3627at4893	YGR122W
+3629at4893	Missing
+3646at4893	Missing
+3653at4893	Missing
+3664at4893	Missing
+3669at4893	Complete	contig_126	9941	13519	+	1190.0	1138	https://v12-1.orthodb.org/?query=3669at4893	Mtc5
+3670at4893	Complete	contig_119	8099	10136	+	580.4	591	https://v12-1.orthodb.org/?query=3670at4893	dolichyl-phosphate-mannose-protein mannosyltransferase 7
+3687at4893	Missing
+3719at4893	Missing
+3724at4893	Missing
+3732at4893	Missing
+3733at4893	Missing
+3744at4893	Missing
+3745at4893	Missing
+3749at4893	Missing
+3762at4893	Missing
+3775at4893	Missing
+3777at4893	Missing
+3780at4893	Missing
+3781at4893	Missing
+3790at4893	Missing
+3799at4893	Missing
+3812at4893	Missing
+3836at4893	Missing
+3839at4893	Missing
+3853at4893	Missing
+3879at4893	Missing
+3885at4893	Missing
+3895at4893	Missing
+3898at4893	Missing
+3905at4893	Missing
+3909at4893	Missing
+3928at4893	Missing
+3960at4893	Missing
+3965at4893	Missing
+3978at4893	Missing
+3986at4893	Missing
+3989at4893	Complete	contig_92	6189	6819	+	244.8	199	https://v12-1.orthodb.org/?query=3989at4893	methyltransferase
+4001at4893	Missing
+4028at4893	Missing
+4036at4893	Missing
+4047at4893	Missing
+4059at4893	Missing
+4070at4893	Complete	contig_169	4355	8025	+	1952.2	1119	https://v12-1.orthodb.org/?query=4070at4893	ABC transporter
+4112at4893	Missing
+4115at4893	Missing
+4147at4893	Missing
+4148at4893	Missing
+4160at4893	Complete	contig_117	16965	15248	-	746.1	554	https://v12-1.orthodb.org/?query=4160at4893	Lcb1
+4194at4893	Missing
+4201at4893	Missing
+4204at4893	Missing
+4220at4893	Complete	contig_414	9415	7926	-	566.8	410	https://v12-1.orthodb.org/?query=4220at4893	Uba4
+4247at4893	Complete	contig_188	2825	5222	+	1048.2	734	https://v12-1.orthodb.org/?query=4247at4893	Erb1
+4259at4893	Missing
+4283at4893	Missing
+4302at4893	Missing
+4305at4893	Missing
+4307at4893	Complete	contig_28	47012	44675	-	836.5	676	https://v12-1.orthodb.org/?query=4307at4893	HIR1
+4310at4893	Missing
+4353at4893	Missing
+4360at4893	Complete	contig_72	10044	8783	-	468.1	359	https://v12-1.orthodb.org/?query=4360at4893	peptide chain release factor 1
+4365at4893	Missing
+4395at4893	Complete	contig_138	5534	4709	-	291.6	262	https://v12-1.orthodb.org/?query=4395at4893	replication factor A protein 2
+4406at4893	Complete	contig_138	2270	4532	+	583.4	633	https://v12-1.orthodb.org/?query=4406at4893	F-box protein
+4411at4893	Missing
+4443at4893	Complete	contig_368	3108	992	-	395.0	604	https://v12-1.orthodb.org/?query=4443at4893	probable ferric reductase transmembrane component 8
+4445at4893	Missing
+4448at4893	Missing
+4478at4893	Missing
+4480at4893	Missing
+4489at4893	Complete	contig_114	18002	16788	-	231.8	305	https://v12-1.orthodb.org/?query=4489at4893	RNA polymerase II transcription factor B subunit 4
+4493at4893	Complete	contig_193	20282	21342	+	123.9	227	https://v12-1.orthodb.org/?query=4493at4893	superficial pseudohyphal growth
+4516at4893	Complete	contig_10	18776	15288	-	922.5	1091	https://v12-1.orthodb.org/?query=4516at4893	cohesin subunit SCC3
+4523at4893	Complete	contig_65	33571	35852	+	649.4	718	https://v12-1.orthodb.org/?query=4523at4893	ER membrane protein complex subunit 1
+4524at4893	Complete	contig_78	4204	6324	+	788.9	665	https://v12-1.orthodb.org/?query=4524at4893	Trs85
+4526at4893	Missing
+4535at4893	Complete	contig_184	11623	10056	-	337.1	419	https://v12-1.orthodb.org/?query=4535at4893	meiotic sister-chromatid recombination- protein
+4549at4893	Complete	contig_148	14245	13123	-	312.1	349	https://v12-1.orthodb.org/?query=4549at4893	Palmitoyltransferase
+4563at4893	Missing
+4565at4893	Missing
+4569at4893	Complete	contig_135	14927	16321	+	269.6	358	https://v12-1.orthodb.org/?query=4569at4893	YPR085C
+4573at4893	Missing
+4588at4893	Complete	contig_243	13479	12176	-	438.3	383	https://v12-1.orthodb.org/?query=4588at4893	Tep1
+4591at4893	Missing
+4596at4893	Missing
+4620at4893	Missing
+4642at4893	Missing
+4657at4893	Missing
+4665at4893	Missing
+4671at4893	Missing
+4676at4893	Missing
+4678at4893	Missing
+4691at4893	Missing
+4706at4893	Missing
+4734at4893	Missing
+4740at4893	Missing
+4747at4893	Missing
+4752at4893	Missing
+4755at4893	Missing
+4765at4893	Complete	contig_103	39014	41600	+	673.9	758	https://v12-1.orthodb.org/?query=4765at4893	Mkt1
+4778at4893	Missing
+4782at4893	Missing
+4783at4893	Missing
+4793at4893	Missing
+4804at4893	Missing
+4837at4893	Missing
+4876at4893	Missing
+4896at4893	Missing
+4915at4893	Missing
+4921at4893	Missing
+4922at4893	Missing
+4954at4893	Missing
+4956at4893	Missing
+4957at4893	Missing
+4975at4893	Missing
+4980at4893	Missing
+5018at4893	Missing
+5022at4893	Missing
+5033at4893	Missing
+5035at4893	Missing
+5057at4893	Missing
+5061at4893	Complete	contig_261	12151	10202	-	494.8	538	https://v12-1.orthodb.org/?query=5061at4893	mitochondrial ribosome small subunit component
+5096at4893	Missing
+5107at4893	Complete	contig_425	78533	76809	-	184.6	372	https://v12-1.orthodb.org/?query=5107at4893	YDL180W
+5112at4893	Missing
+5113at4893	Missing
+5114at4893	Complete	contig_387	10738	9471	-	357.1	361	https://v12-1.orthodb.org/?query=5114at4893	protein BTN1
+5117at4893	Missing
+5130at4893	Missing
+5151at4893	Missing
+5195at4893	Missing
+5201at4893	Complete	contig_411	13613	15537	+	786.9	619	https://v12-1.orthodb.org/?query=5201at4893	histone deacetylase
+5202at4893	Missing
+5209at4893	Missing
+5214at4893	Missing
+5220at4893	Complete	contig_68	19567	20552	+	259.0	293	https://v12-1.orthodb.org/?query=5220at4893	Ats1
+5236at4893	Missing
+5244at4893	Missing
+5252at4893	Missing
+5262at4893	Missing
+5291at4893	Missing
+5293at4893	Complete	contig_110	4795	3467	-	263.4	368	https://v12-1.orthodb.org/?query=5293at4893	COP9 signalosome
+5306at4893	Missing
+5312at4893	Missing
+5335at4893	Complete	contig_353	5356	4124	-	514.1	366	https://v12-1.orthodb.org/?query=5335at4893	diacylglycerol O-acyltransferase
+5344at4893	Missing
+5345at4893	Missing
+5354at4893	Missing
+5355at4893	Complete	contig_359	9252	10883	+	475.9	467	https://v12-1.orthodb.org/?query=5355at4893	pH-response regulator protein palH/RIM21
+5357at4893	Missing
+5400at4893	Missing
+5402at4893	Missing
+5413at4893	Missing
+5423at4893	Missing
+5430at4893	Missing
+5444at4893	Missing
+5447at4893	Missing
+5450at4893	Missing
+5451at4893	Complete	contig_52	24948	23152	-	929.2	559	https://v12-1.orthodb.org/?query=5451at4893	Sti1
+5461at4893	Missing
+5519at4893	Missing
+5520at4893	Missing
+5521at4893	Missing
+5540at4893	Complete	contig_136	1847	1138	-	196.2	211	https://v12-1.orthodb.org/?query=5540at4893	U1 small nuclear ribonucleoprotein C
+5541at4893	Missing
+5555at4893	Missing
+5567at4893	Missing
+5568at4893	Missing
+5595at4893	Missing
+5600at4893	Missing
+5604at4893	Missing
+5610at4893	Missing
+5628at4893	Missing
+5630at4893	Missing
+5632at4893	Missing
+5634at4893	Missing
+5651at4893	Missing
+5652at4893	Complete	contig_310	59172	61319	+	349.3	627	https://v12-1.orthodb.org/?query=5652at4893	Haa1
+5653at4893	Missing
+5657at4893	Missing
+5669at4893	Missing
+5685at4893	Missing
+5686at4893	Missing
+5699at4893	Missing
+5700at4893	Missing
+5715at4893	Missing
+5725at4893	Missing
+5736at4893	Missing
+5749at4893	Missing
+5759at4893	Missing
+5772at4893	Missing
+5780at4893	Missing
+5794at4893	Complete	contig_336	4622	5299	+	238.1	214	https://v12-1.orthodb.org/?query=5794at4893	Vti1
+5796at4893	Complete	contig_139	5332	3976	-	420.2	425	https://v12-1.orthodb.org/?query=5796at4893	Prp24
+5803at4893	Complete	contig_28	40370	44202	+	1063.7	966	https://v12-1.orthodb.org/?query=5803at4893	Sla1
+5821at4893	Missing
+5848at4893	Missing
+5857at4893	Missing
+5862at4893	Complete	contig_346	16635	15167	-	737.8	444	https://v12-1.orthodb.org/?query=5862at4893	1,3-beta-glucanosyltransferase
+5876at4893	Complete	contig_97	8039	8796	+	221.0	200	https://v12-1.orthodb.org/?query=5876at4893	54S ribosomal protein L11
+5884at4893	Missing
+5891at4893	Missing
+5896at4893	Complete	contig_425	22983	25392	+	1085.3	751	https://v12-1.orthodb.org/?query=5896at4893	nucleolar complex protein 14
+5897at4893	Missing
+5899at4893	Missing
+5918at4893	Missing
+5920at4893	Missing
+5978at4893	Missing
+6015at4893	Missing
+6033at4893	Missing
+6035at4893	Missing
+6042at4893	Missing
+6052at4893	Missing
+6061at4893	Complete	contig_149	5790	4760	-	289.9	305	https://v12-1.orthodb.org/?query=6061at4893	pre-rRNA-processing protein IPI1
+6084at4893	Complete	contig_139	16216	15318	-	163.8	266	https://v12-1.orthodb.org/?query=6084at4893	CAAX prenyl protease
+6097at4893	Missing
+6103at4893	Missing
+6105at4893	Missing
+6126at4893	Complete	contig_228	13100	14374	+	304.8	300	https://v12-1.orthodb.org/?query=6126at4893	Crr1
+6128at4893	Complete	contig_298	6074	3994	-	419.4	572	https://v12-1.orthodb.org/?query=6128at4893	cell fusion- protein
+6136at4893	Complete	contig_394	9190	7182	-	561.8	571	https://v12-1.orthodb.org/?query=6136at4893	histone deacetylase
+6139at4893	Complete	contig_278	4230	5331	+	205.0	344	https://v12-1.orthodb.org/?query=6139at4893	Mitochondrial translation initiation factor
+6141at4893	Complete	contig_20	30358	30937	+	113.9	131	https://v12-1.orthodb.org/?query=6141at4893	Cgi121
+6148at4893	Missing
+6162at4893	Missing
+6166at4893	Missing
+6170at4893	Complete	contig_60	47419	49040	+	769.5	484	https://v12-1.orthodb.org/?query=6170at4893	ATP-dependent RNA helicase
+6180at4893	Missing
+6183at4893	Missing
+6185at4893	Missing
+6203at4893	Missing
+6206at4893	Missing
+6227at4893	Complete	contig_57	67986	65472	-	787.6	743	https://v12-1.orthodb.org/?query=6227at4893	AP-3 complex subunit beta
+6234at4893	Missing
+6238at4893	Missing
+6243at4893	Missing
+6249at4893	Missing
+6261at4893	Complete	contig_359	6585	5340	-	510.2	398	https://v12-1.orthodb.org/?query=6261at4893	pseudouridine synthase
+6262at4893	Missing
+6264at4893	Missing
+6271at4893	Missing
+6314at4893	Missing
+6327at4893	Missing
+6337at4893	Duplicated	contig_412	7954	10014	+	223.0	523	https://v12-1.orthodb.org/?query=6337at4893	Cullin-associated NEDD8-dissociated protein 1
+6337at4893	Duplicated	contig_346	9763	7733	-	228.9	502	https://v12-1.orthodb.org/?query=6337at4893	Cullin-associated NEDD8-dissociated protein 1
+6357at4893	Complete	contig_102	20672	18911	-	539.6	441	https://v12-1.orthodb.org/?query=6357at4893	peroxin
+6385at4893	Missing
+6397at4893	Missing
+6426at4893	Fragmented	contig_310	12600	13792	+	178.9	194	https://v12-1.orthodb.org/?query=6426at4893	YPL014W
+6436at4893	Missing
+6466at4893	Missing
+6506at4893	Missing
+6522at4893	Missing
+6525at4893	Missing
+6550at4893	Missing
+6588at4893	Missing
+6629at4893	Complete	contig_104	4941	5555	+	183.0	184	https://v12-1.orthodb.org/?query=6629at4893	Pex17
+6649at4893	Complete	contig_5	34581	37821	+	1007.4	1034	https://v12-1.orthodb.org/?query=6649at4893	Pex1
+6663at4893	Complete	contig_177	3992	5512	+	305.2	462	https://v12-1.orthodb.org/?query=6663at4893	U1 small nuclear ribonucleoprotein component
+6673at4893	Missing
+6682at4893	Complete	contig_215	11486	13004	+	249.4	483	https://v12-1.orthodb.org/?query=6682at4893	nuclear fusion protein KAR5
+6687at4893	Missing
+6697at4893	Missing
+6699at4893	Missing
+6707at4893	Missing
+6715at4893	Missing
+6727at4893	Missing
+6729at4893	Missing
+6733at4893	Complete	contig_60	41263	42497	+	187.3	320	https://v12-1.orthodb.org/?query=6733at4893	Monopolar spindle protein 2
+6742at4893	Missing
+6744at4893	Missing
+6759at4893	Missing
+6775at4893	Missing
+6779at4893	Missing
+6788at4893	Missing
+6802at4893	Missing
+6806at4893	Missing
+6815at4893	Missing
+6826at4893	Complete	contig_215	17597	16356	-	184.9	300	https://v12-1.orthodb.org/?query=6826at4893	UBX domain-containing protein 4
+6831at4893	Missing
+6836at4893	Missing
+6849at4893	Missing
+6852at4893	Missing
+6865at4893	Missing
+6899at4893	Missing
+6910at4893	Missing
+6917at4893	Missing
+6927at4893	Missing
+6941at4893	Missing
+6959at4893	Missing
+6962at4893	Missing
+6973at4893	Missing
+6985at4893	Missing
+7020at4893	Missing
+7030at4893	Complete	contig_425	30240	28956	-	382.4	357	https://v12-1.orthodb.org/?query=7030at4893	RNA polymerase III subunit C53
+7036at4893	Complete	contig_84	13184	10605	-	740.4	812	https://v12-1.orthodb.org/?query=7036at4893	Axl2
+7050at4893	Missing
+7054at4893	Missing
+7059at4893	Missing
+7074at4893	Missing
+7083at4893	Missing
+7092at4893	Missing
+7117at4893	Missing
+7135at4893	Missing
+7141at4893	Missing
+7146at4893	Missing
+7162at4893	Missing
+7173at4893	Missing
+7197at4893	Missing
+7219at4893	Missing
+7228at4893	Complete	contig_196	6880	9267	+	282.3	524	https://v12-1.orthodb.org/?query=7228at4893	Not3
+7233at4893	Missing
+7241at4893	Missing
+7255at4893	Missing
+7284at4893	Missing
+7293at4893	Missing
+7330at4893	Complete	contig_102	9364	7919	-	327.9	364	https://v12-1.orthodb.org/?query=7330at4893	Prp3
+7362at4893	Missing
+7370at4893	Missing
+7376at4893	Missing
+7381at4893	Missing
+7384at4893	Missing
+7391at4893	Missing
+7394at4893	Fragmented	contig_6	30870	33994	+	1004.9	844	https://v12-1.orthodb.org/?query=7394at4893	Ede1
+7402at4893	Missing
+7408at4893	Missing
+7410at4893	Missing
+7411at4893	Missing
+7422at4893	Missing
+7426at4893	Complete	contig_181	14373	13743	-	194.5	185	https://v12-1.orthodb.org/?query=7426at4893	60S ribosomal subunit assembly/export protein
+7429at4893	Missing
+7436at4893	Missing
+7448at4893	Missing
+7450at4893	Missing
+7458at4893	Missing
+7482at4893	Complete	contig_121	20848	20159	-	131.4	210	https://v12-1.orthodb.org/?query=7482at4893	minichromosome maintenance- protein
+7503at4893	Missing
+7504at4893	Missing
+7520at4893	Missing
+7526at4893	Missing
+7534at4893	Missing
+7539at4893	Missing
+7558at4893	Complete	contig_9	58251	59490	+	176.4	335	https://v12-1.orthodb.org/?query=7558at4893	YPL168W
+7571at4893	Missing
+7579at4893	Missing
+7586at4893	Missing
+7590at4893	Missing
+7614at4893	Missing
+7617at4893	Missing
+7621at4893	Missing
+7636at4893	Missing
+7641at4893	Complete	contig_255	1235	2046	+	178.6	222	https://v12-1.orthodb.org/?query=7641at4893	Did4
+7657at4893	Missing
+7667at4893	Complete	contig_24	30777	31540	+	175.6	194	https://v12-1.orthodb.org/?query=7667at4893	YCR016W
+7680at4893	Missing
+7681at4893	Missing
+7685at4893	Missing
+7722at4893	Missing
+7747at4893	Missing
+7790at4893	Missing
+7803at4893	Missing
+7810at4893	Missing
+7838at4893	Missing
+7860at4893	Missing
+7878at4893	Missing
+7888at4893	Missing
+7902at4893	Complete	contig_304	8152	7009	-	48.6	91	https://v12-1.orthodb.org/?query=7902at4893	Ime1
+7905at4893	Complete	contig_134	30291	33346	+	350.0	797	https://v12-1.orthodb.org/?query=7905at4893	DNA polymerase phi
+7908at4893	Missing
+7913at4893	Missing
+7940at4893	Missing
+7950at4893	Missing
+7951at4893	Missing
+7991at4893	Complete	contig_142	4834	3245	-	121.5	219	https://v12-1.orthodb.org/?query=7991at4893	topoisomerase I damage affected protein 11
+8005at4893	Missing
+8012at4893	Missing
+8023at4893	Missing
+8068at4893	Missing
+8075at4893	Missing
+8078at4893	Missing
+8081at4893	Missing
+8089at4893	Missing
+8094at4893	Missing
+8119at4893	Missing
+8123at4893	Missing
+8125at4893	Missing
+8135at4893	Missing
+8168at4893	Missing
+8177at4893	Missing
+8188at4893	Complete	contig_94	6573	7834	+	178.3	307	https://v12-1.orthodb.org/?query=8188at4893	Cue5
+8214at4893	Missing
+8216at4893	Missing
+8248at4893	Missing
+8250at4893	Missing
+8298at4893	Missing
+8303at4893	Missing
+8326at4893	Missing
+8332at4893	Missing
+8336at4893	Missing
+8358at4893	Missing
+8565at4893	Missing
+8624at4893	Missing
+8649at4893	Missing
+8665at4893	Missing
+8678at4893	Missing
+8714at4893	Missing
+8758at4893	Complete	contig_91	13459	13154	-	88.2	93	https://v12-1.orthodb.org/?query=8758at4893	YDR286C
+8787at4893	Missing
+8842at4893	Missing
+8912at4893	Missing
+8947at4893	Missing
+8994at4893	Missing
+9032at4893	Missing
+9052at4893	Missing
+9070at4893	Missing
+9093at4893	Missing
+9142at4893	Missing
+9198at4893	Missing
+9209at4893	Complete	contig_133	14487	14054	-	130.0	104	https://v12-1.orthodb.org/?query=9209at4893	RNase P subunit
+9314at4893	Missing
+9381at4893	Missing
+9402at4893	Missing
+9415at4893	Missing
+9423at4893	Missing
+9463at4893	Missing
+9476at4893	Missing
+9493at4893	Missing
+9515at4893	Missing
+9560at4893	Complete	contig_14	30599	30353	-	138.8	81	https://v12-1.orthodb.org/?query=9560at4893	diphthamide biosynthesis protein 3
+9591at4893	Complete	contig_378	1469	956	-	259.6	165	https://v12-1.orthodb.org/?query=9591at4893	ubiquitin-conjugating enzyme
+9599at4893	Missing
+9614at4893	Complete	contig_29	38888	38168	-	320.6	186	https://v12-1.orthodb.org/?query=9614at4893	Sar1
+9738at4893	Complete	contig_22	10664	9522	-	732.5	372	https://v12-1.orthodb.org/?query=9738at4893	Actin
+9741at4893	Missing
+9745at4893	Missing
+9787at4893	Complete	contig_395	9733	9286	-	171.9	142	https://v12-1.orthodb.org/?query=9787at4893	Mitochondrial ribosomal protein L27
+9858at4893	Complete	contig_419	3964	1738	-	781.1	691	https://v12-1.orthodb.org/?query=9858at4893	histone demethylase
+9873at4893	Complete	contig_267	3985	5148	+	364.7	343	https://v12-1.orthodb.org/?query=9873at4893	tRNA dihydrouridine synthase
+9928at4893	Missing
+9941at4893	Missing
+9942at4893	Missing
+9952at4893	Missing
+9967at4893	Missing
+9995at4893	Missing
+10064at4893	Complete	contig_135	20406	20815	+	241.9	133	https://v12-1.orthodb.org/?query=10064at4893	Dib1
+10072at4893	Missing
+10090at4893	Missing
+10097at4893	Missing
+10120at4893	Missing
+10216at4893	Missing
+10270at4893	Missing
+10288at4893	Complete	contig_328	4006	5050	+	293.1	309	https://v12-1.orthodb.org/?query=10288at4893	8-oxo-dGTP diphosphatase
+10295at4893	Missing
+10303at4893	Complete	contig_279	18495	19446	+	221.0	220	https://v12-1.orthodb.org/?query=10303at4893	Dolichyl pyrophosphate (Dol-P-P) phosphatase
+10307at4893	Missing
+10321at4893	Missing
+10360at4893	Missing
+10373at4893	Missing
+10383at4893	Complete	contig_194	22053	23222	+	461.8	354	https://v12-1.orthodb.org/?query=10383at4893	Rim11
+10450at4893	Missing
+10453at4893	Missing
+10479at4893	Missing
+10481at4893	Missing
+10498at4893	Missing
+10523at4893	Missing
+10534at4893	Missing
+10554at4893	Missing
+10563at4893	Missing
+10607at4893	Missing
+10636at4893	Missing
+10659at4893	Missing
+10672at4893	Missing
+10674at4893	Missing
+10729at4893	Complete	contig_9	55269	55740	+	220.5	149	https://v12-1.orthodb.org/?query=10729at4893	Cytochrome b5-like Heme/Steroid binding domain
+10732at4893	Missing
+10756at4893	Missing
+10760at4893	Missing
+10762at4893	Complete	contig_310	67540	63873	-	2329.1	1193	https://v12-1.orthodb.org/?query=10762at4893	RNA polymerase A
+10791at4893	Missing
+10794at4893	Missing
+10830at4893	Missing
+10845at4893	Missing
+10960at4893	Missing
+10961at4893	Missing
+10981at4893	Fragmented	contig_103	9005	9683	+	131.9	165	https://v12-1.orthodb.org/?query=10981at4893	YNL100W
+11005at4893	Missing
+11025at4893	Missing
+11055at4893	Missing
+11096at4893	Complete	contig_303	17190	16606	-	111.4	136	https://v12-1.orthodb.org/?query=11096at4893	copper transport
+11116at4893	Complete	contig_285	10803	8600	-	1173.9	698	https://v12-1.orthodb.org/?query=11116at4893	1,4-alpha-glucan branching enzyme
+11133at4893	Missing
+11166at4893	Missing
+11216at4893	Missing
+11226at4893	Missing
+11234at4893	Missing
+11241at4893	Missing
+11261at4893	Missing
+11280at4893	Missing
+11395at4893	Missing
+11413at4893	Missing
+11432at4893	Missing
+11475at4893	Complete	contig_137	19243	18336	-	469.8	285	https://v12-1.orthodb.org/?query=11475at4893	proteasome subunit
+11482at4893	Missing
+11488at4893	Missing
+11511at4893	Complete	contig_86	21060	19761	-	397.4	269	https://v12-1.orthodb.org/?query=11511at4893	2-hexaprenyl-6-methoxy-1,4-benzoquinone methyltransferase
+11536at4893	Missing
+11563at4893	Missing
+11592at4893	Missing
+11621at4893	Missing
+11642at4893	Missing
+11676at4893	Complete	contig_310	68900	68714	-	98.9	59	https://v12-1.orthodb.org/?query=11676at4893	YPR010C-A
+11681at4893	Missing
+11717at4893	Complete	contig_97	9131	9999	+	478.5	284	https://v12-1.orthodb.org/?query=11717at4893	tRNA methyltransferase
+11732at4893	Missing
+11769at4893	Complete	contig_184	15561	14061	-	651.2	455	https://v12-1.orthodb.org/?query=11769at4893	hydroxymethylglutaryl-CoA synthase
+11784at4893	Missing
+11791at4893	Missing
+11838at4893	Missing
+11847at4893	Missing
+11848at4893	Missing
+11867at4893	Complete	contig_295	6168	5583	-	263.6	176	https://v12-1.orthodb.org/?query=11867at4893	translation machinery-associated protein 20
+11899at4893	Missing
+11900at4893	Missing
+11925at4893	Missing
+11932at4893	Missing
+11963at4893	Missing
+11984at4893	Missing
+12015at4893	Missing
+12020at4893	Missing
+12073at4893	Complete	contig_295	11641	12033	+	161.7	120	https://v12-1.orthodb.org/?query=12073at4893	Nuclear transport factor 2
+12115at4893	Missing
+12118at4893	Missing
+12119at4893	Missing
+12126at4893	Missing
+12152at4893	Missing
+12163at4893	Complete	contig_13	10830	9132	-	597.2	518	https://v12-1.orthodb.org/?query=12163at4893	copper transport protein
+12209at4893	Missing
+12245at4893	Missing
+12246at4893	Missing
+12258at4893	Missing
+12294at4893	Missing
+12323at4893	Missing
+12349at4893	Missing
+12352at4893	Missing
+12366at4893	Missing
+12397at4893	Missing
+12426at4893	Missing
+12434at4893	Missing
+12472at4893	Missing
+12504at4893	Missing
+12522at4893	Missing
+12573at4893	Missing
+12590at4893	Missing
+12605at4893	Missing
+12611at4893	Missing
+12643at4893	Missing
+12666at4893	Missing
+12681at4893	Missing
+12712at4893	Missing
+12715at4893	Missing
+12723at4893	Missing
+12734at4893	Missing
+12749at4893	Missing
+12751at4893	Missing
+12773at4893	Missing
+12809at4893	Missing
+12821at4893	Missing
+12832at4893	Missing
+12835at4893	Complete	contig_249	8530	7283	-	454.3	390	https://v12-1.orthodb.org/?query=12835at4893	RNA exonuclease
+12837at4893	Missing
+12847at4893	Complete	contig_192	37647	37182	-	124.7	129	https://v12-1.orthodb.org/?query=12847at4893	ATP synthase assembly factor FMC1
+12882at4893	Complete	contig_105	12233	11243	-	464.0	317	https://v12-1.orthodb.org/?query=12882at4893	NAD-dependent 5,10-methylenetetrahydrafolate dehydrogenase
+12906at4893	Missing
+12930at4893	Complete	contig_154	4815	2870	-	901.2	572	https://v12-1.orthodb.org/?query=12930at4893	probable electron transfer flavoprotein-ubiquinone oxidoreductase
+12931at4893	Missing
+13002at4893	Missing
+13054at4893	Missing
+13063at4893	Missing
+13074at4893	Missing
+13084at4893	Missing
+13094at4893	Missing
+13118at4893	Missing
+13147at4893	Missing
+13169at4893	Complete	contig_60	50709	50313	-	160.0	119	https://v12-1.orthodb.org/?query=13169at4893	MPC1
+13171at4893	Missing
+13195at4893	Missing
+13219at4893	Missing
+13253at4893	Missing
+13285at4893	Missing
+13305at4893	Missing
+13310at4893	Missing
+13322at4893	Missing
+13354at4893	Missing
+13385at4893	Missing
+13386at4893	Missing
+13390at4893	Missing
+13401at4893	Complete	contig_118	29756	27852	-	558.6	516	https://v12-1.orthodb.org/?query=13401at4893	Mub1
+13416at4893	Missing
+13444at4893	Missing
+13470at4893	Missing
+13471at4893	Missing
+13483at4893	Missing
+13507at4893	Missing
+13518at4893	Missing
+13549at4893	Missing
+13575at4893	Missing
+13591at4893	Missing
+13618at4893	Missing
+13639at4893	Complete	contig_163	18445	19567	+	666.7	345	https://v12-1.orthodb.org/?query=13639at4893	arginine methyltransferase
+13655at4893	Missing
+13661at4893	Missing
+13663at4893	Missing
+13680at4893	Missing
+13683at4893	Missing
+13699at4893	Missing
+13709at4893	Missing
+13710at4893	Missing
+13757at4893	Missing
+13798at4893	Missing
+13835at4893	Missing
+13855at4893	Missing
+13857at4893	Missing
+13869at4893	Missing
+13877at4893	Missing
+13883at4893	Missing
+13889at4893	Missing
+13899at4893	Missing
+13907at4893	Complete	contig_163	17537	18228	+	397.1	224	https://v12-1.orthodb.org/?query=13907at4893	pyridoxamine 5'-phosphate oxidase
+13909at4893	Missing
+13971at4893	Missing
+13990at4893	Missing
+13995at4893	Missing
+14008at4893	Missing
+14033at4893	Missing
+14082at4893	Missing
+14175at4893	Missing
+14223at4893	Complete	contig_401	13145	11869	-	108.5	213	https://v12-1.orthodb.org/?query=14223at4893	Bbp1
+14258at4893	Missing
+14259at4893	Missing
+14310at4893	Missing
+14312at4893	Missing
+14387at4893	Complete	contig_117	23282	21706	-	748.4	509	https://v12-1.orthodb.org/?query=14387at4893	phosphoribosylpyrophosphate amidotransferase
+14414at4893	Missing
+14421at4893	Missing
+14463at4893	Missing
+14543at4893	Complete	contig_67	6139	5200	-	508.9	296	https://v12-1.orthodb.org/?query=14543at4893	cyclin-dependent protein kinase
+14547at4893	Missing
+14556at4893	Missing
+14600at4893	Complete	contig_85	34980	34558	-	186.9	134	https://v12-1.orthodb.org/?query=14600at4893	54S ribosomal protein L38
+14620at4893	Missing
+14622at4893	Missing
+14626at4893	Complete	contig_429	23309	21563	-	461.3	537	https://v12-1.orthodb.org/?query=14626at4893	YLR173W
+14671at4893	Missing
+14692at4893	Missing
+14704at4893	Missing
+14708at4893	Missing
+14769at4893	Missing
+14773at4893	Missing
+14777at4893	Missing
+14818at4893	Missing
+14819at4893	Missing
+14848at4893	Missing
+14870at4893	Missing
+14884at4893	Complete	contig_35	8563	5169	-	1684.1	1081	https://v12-1.orthodb.org/?query=14884at4893	DNA polymerase delta catalytic subunit
+14908at4893	Missing
+14911at4893	Missing
+14975at4893	Missing
+14983at4893	Missing
+15031at4893	Missing
+15035at4893	Missing
+15055at4893	Missing
+15057at4893	Missing
+15064at4893	Missing
+15073at4893	Missing
+15087at4893	Complete	contig_104	9765	9448	-	117.8	74	https://v12-1.orthodb.org/?query=15087at4893	YNL211C
+15125at4893	Missing
+15139at4893	Missing
+15141at4893	Missing
+15158at4893	Missing
+15187at4893	Missing
+15190at4893	Missing
+15201at4893	Missing
+15210at4893	Missing
+15224at4893	Missing
+15227at4893	Complete	contig_328	12501	12796	+	162.0	96	https://v12-1.orthodb.org/?query=15227at4893	Sm D3
+15261at4893	Complete	contig_169	12960	14970	+	646.8	583	https://v12-1.orthodb.org/?query=15261at4893	Fmp40
+15296at4893	Missing
+15302at4893	Missing
+15318at4893	Missing
+15360at4893	Missing
+15362at4893	Missing
+15368at4893	Missing
+15392at4893	Missing
+15415at4893	Missing
+15419at4893	Complete	contig_67	6765	8527	+	755.0	516	https://v12-1.orthodb.org/?query=15419at4893	tRNA Um(44) 2'-O-methyltransferase
+15425at4893	Missing
+15441at4893	Missing
+15447at4893	Missing
+15490at4893	Missing
+15537at4893	Missing
+15571at4893	Missing
+15587at4893	Missing
+15597at4893	Missing
+15632at4893	Missing
+15637at4893	Missing
+15657at4893	Missing
+15700at4893	Missing
+15712at4893	Missing
+15713at4893	Missing
+15718at4893	Missing
+15760at4893	Complete	contig_106	6096	5571	-	157.5	156	https://v12-1.orthodb.org/?query=15760at4893	sorting nexin
+15762at4893	Fragmented	contig_14	36518	39025	+	927.8	778	https://v12-1.orthodb.org/?query=15762at4893	isoleucine--tRNA ligase
+15770at4893	Missing
+15803at4893	Missing
+15831at4893	Missing
+15832at4893	Missing
+15846at4893	Missing
+15853at4893	Missing
+15903at4893	Complete	contig_99	3688	2277	-	764.1	450	https://v12-1.orthodb.org/?query=15903at4893	Ytm1
+15912at4893	Missing
+15932at4893	Missing
+15934at4893	Missing
+15950at4893	Complete	contig_51	23276	24347	+	488.0	327	https://v12-1.orthodb.org/?query=15950at4893	Fructose-1,6-bisphosphatase
+15957at4893	Missing
+15965at4893	Missing
+15987at4893	Missing
+16016at4893	Missing
+16018at4893	Missing
+16022at4893	Missing
+16035at4893	Complete	contig_41	13458	14338	+	258.9	246	https://v12-1.orthodb.org/?query=16035at4893	Mba1
+16038at4893	Missing
+16081at4893	Missing
+16089at4893	Missing
+16123at4893	Missing
+16139at4893	Missing
+16186at4893	Missing
+16195at4893	Missing
+16206at4893	Missing
+16207at4893	Missing
+16208at4893	Missing
+16235at4893	Missing
+16236at4893	Missing
+16261at4893	Missing
+16279at4893	Missing
+16289at4893	Missing
+16308at4893	Missing
+16311at4893	Complete	contig_171	10261	10910	+	369.5	201	https://v12-1.orthodb.org/?query=16311at4893	RNA polymerase III subunit Rpc25
+16317at4893	Missing
+16341at4893	Missing
+16357at4893	Missing
+16367at4893	Missing
+16375at4893	Missing
+16383at4893	Missing
+16392at4893	Complete	contig_293	6311	5335	-	287.8	282	https://v12-1.orthodb.org/?query=16392at4893	2'O-ribose methyltransferase
+16403at4893	Complete	contig_14	4259	5511	+	344.7	355	https://v12-1.orthodb.org/?query=16403at4893	3'-5'-exonuclease
+16408at4893	Missing
+16432at4893	Missing
+16439at4893	Missing
+16482at4893	Missing
+16490at4893	Missing
+16506at4893	Complete	contig_181	13430	10858	-	928.4	818	https://v12-1.orthodb.org/?query=16506at4893	Nic96
+16527at4893	Complete	contig_238	37291	38560	+	814.5	418	https://v12-1.orthodb.org/?query=16527at4893	Argininosuccinate synthase
+16540at4893	Missing
+16575at4893	Missing
+16635at4893	Fragmented	contig_162	30676	29318	-	137.2	226	https://v12-1.orthodb.org/?query=16635at4893	Pex32
+16694at4893	Missing
+16707at4893	Complete	contig_5	32727	33454	+	285.9	200	https://v12-1.orthodb.org/?query=16707at4893	Ykt6
+16736at4893	Missing
+16739at4893	Missing
+16754at4893	Missing
+16770at4893	Missing
+16780at4893	Missing
+16795at4893	Missing
+16800at4893	Missing
+16841at4893	Complete	contig_4	22732	23783	+	524.0	332	https://v12-1.orthodb.org/?query=16841at4893	vacuolar protein sorting-associated protein 74
+16854at4893	Complete	contig_56	13859	12344	-	479.7	448	https://v12-1.orthodb.org/?query=16854at4893	DNA polymerase delta subunit
+16859at4893	Missing
+16880at4893	Missing
+16906at4893	Complete	contig_77	27652	29148	+	564.0	477	https://v12-1.orthodb.org/?query=16906at4893	Cytochrome P450
+16915at4893	Complete	contig_181	7225	5596	-	593.9	494	https://v12-1.orthodb.org/?query=16915at4893	putative X-Pro aminopeptidase
+16969at4893	Missing
+16980at4893	Missing
+17015at4893	Missing
+17025at4893	Missing
+17026at4893	Missing
+17033at4893	Missing
+17034at4893	Missing
+17043at4893	Missing
+17062at4893	Missing
+17081at4893	Missing
+17088at4893	Missing
+17100at4893	Complete	contig_328	12287	9495	-	796.9	827	https://v12-1.orthodb.org/?query=17100at4893	Pep3
+17107at4893	Missing
+17134at4893	Missing
+17173at4893	Missing
+17202at4893	Missing
+17203at4893	Complete	contig_217	18837	17569	-	287.7	313	https://v12-1.orthodb.org/?query=17203at4893	C2 domain
+17213at4893	Missing
+17264at4893	Missing
+17279at4893	Missing
+17284at4893	Missing
+17287at4893	Missing
+17301at4893	Missing
+17325at4893	Complete	contig_137	4170	5187	+	593.9	329	https://v12-1.orthodb.org/?query=17325at4893	DNA-directed RNA polymerase core subunit RPC40
+17352at4893	Missing
+17365at4893	Complete	contig_20	50404	49428	-	339.8	236	https://v12-1.orthodb.org/?query=17365at4893	Yml6
+17366at4893	Missing
+17374at4893	Missing
+17438at4893	Complete	contig_414	40337	28681	-	3228.4	3206	https://v12-1.orthodb.org/?query=17438at4893	Tra1
+17460at4893	Complete	contig_85	31622	32025	+	107.0	121	https://v12-1.orthodb.org/?query=17460at4893	54S ribosomal protein MRP49
+17488at4893	Missing
+17530at4893	Missing
+17533at4893	Missing
+17556at4893	Missing
+17569at4893	Missing
+17624at4893	Missing
+17640at4893	Missing
+17664at4893	Missing
+17676at4893	Complete	contig_246	23871	22913	-	524.9	306	https://v12-1.orthodb.org/?query=17676at4893	Bgl2
+17693at4893	Missing
+17709at4893	Missing
+17716at4893	Missing
+17741at4893	Missing
+17769at4893	Missing
+17778at4893	Missing
+17804at4893	Missing
+17857at4893	Missing
+17860at4893	Missing
+17864at4893	Missing
+17908at4893	Missing
+17931at4893	Complete	contig_110	21506	20404	-	486.1	342	https://v12-1.orthodb.org/?query=17931at4893	Subunit of heteropentameric Replication factor C
+17946at4893	Complete	contig_258	16848	17500	+	240.6	174	https://v12-1.orthodb.org/?query=17946at4893	similar to Saccharomyces cerevisiae YKL069W Methionine-R-sulfoxide reductase
+17960at4893	Complete	contig_425	11015	8723	-	807.5	670	https://v12-1.orthodb.org/?query=17960at4893	biotin--
+17965at4893	Missing
+17969at4893	Missing
+17978at4893	Missing
+17985at4893	Missing
+17997at4893	Missing
+18007at4893	Missing
+18029at4893	Missing
+18077at4893	Missing
+18097at4893	Missing
+18098at4893	Missing
+18159at4893	Missing
+18177at4893	Missing
+18190at4893	Complete	contig_419	5083	6613	+	798.2	496	https://v12-1.orthodb.org/?query=18190at4893	ATP synthase subunit beta
+18222at4893	Missing
+18225at4893	Missing
+18229at4893	Missing
+18233at4893	Missing
+18252at4893	Missing
+18262at4893	Missing
+18269at4893	Missing
+18282at4893	Missing
+18330at4893	Missing
+18331at4893	Missing
+18339at4893	Missing
+18348at4893	Complete	contig_51	20492	21967	+	763.3	478	https://v12-1.orthodb.org/?query=18348at4893	Sec61
+18354at4893	Missing
+18363at4893	Missing
+18381at4893	Missing
+18387at4893	Missing
+18389at4893	Missing
+18393at4893	Missing
+18394at4893	Missing
+18413at4893	Missing
+18425at4893	Missing
+18443at4893	Missing
+18466at4893	Missing
+18467at4893	Missing
+18478at4893	Missing
+18505at4893	Missing
+18507at4893	Complete	contig_13	7420	8992	+	943.9	508	https://v12-1.orthodb.org/?query=18507at4893	threonine synthase
+18516at4893	Missing
+18531at4893	Missing
+18565at4893	Complete	contig_207	26385	25501	-	188.1	238	https://v12-1.orthodb.org/?query=18565at4893	probable ADP-ribose 1''-phosphate phosphatase YML087W
+18572at4893	Missing
+18621at4893	Missing
+18652at4893	Missing
+18685at4893	Missing
+18705at4893	Missing
+18726at4893	Missing
+18739at4893	Missing
+18758at4893	Complete	contig_7	15128	15791	+	237.3	196	https://v12-1.orthodb.org/?query=18758at4893	Lysine methyltransferase
+18776at4893	Missing
+18777at4893	Missing
+18811at4893	Missing
+18813at4893	Missing
+18835at4893	Missing
+18883at4893	Missing
+18907at4893	Missing
+18914at4893	Complete	contig_20	23062	25164	+	828.1	624	https://v12-1.orthodb.org/?query=18914at4893	carnitine O-acetyltransferase
+18936at4893	Missing
+18939at4893	Missing
+18950at4893	Missing
+18960at4893	Missing
+18986at4893	Missing
+19009at4893	Missing
+19030at4893	Missing
+19060at4893	Missing
+19136at4893	Complete	contig_170	6357	4726	-	567.7	486	https://v12-1.orthodb.org/?query=19136at4893	Rpn3
+19142at4893	Missing
+19167at4893	Missing
+19201at4893	Complete	contig_127	9848	7926	-	836.9	604	https://v12-1.orthodb.org/?query=19201at4893	Guf1
+19234at4893	Complete	contig_420	11779	9771	-	254.0	396	https://v12-1.orthodb.org/?query=19234at4893	COP9 signalosome subunit
+19253at4893	Complete	contig_418	9984	6644	-	889.3	1007	https://v12-1.orthodb.org/?query=19253at4893	Zinc finger protein containing five transmembrane domains
+19257at4893	Missing
+19266at4893	Missing
+19284at4893	Missing
+19321at4893	Missing
+19348at4893	Missing
+19350at4893	Missing
+19353at4893	Missing
+19376at4893	Missing
+19379at4893	Missing
+19393at4893	Missing
+19396at4893	Missing
+19410at4893	Missing
+19436at4893	Missing
+19444at4893	Missing
+19446at4893	Missing
+19490at4893	Missing
+19495at4893	Missing
+19507at4893	Complete	contig_323	2519	855	-	462.5	495	https://v12-1.orthodb.org/?query=19507at4893	tRNA nucleotidyltransferase
+19517at4893	Missing
+19521at4893	Missing
+19531at4893	Complete	contig_4	25515	23948	-	422.7	394	https://v12-1.orthodb.org/?query=19531at4893	Sporulation-specific chitinase
+19532at4893	Missing
+19534at4893	Missing
+19596at4893	Missing
+19626at4893	Missing
+19677at4893	Missing
+19691at4893	Complete	contig_283	18186	17433	-	230.9	203	https://v12-1.orthodb.org/?query=19691at4893	Carbonic anhydrase
+19696at4893	Missing
+19704at4893	Missing
+19738at4893	Missing
+19749at4893	Missing
+19764at4893	Complete	contig_324	648	2360	+	958.9	557	https://v12-1.orthodb.org/?query=19764at4893	T-complex protein 1 subunit alpha
+19767at4893	Missing
+19777at4893	Missing
+19787at4893	Complete	contig_117	19948	20407	+	180.5	134	https://v12-1.orthodb.org/?query=19787at4893	ceramide synthase subunit LIP1
+19804at4893	Missing
+19818at4893	Missing
+19841at4893	Missing
+19870at4893	Missing
+19888at4893	Missing
+19897at4893	Complete	contig_57	69030	68221	-	341.8	255	https://v12-1.orthodb.org/?query=19897at4893	Bud32
+19908at4893	Complete	contig_261	15381	14620	-	362.4	246	https://v12-1.orthodb.org/?query=19908at4893	Phosphoglycerate mutase
+19929at4893	Missing
+19956at4893	Complete	contig_424	17113	20572	+	1687.2	1108	https://v12-1.orthodb.org/?query=19956at4893	Carbamoyl-phosphate synthase arginine-specific large chain
+19972at4893	Missing
+19976at4893	Missing
+20010at4893	Missing
+20013at4893	Missing
+20033at4893	Complete	contig_23	6802	14250	+	966.6	672	https://v12-1.orthodb.org/?query=20033at4893	vacuolar transporter chaperone
+20039at4893	Missing
+20042at4893	Missing
+20055at4893	Missing
+20057at4893	Missing
+20058at4893	Missing
+20060at4893	Complete	contig_192	18045	20139	+	1142.8	671	https://v12-1.orthodb.org/?query=20060at4893	YIL108W
+20076at4893	Missing
+20101at4893	Missing
+20103at4893	Missing
+20111at4893	Missing
+20117at4893	Missing
+20122at4893	Missing
+20134at4893	Missing
+20151at4893	Missing
+20168at4893	Complete	contig_244	15183	13375	-	889.4	575	https://v12-1.orthodb.org/?query=20168at4893	Rtg2
+20214at4893	Missing
+20224at4893	Missing
+20225at4893	Missing
+20233at4893	Complete	contig_206	19385	20641	+	469.2	384	https://v12-1.orthodb.org/?query=20233at4893	Peptidyl-prolyl cis-trans isomerase cyp10
+20234at4893	Missing
+20247at4893	Missing
+20248at4893	Missing
+20250at4893	Missing
+20251at4893	Missing
+20262at4893	Missing
+20263at4893	Missing
+20268at4893	Missing
+20276at4893	Missing
+20291at4893	Missing
+20311at4893	Missing
+20314at4893	Missing
+20328at4893	Missing
+20337at4893	Missing
+20342at4893	Missing
+20343at4893	Complete	contig_411	9692	12018	+	1492.5	758	https://v12-1.orthodb.org/?query=20343at4893	GTPase-activating protein
+20345at4893	Missing
+20355at4893	Complete	contig_169	8689	9132	+	236.1	146	https://v12-1.orthodb.org/?query=20355at4893	YPL225W
+20435at4893	Missing
+20450at4893	Complete	contig_204	27063	28443	+	454.1	425	https://v12-1.orthodb.org/?query=20450at4893	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D
+20460at4893	Missing
+20491at4893	Missing
+20496at4893	Missing
+20512at4893	Complete	contig_241	22138	22806	+	291.1	205	https://v12-1.orthodb.org/?query=20512at4893	Translation initiation factor eIF4E
+20536at4893	Complete	contig_31	42816	40151	-	990.2	782	https://v12-1.orthodb.org/?query=20536at4893	phosphatidylethanolamine N-methyltransferase
+20556at4893	Missing
+20566at4893	Missing
+20584at4893	Missing
+20596at4893	Missing
+20613at4893	Missing
+20639at4893	Missing
+20688at4893	Missing
+20691at4893	Missing
+20701at4893	Missing
+20725at4893	Missing
+20728at4893	Missing
+20738at4893	Missing
+20779at4893	Missing
+20792at4893	Missing
+20794at4893	Missing
+20797at4893	Missing
+20799at4893	Missing
+20819at4893	Missing
+20836at4893	Missing
+20867at4893	Missing
+20879at4893	Missing
+20936at4893	Missing
+20949at4893	Complete	contig_227	6922	7712	+	251.6	226	https://v12-1.orthodb.org/?query=20949at4893	uroporphyrinogen III synthase
+20964at4893	Missing
+20968at4893	Complete	contig_337	7304	8278	+	296.8	308	https://v12-1.orthodb.org/?query=20968at4893	oxaloacetate transporter
+20977at4893	Missing
+20994at4893	Missing
+20998at4893	Missing
+21045at4893	Missing
+21049at4893	Missing
+21070at4893	Missing
+21078at4893	Missing
+21117at4893	Missing
+21122at4893	Missing
+21126at4893	Complete	contig_319	35979	32990	-	1193.6	951	https://v12-1.orthodb.org/?query=21126at4893	mediator complex subunit
+21129at4893	Missing
+21144at4893	Fragmented	contig_221	6786	7268	+	246.1	148	https://v12-1.orthodb.org/?query=21144at4893	Golgi apparatus membrane protein tvp23
+21150at4893	Complete	contig_126	4769	9513	+	537.3	1500	https://v12-1.orthodb.org/?query=21150at4893	3-dehydroquinate dehydratase
+21161at4893	Complete	contig_345	12953	12443	-	224.9	153	https://v12-1.orthodb.org/?query=21161at4893	54S ribosomal protein L23
+21180at4893	Missing
+21187at4893	Missing
+21219at4893	Missing
+21244at4893	Missing
+21273at4893	Missing
+21275at4893	Complete	contig_13	14017	11214	-	1608.2	889	https://v12-1.orthodb.org/?query=21275at4893	Pwp2
+21280at4893	Missing
+21297at4893	Missing
+21299at4893	Missing
+21315at4893	Missing
+21345at4893	Missing
+21349at4893	Missing
+21371at4893	Missing
+21437at4893	Missing
+21462at4893	Missing
+21465at4893	Missing
+21476at4893	Missing
+21480at4893	Complete	contig_77	30477	29301	-	369.9	328	https://v12-1.orthodb.org/?query=21480at4893	uridine nucleosidase
+21492at4893	Missing
+21504at4893	Missing
+21513at4893	Missing
+21516at4893	Missing
+21522at4893	Missing
+21571at4893	Complete	contig_113	20776	21370	+	239.9	194	https://v12-1.orthodb.org/?query=21571at4893	ADP-ribosylation factor-like protein 1
+21575at4893	Missing
+21578at4893	Missing
+21587at4893	Missing
+21597at4893	Missing
+21601at4893	Missing
+21684at4893	Missing
+21695at4893	Complete	contig_48	7651	9230	+	493.0	474	https://v12-1.orthodb.org/?query=21695at4893	Rabenosyn Rab binding domain
+21702at4893	Missing
+21717at4893	Missing
+21729at4893	Missing
+21762at4893	Missing
+21777at4893	Missing
+21795at4893	Missing
+21815at4893	Missing
+21839at4893	Missing
+21845at4893	Missing
+21855at4893	Missing
+21903at4893	Missing
+21909at4893	Missing
+21973at4893	Complete	contig_152	4438	6767	+	558.3	687	https://v12-1.orthodb.org/?query=21973at4893	Nto1
+21993at4893	Missing
+22001at4893	Missing
+22096at4893	Complete	contig_13	1012	486	-	213.2	154	https://v12-1.orthodb.org/?query=22096at4893	mitochondrial ribosomal protein
+22125at4893	Missing
+22126at4893	Missing
+22148at4893	Missing
+22150at4893	Missing
+22152at4893	Missing
+22155at4893	Missing
+22192at4893	Missing
+22194at4893	Missing
+22205at4893	Missing
+22214at4893	Missing
+22257at4893	Missing
+22263at4893	Missing
+22278at4893	Missing
+22281at4893	Missing
+22285at4893	Complete	contig_20	53810	52111	-	493.3	525	https://v12-1.orthodb.org/?query=22285at4893	Nse5
+22287at4893	Missing
+22347at4893	Missing
+22365at4893	Complete	contig_67	8804	11108	+	861.4	690	https://v12-1.orthodb.org/?query=22365at4893	ATP-dependent RNA helicase SUV3
+22366at4893	Missing
+22373at4893	Complete	contig_55	19616	20588	+	234.1	248	https://v12-1.orthodb.org/?query=22373at4893	YDR352W
+22384at4893	Missing
+22400at4893	Complete	contig_120	13347	8141	-	2234.5	1751	https://v12-1.orthodb.org/?query=22400at4893	1,3-beta-glucan synthase component fks3
+22411at4893	Missing
+22414at4893	Missing
+22430at4893	Complete	contig_404	6427	7162	+	211.5	201	https://v12-1.orthodb.org/?query=22430at4893	Rad59
+22433at4893	Missing
+22452at4893	Missing
+22493at4893	Missing
+22498at4893	Missing
+22511at4893	Complete	contig_114	16433	15441	-	231.5	335	https://v12-1.orthodb.org/?query=22511at4893	pre-mRNA-splicing factor BRR1
+22514at4893	Missing
+22522at4893	Missing
+22552at4893	Missing
+22592at4893	Missing
+22615at4893	Missing
+22634at4893	Missing
+22637at4893	Complete	contig_206	10834	10185	-	241.7	214	https://v12-1.orthodb.org/?query=22637at4893	Methylthioribulose-1-phosphate dehydratase
+22647at4893	Missing
+22669at4893	Missing
+22670at4893	Complete	contig_83	6581	7745	+	242.4	346	https://v12-1.orthodb.org/?query=22670at4893	ribonuclease T2
+22678at4893	Missing
+22699at4893	Missing
+22712at4893	Missing
+22718at4893	Missing
+22724at4893	Missing
+22765at4893	Missing
+22766at4893	Missing
+22773at4893	Missing
+22784at4893	Missing
+22785at4893	Complete	contig_431	34906	32814	-	904.7	640	https://v12-1.orthodb.org/?query=22785at4893	tRNA:m5C-methyltransferase
+22793at4893	Missing
+22795at4893	Missing
+22810at4893	Missing
+22824at4893	Missing
+22846at4893	Missing
+22855at4893	Missing
+22886at4893	Complete	contig_84	15613	18232	+	1373.6	833	https://v12-1.orthodb.org/?query=22886at4893	DNA helicase
+22928at4893	Complete	contig_114	13355	14098	+	315.6	246	https://v12-1.orthodb.org/?query=22928at4893	chorismate mutase
+22932at4893	Missing
+22935at4893	Missing
+22936at4893	Missing
+22940at4893	Missing
+22975at4893	Missing
+22977at4893	Complete	contig_273	16946	16616	-	105.2	81	https://v12-1.orthodb.org/?query=22977at4893	Lsm5
+23010at4893	Complete	contig_13	2138	1307	-	396.9	269	https://v12-1.orthodb.org/?query=23010at4893	Bud23
+23019at4893	Missing
+23031at4893	Missing
+23046at4893	Missing
+23059at4893	Complete	contig_35	2084	3187	+	567.0	346	https://v12-1.orthodb.org/?query=23059at4893	Get3
+23066at4893	Missing
+23067at4893	Missing
+23070at4893	Missing
+23136at4893	Missing
+23141at4893	Missing
+23160at4893	Missing
+23181at4893	Missing
+23203at4893	Missing
+23230at4893	Missing
+23237at4893	Missing
+23244at4893	Missing
+23247at4893	Missing
+23276at4893	Missing
+23278at4893	Missing
+23310at4893	Missing
+23319at4893	Complete	contig_430	36537	34965	-	663.2	490	https://v12-1.orthodb.org/?query=23319at4893	aminopeptidase
+23325at4893	Missing
+23335at4893	Missing
+23358at4893	Missing
+23368at4893	Missing
+23418at4893	Missing
+23434at4893	Missing
+23435at4893	Complete	contig_59	12102	12385	+	63.4	73	https://v12-1.orthodb.org/?query=23435at4893	DASH complex subunit DAD3
+23458at4893	Missing
+23469at4893	Missing
+23481at4893	Complete	contig_133	17999	16669	-	522.8	415	https://v12-1.orthodb.org/?query=23481at4893	Sqt1
+23524at4893	Complete	contig_287	11999	13174	+	309.5	365	https://v12-1.orthodb.org/?query=23524at4893	YJL147C
+23533at4893	Missing
+23546at4893	Missing
+23596at4893	Missing
+23610at4893	Missing
+23633at4893	Missing
+23637at4893	Missing
+23645at4893	Missing
+23652at4893	Missing
+23660at4893	Complete	contig_56	11977	11035	-	527.1	300	https://v12-1.orthodb.org/?query=23660at4893	Translation initiation factor 2, alpha subunit
+23667at4893	Missing
+23675at4893	Missing
+23680at4893	Missing
+23681at4893	Missing
+23686at4893	Missing
+23695at4893	Missing
+23696at4893	Missing
+23700at4893	Missing
+23721at4893	Missing
+23730at4893	Missing
+23734at4893	Missing
+23763at4893	Missing
+23820at4893	Missing
+23852at4893	Missing
+23864at4893	Missing
+23873at4893	Complete	contig_54	10011	11719	+	752.2	551	https://v12-1.orthodb.org/?query=23873at4893	Smf2
+23894at4893	Missing
+23935at4893	Missing
+23942at4893	Missing
+23946at4893	Missing
+23959at4893	Missing
+23961at4893	Missing
+23968at4893	Missing
+23972at4893	Complete	contig_250	3610	2267	-	400.4	412	https://v12-1.orthodb.org/?query=23972at4893	origin recognition complex subunit 6
+24014at4893	Missing
+24015at4893	Missing
+24023at4893	Missing
+24049at4893	Missing
+24059at4893	Missing
+24066at4893	Missing
+24093at4893	Missing
+24103at4893	Missing
+24115at4893	Missing
+24128at4893	Missing
+24143at4893	Complete	contig_14	13041	11003	-	424.1	576	https://v12-1.orthodb.org/?query=24143at4893	Yel1
+24145at4893	Complete	contig_363	2105	3602	+	612.4	488	https://v12-1.orthodb.org/?query=24145at4893	D-lactate dehydrogenase
+24148at4893	Missing
+24150at4893	Missing
+24161at4893	Missing
+24167at4893	Missing
+24172at4893	Missing
+24190at4893	Missing
+24205at4893	Complete	contig_145	19292	13753	-	517.9	1632	https://v12-1.orthodb.org/?query=24205at4893	YLR422W
+24215at4893	Complete	contig_241	27935	27161	-	225.6	219	https://v12-1.orthodb.org/?query=24215at4893	Exosome complex exonuclease Rrp40 N-terminal domain
+24218at4893	Complete	contig_207	14995	16943	+	703.9	601	https://v12-1.orthodb.org/?query=24218at4893	actin cortical patch component
+24240at4893	Missing
+24244at4893	Missing
+24245at4893	Missing
+24250at4893	Missing
+24271at4893	Missing
+24275at4893	Complete	contig_162	20566	21012	+	162.1	141	https://v12-1.orthodb.org/?query=24275at4893	Ump1
+24282at4893	Missing
+24297at4893	Missing
+24305at4893	Missing
+24375at4893	Missing
+24404at4893	Missing
+24407at4893	Complete	contig_310	14840	18573	+	1839.4	1177	https://v12-1.orthodb.org/?query=24407at4893	ribosomal RNA-processing protein 12
+24431at4893	Missing
+24439at4893	Missing
+24501at4893	Missing
+24503at4893	Missing
+24511at4893	Missing
+24544at4893	Missing
+24545at4893	Missing
+24548at4893	Missing
+24558at4893	Missing
+24579at4893	Missing
+24604at4893	Complete	contig_394	9734	10362	+	250.0	191	https://v12-1.orthodb.org/?query=24604at4893	mitochondrial homologous recombination protein 1
+24605at4893	Missing
+24614at4893	Missing
+24620at4893	Complete	contig_66	4583	3976	-	290.5	198	https://v12-1.orthodb.org/?query=24620at4893	ankyrin repeat-containing protein
+24630at4893	Missing
+24646at4893	Missing
+24661at4893	Missing
+24688at4893	Complete	contig_318	14485	13906	-	241.7	187	https://v12-1.orthodb.org/?query=24688at4893	Bet3
+24698at4893	Missing
+24719at4893	Missing
+24766at4893	Complete	contig_417	8841	9594	+	208.9	187	https://v12-1.orthodb.org/?query=24766at4893	pre-rRNA-processing protein TSR2
+24779at4893	Missing
+24794at4893	Missing
+24806at4893	Complete	contig_39	36142	37166	+	350.2	302	https://v12-1.orthodb.org/?query=24806at4893	Leucine carboxyl methyltransferase
+24832at4893	Complete	contig_310	20196	20767	+	304.7	183	https://v12-1.orthodb.org/?query=24832at4893	coatomer subunit zeta
+24834at4893	Missing
+24835at4893	Missing
+24844at4893	Missing
+24846at4893	Missing
+24876at4893	Missing
+24906at4893	Complete	contig_23	418	2521	+	656.5	617	https://v12-1.orthodb.org/?query=24906at4893	Nop9
+24943at4893	Complete	contig_414	14457	15710	+	545.5	381	https://v12-1.orthodb.org/?query=24943at4893	Septin
+24956at4893	Missing
+24973at4893	Missing
+24984at4893	Missing
+24987at4893	Complete	contig_93	3359	3954	+	192.8	147	https://v12-1.orthodb.org/?query=24987at4893	Adenosine 5'-monophosphoramidase
+24990at4893	Missing
+25001at4893	Missing
+25077at4893	Missing
+25083at4893	Missing
+25095at4893	Missing
+25098at4893	Complete	contig_296	7250	4988	-	883.1	727	https://v12-1.orthodb.org/?query=25098at4893	putative ATP-dependent RNA helicase
+25116at4893	Complete	contig_106	22511	23095	+	226.6	194	https://v12-1.orthodb.org/?query=25116at4893	calponin
+25122at4893	Missing
+25134at4893	Missing
+25141at4893	Missing
+25146at4893	Missing
+25151at4893	Fragmented	contig_324	8544	11618	+	453.5	566	https://v12-1.orthodb.org/?query=25151at4893	transcription factor
+25161at4893	Missing
+25188at4893	Missing
+25191at4893	Missing
+25210at4893	Complete	contig_106	6515	7253	+	173.3	130	https://v12-1.orthodb.org/?query=25210at4893	CCAAT-binding transcription factor component
+25258at4893	Missing
+25259at4893	Missing
+25275at4893	Missing
+25279at4893	Missing
+25285at4893	Missing
+25290at4893	Complete	contig_105	10027	11095	+	390.5	336	https://v12-1.orthodb.org/?query=25290at4893	Rpf2
+25303at4893	Missing
+25335at4893	Missing
+25342at4893	Missing
+25365at4893	Missing
+25370at4893	Missing
+25377at4893	Missing
+25412at4893	Missing
+25420at4893	Missing
+25430at4893	Missing
+25445at4893	Missing
+25472at4893	Missing
+25481at4893	Complete	contig_344	21653	20332	-	753.9	429	https://v12-1.orthodb.org/?query=25481at4893	AAA ATPase
+25490at4893	Missing
+25491at4893	Missing
+25496at4893	Missing
+25501at4893	Complete	contig_103	10607	9962	-	332.1	198	https://v12-1.orthodb.org/?query=25501at4893	putative tyrosine-protein phosphatase OCA1
+25503at4893	Missing
+25521at4893	Missing
+25576at4893	Complete	contig_113	30714	32844	+	762.0	625	https://v12-1.orthodb.org/?query=25576at4893	nucleolar protein
+25578at4893	Missing
+25602at4893	Missing
+25605at4893	Complete	contig_310	49638	47534	-	445.9	600	https://v12-1.orthodb.org/?query=25605at4893	YPR003C
+25608at4893	Missing
+25622at4893	Missing
+25640at4893	Missing
+25663at4893	Missing
+25664at4893	Complete	contig_401	6873	7402	+	251.0	145	https://v12-1.orthodb.org/?query=25664at4893	adrenodoxin
+25682at4893	Missing
+25709at4893	Missing
+25716at4893	Missing
+25718at4893	Missing
+25729at4893	Missing
+25738at4893	Missing
+25739at4893	Complete	contig_229	24556	23393	-	586.2	370	https://v12-1.orthodb.org/?query=25739at4893	saccharopine dehydrogenase (NAD+, L-lysine-forming)
+25752at4893	Missing
+25793at4893	Missing
+25794at4893	Missing
+25796at4893	Missing
+25798at4893	Missing
+25799at4893	Missing
+25817at4893	Missing
+25820at4893	Complete	contig_265	8457	9867	+	584.4	441	https://v12-1.orthodb.org/?query=25820at4893	saccharopine dehydrogenase (NADP+, L-glutamate-forming)
+25821at4893	Missing
+25858at4893	Missing
+25864at4893	Missing
+25896at4893	Missing
+25899at4893	Missing
+25906at4893	Missing
+25918at4893	Missing
+25930at4893	Missing
+25933at4893	Missing
+25945at4893	Missing
+25957at4893	Complete	contig_31	46822	45260	-	684.5	498	https://v12-1.orthodb.org/?query=25957at4893	cystathionine beta-synthase
+25959at4893	Missing
+25962at4893	Missing
+25983at4893	Complete	contig_319	12877	12232	-	310.4	203	https://v12-1.orthodb.org/?query=25983at4893	RNA polymerase II subunit A C-terminal domain phosphatase
+25989at4893	Missing
+26006at4893	Complete	contig_431	29758	32472	+	1320.4	870	https://v12-1.orthodb.org/?query=26006at4893	Mcm2
+26007at4893	Missing
+26008at4893	Missing
+26012at4893	Missing
+26029at4893	Missing
+26031at4893	Missing
+26033at4893	Missing
+26051at4893	Complete	contig_344	22813	24923	+	591.2	623	https://v12-1.orthodb.org/?query=26051at4893	DNA polymerase epsilon subunit B
+26067at4893	Missing
+26069at4893	Missing
+26104at4893	Complete	contig_380	33520	31647	-	558.3	556	https://v12-1.orthodb.org/?query=26104at4893	Calcineurin-like phosphoesterase
+26115at4893	Missing
+26123at4893	Missing
+26136at4893	Missing
+26138at4893	Missing
+26146at4893	Missing
+26165at4893	Complete	contig_31	27544	26465	-	316.4	317	https://v12-1.orthodb.org/?query=26165at4893	mitochondrial ribosomal protein
+26173at4893	Missing
+26192at4893	Missing
+26257at4893	Missing
+26262at4893	Missing
+26289at4893	Missing
+26292at4893	Missing
+26354at4893	Missing
+26405at4893	Missing
+26409at4893	Missing
+26427at4893	Complete	contig_319	14606	13126	-	504.9	421	https://v12-1.orthodb.org/?query=26427at4893	cysteine protease
+26436at4893	Missing
+26468at4893	Missing
+26471at4893	Missing
+26499at4893	Complete	contig_290	3747	1708	-	640.9	588	https://v12-1.orthodb.org/?query=26499at4893	DNA replication initiation factor CDC45
+26533at4893	Complete	contig_59	6303	3398	-	1018.7	869	https://v12-1.orthodb.org/?query=26533at4893	glucosidase II catalytic subunit
+26539at4893	Missing
+26547at4893	Missing
+26570at4893	Missing
+26579at4893	Complete	contig_22	15177	19094	+	1141.6	1190	https://v12-1.orthodb.org/?query=26579at4893	DNA-directed RNA polymerase
+26614at4893	Missing
+26633at4893	Missing
+26648at4893	Complete	contig_328	6988	9249	+	630.3	570	https://v12-1.orthodb.org/?query=26648at4893	YLR149C
+26663at4893	Missing
+26681at4893	Missing
+26699at4893	Missing
+26716at4893	Complete	contig_29	17660	15183	-	1103.5	725	https://v12-1.orthodb.org/?query=26716at4893	Tyw1
+26718at4893	Missing
+26726at4893	Missing
+26736at4893	Missing
+26745at4893	Missing
+26748at4893	Missing
+26759at4893	Missing
+26769at4893	Missing
+26777at4893	Missing
+26781at4893	Missing
+26802at4893	Missing
+26808at4893	Missing
+26814at4893	Missing
+26815at4893	Complete	contig_67	53206	52535	-	244.5	212	https://v12-1.orthodb.org/?query=26815at4893	Sec22
+26830at4893	Missing
+26836at4893	Missing
+26846at4893	Missing
+26849at4893	Missing
+26859at4893	Missing
+26883at4893	Missing
+26900at4893	Missing
+26901at4893	Missing
+26904at4893	Missing
+26910at4893	Missing
+26912at4893	Missing
+26914at4893	Complete	contig_119	10726	10294	-	209.1	139	https://v12-1.orthodb.org/?query=26914at4893	mediator complex subunit
+26927at4893	Missing
+26931at4893	Missing
+26981at4893	Missing
+27010at4893	Missing
+27064at4893	Complete	contig_243	14362	13630	-	287.7	229	https://v12-1.orthodb.org/?query=27064at4893	nicotinamide riboside kinase
+27071at4893	Missing
+27076at4893	Missing
+27077at4893	Complete	contig_112	18585	17922	-	232.9	191	https://v12-1.orthodb.org/?query=27077at4893	Tim23
+27086at4893	Complete	contig_101	11761	10055	-	620.6	534	https://v12-1.orthodb.org/?query=27086at4893	YHR045W
+27097at4893	Missing
+27112at4893	Missing
+27128at4893	Missing
+27133at4893	Complete	contig_238	12264	11254	-	227.3	259	https://v12-1.orthodb.org/?query=27133at4893	YOL073C
+27139at4893	Complete	contig_32	8936	7288	-	757.2	436	https://v12-1.orthodb.org/?query=27139at4893	protein phosphatase 2A regulatory subunit B
+27163at4893	Missing
+27174at4893	Missing
+27183at4893	Complete	contig_338	4657	1039	-	1054.8	1093	https://v12-1.orthodb.org/?query=27183at4893	Rad5
+27208at4893	Missing
+27220at4893	Complete	contig_184	12051	13824	+	833.3	552	https://v12-1.orthodb.org/?query=27220at4893	chromatin structure-remodeling complex protein rsc9
+27227at4893	Missing
+27238at4893	Missing
+27283at4893	Complete	contig_54	12138	12545	+	186.6	128	https://v12-1.orthodb.org/?query=27283at4893	cytochrome c oxidase subunit
+27298at4893	Missing
+27307at4893	Missing
+27311at4893	Missing
+27323at4893	Missing
+27338at4893	Missing
+27351at4893	Missing
+27360at4893	Missing
+27369at4893	Missing
+27379at4893	Missing
+27384at4893	Missing
+27391at4893	Missing
+27418at4893	Missing
+27434at4893	Missing
+27443at4893	Complete	contig_275	4812	7728	+	670.3	893	https://v12-1.orthodb.org/?query=27443at4893	pentatricopeptide repeat-containing protein PET309
+27445at4893	Complete	contig_412	14732	13477	-	415.0	394	https://v12-1.orthodb.org/?query=27445at4893	20S rRNA accumulation protein
+27452at4893	Complete	contig_411	8606	7771	-	433.4	262	https://v12-1.orthodb.org/?query=27452at4893	dolichyl-phosphate beta-D-mannosyltransferase
+27453at4893	Missing
+27479at4893	Missing
+27484at4893	Complete	contig_412	11180	13276	+	610.1	624	https://v12-1.orthodb.org/?query=27484at4893	translation initiation factor 2
+27503at4893	Missing
+27516at4893	Missing
+27535at4893	Missing
+27569at4893	Missing
+27584at4893	Complete	contig_238	16634	18096	+	287.3	433	https://v12-1.orthodb.org/?query=27584at4893	Nuf2
+27585at4893	Complete	contig_203	10755	12170	+	458.6	416	https://v12-1.orthodb.org/?query=27585at4893	asparagine-linked glycosylation protein
+27615at4893	Missing
+27622at4893	Missing
+27626at4893	Missing
+27627at4893	Missing
+27634at4893	Missing
+27645at4893	Missing
+27657at4893	Complete	contig_108	7825	9371	+	724.0	480	https://v12-1.orthodb.org/?query=27657at4893	TATA box binding protein associated factor (TAF)
+27660at4893	Missing
+27667at4893	Missing
+27677at4893	Complete	contig_52	26252	25201	-	309.7	301	https://v12-1.orthodb.org/?query=27677at4893	Bub3
+27679at4893	Complete	contig_51	19382	18136	-	476.0	388	https://v12-1.orthodb.org/?query=27679at4893	phosphatidylinositol transfer protein csr1
+27693at4893	Missing
+27701at4893	Missing
+27714at4893	Missing
+27753at4893	Missing
+27783at4893	Missing
+27784at4893	Missing
+27798at4893	Missing
+27801at4893	Missing
+27808at4893	Missing
+27820at4893	Missing
+27823at4893	Missing
+27846at4893	Missing
+27879at4893	Missing
+27882at4893	Missing
+27896at4893	Missing
+27915at4893	Missing
+27923at4893	Complete	contig_364	5193	3412	-	358.9	545	https://v12-1.orthodb.org/?query=27923at4893	vacuolar sorting protein
+27929at4893	Missing
+27947at4893	Complete	contig_424	16425	14413	-	574.1	567	https://v12-1.orthodb.org/?query=27947at4893	Myotubularin phosphatase domain
+27948at4893	Complete	contig_425	41682	43231	+	771.2	445	https://v12-1.orthodb.org/?query=27948at4893	ATP-dependent RNA helicase
+27966at4893	Missing
+27972at4893	Missing
+27981at4893	Missing
+27982at4893	Missing
+27986at4893	Missing
+28002at4893	Missing
+28006at4893	Missing
+28012at4893	Complete	contig_69	26275	24326	-	563.3	485	https://v12-1.orthodb.org/?query=28012at4893	Rsc4
+28013at4893	Missing
+28024at4893	Complete	contig_13	4711	5462	+	233.7	210	https://v12-1.orthodb.org/?query=28024at4893	YCR051W
+28043at4893	Missing
+28045at4893	Complete	contig_425	38971	39293	+	106.4	100	https://v12-1.orthodb.org/?query=28045at4893	YDL157C
+28076at4893	Missing
+28089at4893	Missing
+28092at4893	Missing
+28095at4893	Complete	contig_22	35402	34263	-	259.4	321	https://v12-1.orthodb.org/?query=28095at4893	cyclin-dependent kinase-activating kinase
+28096at4893	Missing
+28109at4893	Missing
+28139at4893	Missing
+28165at4893	Complete	contig_345	13578	15157	+	448.0	450	https://v12-1.orthodb.org/?query=28165at4893	alpha 1,2 mannosyltransferase
+28169at4893	Missing
+28191at4893	Complete	contig_101	17707	18342	+	236.2	207	https://v12-1.orthodb.org/?query=28191at4893	mediator complex subunit
+28203at4893	Complete	contig_287	9351	8472	-	330.3	285	https://v12-1.orthodb.org/?query=28203at4893	phosphatidylinositol transfer protein
+28225at4893	Missing
+28232at4893	Missing
+28257at4893	Missing
+28264at4893	Missing
+28277at4893	Missing
+28295at4893	Missing
+28363at4893	Missing
+28365at4893	Missing
+28402at4893	Missing
+28410at4893	Missing
+28428at4893	Missing
+28439at4893	Missing
+28440at4893	Complete	contig_252	22188	19699	-	381.8	656	https://v12-1.orthodb.org/?query=28440at4893	YLL032C
+28451at4893	Missing
+28480at4893	Complete	contig_14	7608	8242	+	233.1	208	https://v12-1.orthodb.org/?query=28480at4893	peptidyl-tRNA hydrolase
+28487at4893	Missing
+28489at4893	Missing
+28501at4893	Missing
+28520at4893	Missing
+28525at4893	Missing
+28531at4893	Missing
+28536at4893	Missing
+28559at4893	Missing
+28568at4893	Missing
+28576at4893	Missing
+28577at4893	Missing
+28582at4893	Complete	contig_233	7823	8493	+	217.9	207	https://v12-1.orthodb.org/?query=28582at4893	nicotinamidase
+28588at4893	Missing
+28591at4893	Missing
+28595at4893	Missing
+28608at4893	Missing
+28625at4893	Missing
+28644at4893	Missing
+28654at4893	Missing
+28682at4893	Missing
+28693at4893	Complete	contig_169	3748	2810	-	388.3	279	https://v12-1.orthodb.org/?query=28693at4893	UDP-glucose:dolichyl-phosphate glucosyltransferase
+28707at4893	Missing
+28716at4893	Missing
+28718at4893	Missing
+28721at4893	Complete	contig_99	4475	5484	+	526.2	326	https://v12-1.orthodb.org/?query=28721at4893	Fsf1
+28730at4893	Missing
+28734at4893	Missing
+28759at4893	Missing
+28769at4893	Missing
+28771at4893	Missing
+28773at4893	Missing
+28776at4893	Missing
+28822at4893	Missing
+28838at4893	Missing
+28843at4893	Missing
+28897at4893	Missing
+28909at4893	Missing
+28918at4893	Missing
+28931at4893	Missing
+28937at4893	Missing
+28942at4893	Missing
+28944at4893	Complete	contig_104	19359	20242	+	342.8	284	https://v12-1.orthodb.org/?query=28944at4893	2,4-dienoyl-CoA reductase
+28967at4893	Complete	contig_93	4313	6889	+	1427.0	807	https://v12-1.orthodb.org/?query=28967at4893	Cdc48
+28975at4893	Missing
+28978at4893	Missing
+28987at4893	Missing
+29001at4893	Missing
+29010at4893	Missing
+29027at4893	Missing
+29083at4893	Missing
+29112at4893	Missing
+29116at4893	Missing
+29148at4893	Complete	contig_270	5295	6687	+	766.6	442	https://v12-1.orthodb.org/?query=29148at4893	mannosidase
+29152at4893	Missing
+29161at4893	Missing
+29165at4893	Complete	contig_386	8467	8053	-	208.0	123	https://v12-1.orthodb.org/?query=29165at4893	histone H2AZ
+29166at4893	Missing
+29186at4893	Fragmented	contig_20	55702	54931	-	368.0	240	https://v12-1.orthodb.org/?query=29186at4893	uracil-DNA glycosylase
+29192at4893	Missing
+29194at4893	Missing
+29197at4893	Missing
+29198at4893	Missing
+29209at4893	Missing
+29210at4893	Missing
+29222at4893	Missing
+29230at4893	Complete	contig_20	54115	54680	+	292.5	181	https://v12-1.orthodb.org/?query=29230at4893	adenine phosphoribosyltransferase
+29292at4893	Complete	contig_250	7579	10548	+	1152.6	937	https://v12-1.orthodb.org/?query=29292at4893	DNA mismatch repair protein MSH1
+29318at4893	Missing
+29337at4893	Missing
+29338at4893	Missing
+29375at4893	Missing
+29382at4893	Complete	contig_106	23317	24600	+	369.1	330	https://v12-1.orthodb.org/?query=29382at4893	Rad17
+29385at4893	Missing
+29395at4893	Missing
+29400at4893	Missing
+29410at4893	Missing
+29412at4893	Missing
+29438at4893	Missing
+29447at4893	Missing
+29454at4893	Missing
+29477at4893	Missing
+29521at4893	Missing
+29529at4893	Missing
+29541at4893	Missing
+29545at4893	Missing
+29556at4893	Missing
+29570at4893	Complete	contig_382	1776	2841	+	331.0	320	https://v12-1.orthodb.org/?query=29570at4893	F-box protein HRT3
+29572at4893	Missing
+29580at4893	Missing
+29581at4893	Missing
+29586at4893	Missing
+29601at4893	Missing
+29602at4893	Complete	contig_30	39853	39330	-	190.4	163	https://v12-1.orthodb.org/?query=29602at4893	Csm1
+29625at4893	Complete	contig_359	3466	5190	+	512.2	484	https://v12-1.orthodb.org/?query=29625at4893	stretch-activated cation channel MID1
+29634at4893	Missing
+29640at4893	Missing
+29645at4893	Missing
+29650at4893	Missing
+29654at4893	Complete	contig_425	20829	19374	-	609.7	457	https://v12-1.orthodb.org/?query=29654at4893	Ldb17
+29678at4893	Missing
+29681at4893	Missing
+29709at4893	Missing
+29728at4893	Missing
+29739at4893	Missing
+29753at4893	Missing
+29769at4893	Missing
+29783at4893	Missing
+29818at4893	Missing
+29821at4893	Missing
+29844at4893	Missing
+29845at4893	Missing
+29852at4893	Missing
+29864at4893	Missing
+29868at4893	Missing
+29883at4893	Missing
+29884at4893	Missing
+29921at4893	Missing
+29941at4893	Missing
+29945at4893	Missing
+29953at4893	Missing
+29967at4893	Missing
+29970at4893	Missing
+29978at4893	Missing
+29984at4893	Missing
+29993at4893	Missing
+30001at4893	Missing
+30004at4893	Missing
+30016at4893	Missing
+30023at4893	Missing
+30037at4893	Missing
+30045at4893	Complete	contig_357	4544	6515	+	344.5	562	https://v12-1.orthodb.org/?query=30045at4893	Ras guanine-nucleotide exchange factors catalytic domain
+30049at4893	Missing
+30054at4893	Missing
+30062at4893	Missing
+30074at4893	Missing
+30080at4893	Missing
+30103at4893	Missing
+30117at4893	Missing
+30130at4893	Missing
+30148at4893	Missing
+30149at4893	Missing
+30163at4893	Complete	contig_358	8733	9633	+	226.8	225	https://v12-1.orthodb.org/?query=30163at4893	Rxt3
+30168at4893	Missing
+30172at4893	Missing
+30178at4893	Missing
+30185at4893	Missing
+30189at4893	Missing
+30198at4893	Missing
+30208at4893	Missing
+30212at4893	Missing
+30244at4893	Missing
+30254at4893	Missing
+30255at4893	Missing
+30268at4893	Complete	contig_42	4559	7184	+	690.9	692	https://v12-1.orthodb.org/?query=30268at4893	Syg1
+30280at4893	Missing
+30290at4893	Missing
+30295at4893	Missing
+30312at4893	Missing
+30314at4893	Missing
+30317at4893	Complete	contig_425	46320	48644	+	952.2	701	https://v12-1.orthodb.org/?query=30317at4893	DNA ligase
+30327at4893	Complete	contig_10	74282	71334	-	1285.9	904	https://v12-1.orthodb.org/?query=30327at4893	MCM AAA-lid domain
+30331at4893	Missing
+30341at4893	Missing
+30355at4893	Missing
+30365at4893	Complete	contig_20	33490	31157	-	1078.2	723	https://v12-1.orthodb.org/?query=30365at4893	AMP deaminase
+30385at4893	Missing
+30409at4893	Missing
+30456at4893	Missing
+30465at4893	Missing
+30534at4893	Complete	contig_140	5666	6977	+	582.3	377	https://v12-1.orthodb.org/?query=30534at4893	methionine aminopeptidase
+30537at4893	Missing
+30555at4893	Missing
+30561at4893	Missing
+30562at4893	Missing
+30564at4893	Missing
+30603at4893	Missing
+30605at4893	Missing
+30614at4893	Missing
+30621at4893	Fragmented	contig_162	31220	31679	+	59.6	94	https://v12-1.orthodb.org/?query=30621at4893	ribonucleases P/MRP protein subunit pop7
+30626at4893	Missing
+30627at4893	Missing
+30640at4893	Missing
+30652at4893	Missing
+30655at4893	Missing
+30670at4893	Missing
+30692at4893	Missing
+30704at4893	Missing
+30715at4893	Missing
+30723at4893	Missing
+30728at4893	Missing
+30731at4893	Missing
+30743at4893	Missing
+30788at4893	Missing
+30791at4893	Missing
+30796at4893	Missing
+30811at4893	Missing
+30814at4893	Missing
+30823at4893	Missing
+30827at4893	Missing
+30843at4893	Missing
+30855at4893	Missing
+30871at4893	Missing
+30901at4893	Missing
+30940at4893	Missing
+30970at4893	Missing
+30974at4893	Complete	contig_29	13928	14899	+	433.9	315	https://v12-1.orthodb.org/?query=30974at4893	phosphatidylglycerol phospholipase
+30987at4893	Missing
+31020at4893	Missing
+31031at4893	Missing
+31047at4893	Missing
+31053at4893	Complete	contig_110	18395	19432	+	472.2	322	https://v12-1.orthodb.org/?query=31053at4893	deoxyhypusine hydroxylase
+31054at4893	Missing
+31055at4893	Complete	contig_351	7281	8180	+	147.8	203	https://v12-1.orthodb.org/?query=31055at4893	Nat2
+31057at4893	Missing
+31064at4893	Missing
+31076at4893	Missing
+31085at4893	Missing
+31092at4893	Missing
+31102at4893	Missing
+31116at4893	Missing
+31145at4893	Missing
+31152at4893	Missing
+31156at4893	Missing
+31177at4893	Missing
+31182at4893	Missing
+31185at4893	Missing
+31201at4893	Missing
+31207at4893	Missing
+31218at4893	Missing
+31242at4893	Missing
+31258at4893	Missing
+31260at4893	Complete	contig_166	52544	51245	-	736.5	387	https://v12-1.orthodb.org/?query=31260at4893	Rmd1
+31262at4893	Missing
+31283at4893	Missing
+31286at4893	Complete	contig_173	5386	7691	+	519.7	655	https://v12-1.orthodb.org/?query=31286at4893	protein EFR3
+31327at4893	Missing
+31346at4893	Missing
+31349at4893	Missing
+31359at4893	Missing
+31368at4893	Missing
+31370at4893	Missing
+31371at4893	Missing
+31372at4893	Missing
+31381at4893	Missing
+31389at4893	Missing
+31400at4893	Missing
+31419at4893	Missing
+31437at4893	Missing
+31451at4893	Complete	contig_406	5415	4889	-	169.5	156	https://v12-1.orthodb.org/?query=31451at4893	mitochondrial import inner membrane translocase subunit TIM14
+31452at4893	Missing
+31463at4893	Missing
+31481at4893	Missing
+31483at4893	Missing
+31523at4893	Missing
+31536at4893	Missing
+31546at4893	Missing
+31548at4893	Complete	contig_194	11452	10821	-	272.8	190	https://v12-1.orthodb.org/?query=31548at4893	protein JLP2
+31581at4893	Missing
+31602at4893	Complete	contig_31	29168	28105	-	531.9	315	https://v12-1.orthodb.org/?query=31602at4893	Gtr2
+31603at4893	Missing
+31635at4893	Missing
+31644at4893	Missing
+31651at4893	Missing
+31653at4893	Missing
+31671at4893	Missing
+31674at4893	Missing
+31684at4893	Missing
+31689at4893	Missing
+31700at4893	Missing
+31703at4893	Missing
+31725at4893	Missing
+31734at4893	Missing
+31744at4893	Missing
+31758at4893	Missing
+31762at4893	Missing
+31800at4893	Missing
+31806at4893	Missing
+31813at4893	Missing
+31845at4893	Missing
+31858at4893	Missing
+31898at4893	Missing
+31901at4893	Missing
+31923at4893	Missing
+31932at4893	Missing
+31943at4893	Complete	contig_10	14908	14385	-	154.0	125	https://v12-1.orthodb.org/?query=31943at4893	killer toxin resistant protein
+31945at4893	Missing
+31956at4893	Missing
+31960at4893	Missing
+31975at4893	Missing
+31996at4893	Missing
+32000at4893	Missing
+32009at4893	Missing
+32047at4893	Missing
+32051at4893	Missing
+32056at4893	Missing
+32073at4893	Missing
+32087at4893	Missing
+32090at4893	Missing
+32120at4893	Missing
+32127at4893	Missing
+32140at4893	Missing
+32145at4893	Missing
+32148at4893	Missing
+32155at4893	Missing
+32158at4893	Missing
+32172at4893	Missing
+32174at4893	Missing
+32185at4893	Missing
+32206at4893	Missing
+32221at4893	Missing
+32239at4893	Missing
+32245at4893	Missing
+32271at4893	Missing
+32285at4893	Complete	contig_65	32140	33375	+	319.4	384	https://v12-1.orthodb.org/?query=32285at4893	mitochondrial inner membrane i-AAA protease complex subunit
+32318at4893	Missing
+32320at4893	Missing
+32339at4893	Missing
+32355at4893	Missing
+32370at4893	Missing
+32382at4893	Complete	contig_318	11442	13739	+	780.1	639	https://v12-1.orthodb.org/?query=32382at4893	Acyltransferase
+32384at4893	Missing
+32389at4893	Missing
+32394at4893	Complete	contig_38	21548	20078	-	549.8	454	https://v12-1.orthodb.org/?query=32394at4893	MPP
+32406at4893	Complete	contig_49	9517	11341	+	335.5	480	https://v12-1.orthodb.org/?query=32406at4893	Ama1
+32421at4893	Missing
+32445at4893	Complete	contig_108	23642	22134	-	468.1	477	https://v12-1.orthodb.org/?query=32445at4893	Coq8
+32447at4893	Missing
+32454at4893	Missing
+32478at4893	Missing
+32486at4893	Missing
+32493at4893	Missing
+32494at4893	Missing
+32504at4893	Missing
+32506at4893	Missing
+32515at4893	Missing
+32526at4893	Missing
+32552at4893	Complete	contig_411	13414	12365	-	516.7	341	https://v12-1.orthodb.org/?query=32552at4893	Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain
+32571at4893	Missing
+32588at4893	Missing
+32593at4893	Complete	contig_108	7565	6141	-	423.2	420	https://v12-1.orthodb.org/?query=32593at4893	Nsa1
+32604at4893	Complete	contig_92	2476	4822	+	505.6	633	https://v12-1.orthodb.org/?query=32604at4893	Hpr1
+32609at4893	Missing
+32612at4893	Missing
+32635at4893	Missing
+32641at4893	Missing
+32650at4893	Missing
+32654at4893	Missing
+32658at4893	Missing
+32660at4893	Missing
+32683at4893	Missing
+32720at4893	Missing
+32725at4893	Missing
+32737at4893	Missing
+32750at4893	Missing
+32774at4893	Missing
+32793at4893	Missing
+32809at4893	Missing
+32817at4893	Missing
+32841at4893	Missing
+32843at4893	Complete	contig_385	15690	17723	+	860.7	632	https://v12-1.orthodb.org/?query=32843at4893	78 kDa glucose-regulated protein homolog
+32845at4893	Missing
+32851at4893	Missing
+32854at4893	Missing
+32855at4893	Complete	contig_197	21875	20371	-	739.8	484	https://v12-1.orthodb.org/?query=32855at4893	anthranilate synthase component 2
+32857at4893	Missing
+32869at4893	Missing
+32871at4893	Missing
+32873at4893	Missing
+32878at4893	Missing
+32882at4893	Missing
+32891at4893	Missing
+32895at4893	Missing
+32899at4893	Complete	contig_325	13638	12738	-	492.1	288	https://v12-1.orthodb.org/?query=32899at4893	tricarboxylate transport protein
+32912at4893	Missing
+32937at4893	Missing
+32951at4893	Missing
+32965at4893	Missing
+32975at4893	Missing
+32978at4893	Missing
+32979at4893	Missing
+32981at4893	Missing
+32985at4893	Missing
+32994at4893	Missing
+32998at4893	Missing
+33019at4893	Complete	contig_66	3569	2718	-	383.8	263	https://v12-1.orthodb.org/?query=33019at4893	eukaryotic translation initiation factor 2 subunit beta
+33022at4893	Missing
+33053at4893	Missing
+33057at4893	Missing
+33070at4893	Complete	contig_60	7296	7677	+	185.1	122	https://v12-1.orthodb.org/?query=33070at4893	COPII-coated vesicle protein
+33084at4893	Missing
+33086at4893	Missing
+33090at4893	Missing
+33096at4893	Missing
+33110at4893	Missing
+33113at4893	Missing
+33122at4893	Missing
+33166at4893	Complete	contig_315	5483	7177	+	670.5	541	https://v12-1.orthodb.org/?query=33166at4893	aspartyl-tRNA synthetase
+33168at4893	Missing
+33179at4893	Missing
+33181at4893	Missing
+33184at4893	Missing
+33185at4893	Complete	contig_298	9552	6374	-	1005.4	1002	https://v12-1.orthodb.org/?query=33185at4893	Pep5
+33205at4893	Missing
+33209at4893	Missing
+33210at4893	Missing
+33213at4893	Missing
+33227at4893	Missing
+33244at4893	Complete	contig_135	11338	8597	-	620.4	679	https://v12-1.orthodb.org/?query=33244at4893	YPR089W
+33253at4893	Fragmented	contig_25	11173	12163	+	117.3	131	https://v12-1.orthodb.org/?query=33253at4893	Ask1
+33264at4893	Missing
+33269at4893	Missing
+33273at4893	Missing
+33277at4893	Missing
+33301at4893	Missing
+33303at4893	Complete	contig_192	35373	37066	+	488.0	451	https://v12-1.orthodb.org/?query=33303at4893	glucoamylase
+33309at4893	Missing
+33312at4893	Missing
+33329at4893	Missing
+33332at4893	Missing
+33336at4893	Missing
+33340at4893	Missing
+33349at4893	Missing
+33352at4893	Missing
+33355at4893	Missing
+33363at4893	Complete	contig_354	9930	7636	-	199.2	247	https://v12-1.orthodb.org/?query=33363at4893	Spc34
+33366at4893	Missing
+33373at4893	Complete	contig_240	2864	2449	-	103.7	123	https://v12-1.orthodb.org/?query=33373at4893	pre-mRNA-splicing factor CWC21
+33385at4893	Complete	contig_77	7416	8133	+	328.6	236	https://v12-1.orthodb.org/?query=33385at4893	farnesyl cysteine-carboxyl methyltransferase
+33393at4893	Missing
+33409at4893	Complete	contig_30	30357	30933	+	193.8	186	https://v12-1.orthodb.org/?query=33409at4893	YCR090C
+33415at4893	Missing
+33417at4893	Missing
+33485at4893	Missing
+33493at4893	Missing
+33494at4893	Complete	contig_29	19774	18001	-	484.8	495	https://v12-1.orthodb.org/?query=33494at4893	methyltransferase
+33508at4893	Missing
+33513at4893	Missing
+33556at4893	Missing
+33559at4893	Missing
+33573at4893	Missing
+33577at4893	Missing
+33588at4893	Missing
+33591at4893	Complete	contig_430	53509	51400	-	345.8	601	https://v12-1.orthodb.org/?query=33591at4893	Dot6
+33624at4893	Missing
+33626at4893	Missing
+33689at4893	Missing
+33690at4893	Missing
+33698at4893	Missing
+33731at4893	Missing
+33736at4893	Missing
+33737at4893	Missing
+33747at4893	Missing
+33751at4893	Missing
+33759at4893	Missing
+33766at4893	Missing
+33777at4893	Missing
+33789at4893	Missing
+33808at4893	Missing
+33826at4893	Missing
+33864at4893	Missing
+33870at4893	Complete	contig_35	13230	11993	-	449.6	380	https://v12-1.orthodb.org/?query=33870at4893	Nse4
+33884at4893	Complete	contig_110	1043	1907	+	247.6	256	https://v12-1.orthodb.org/?query=33884at4893	ER membrane protein complex subunit 2
+33908at4893	Missing
+33916at4893	Complete	contig_102	15967	17940	+	867.0	571	https://v12-1.orthodb.org/?query=33916at4893	Protein kinase
+33932at4893	Missing
+33965at4893	Missing
+33980at4893	Missing
+34012at4893	Missing
+34021at4893	Missing
+34024at4893	Missing
+34034at4893	Missing
+34036at4893	Complete	contig_140	24264	23616	-	262.2	207	https://v12-1.orthodb.org/?query=34036at4893	Sft2
+34048at4893	Missing
+34049at4893	Missing
+34071at4893	Missing
+34110at4893	Missing
+34113at4893	Missing
+34133at4893	Missing
+34137at4893	Missing
+34138at4893	Missing
+34159at4893	Missing
+34168at4893	Complete	contig_419	11592	10301	-	503.2	419	https://v12-1.orthodb.org/?query=34168at4893	Major facilitator superfamily (MFS) profile
+34171at4893	Missing
+34173at4893	Missing
+34195at4893	Missing
+34210at4893	Missing
+34212at4893	Missing
+34219at4893	Missing
+34222at4893	Missing
+34223at4893	Missing
+34226at4893	Missing
+34234at4893	Missing
+34270at4893	Missing
+34275at4893	Missing
+34287at4893	Missing
+34328at4893	Missing
+34341at4893	Missing
+34346at4893	Missing
+34352at4893	Missing
+34359at4893	Missing
+34382at4893	Missing
+34390at4893	Missing
+34392at4893	Missing
+34396at4893	Missing
+34400at4893	Missing
+34417at4893	Missing
+34422at4893	Missing
+34430at4893	Complete	contig_110	6280	6626	+	94.8	94	https://v12-1.orthodb.org/?query=34430at4893	related to Chromatin modification-related protein EAF6
+34441at4893	Missing
+34451at4893	Missing
+34452at4893	Missing
+34462at4893	Missing
+34470at4893	Missing
+34482at4893	Missing
+34491at4893	Missing
+34493at4893	Complete	contig_57	58372	57226	-	345.8	333	https://v12-1.orthodb.org/?query=34493at4893	Mitochondrial carrier protein
+34507at4893	Missing
+34521at4893	Missing
+34543at4893	Missing
+34556at4893	Missing
+34573at4893	Missing
+34576at4893	Missing
+34577at4893	Missing
+34584at4893	Missing
+34591at4893	Missing
+34592at4893	Missing
+34596at4893	Missing
+34600at4893	Missing
+34608at4893	Missing
+34610at4893	Missing
+34611at4893	Missing
+34621at4893	Missing
+34625at4893	Complete	contig_273	14744	16581	+	365.3	584	https://v12-1.orthodb.org/?query=34625at4893	Cohesin loading factor
+34636at4893	Missing
+34637at4893	Missing
+34661at4893	Missing
+34665at4893	Missing
+34675at4893	Missing
+34682at4893	Missing
+34684at4893	Complete	contig_26	46034	44636	-	321.2	320	https://v12-1.orthodb.org/?query=34684at4893	COP9 signalosome subunit
+34686at4893	Missing
+34689at4893	Complete	contig_211	28177	27059	-	250.6	350	https://v12-1.orthodb.org/?query=34689at4893	pre-mRNA-splicing factor SLT11
+34693at4893	Missing
+34727at4893	Complete	contig_241	13235	13952	+	126.6	182	https://v12-1.orthodb.org/?query=34727at4893	mediator complex subunit
+34732at4893	Missing
+34738at4893	Missing
+34742at4893	Missing
+34756at4893	Missing
+34765at4893	Complete	contig_59	10531	11807	+	380.7	369	https://v12-1.orthodb.org/?query=34765at4893	PAB1 binding protein
+34767at4893	Missing
+34772at4893	Missing
+34780at4893	Missing
+34793at4893	Missing
+34795at4893	Missing
+34813at4893	Missing
+34819at4893	Missing
+34821at4893	Missing
+34822at4893	Missing
+34837at4893	Complete	contig_224	7959	3539	-	1184.5	1354	https://v12-1.orthodb.org/?query=34837at4893	YMR259C
+34838at4893	Missing
+34840at4893	Missing
+34859at4893	Missing
+34866at4893	Complete	contig_134	11510	8640	-	418.6	570	https://v12-1.orthodb.org/?query=34866at4893	YEL043W
+34917at4893	Missing
+34923at4893	Missing
+34937at4893	Complete	contig_135	11654	13321	+	760.2	529	https://v12-1.orthodb.org/?query=34937at4893	Signal recognition particle
+34949at4893	Complete	contig_110	6926	8135	+	263.4	302	https://v12-1.orthodb.org/?query=34949at4893	Aim24
+34952at4893	Missing
+34966at4893	Missing
+34967at4893	Missing
+34975at4893	Missing
+34980at4893	Complete	contig_55	11231	4674	-	494.1	401	https://v12-1.orthodb.org/?query=34980at4893	Svf1
+34981at4893	Missing
+34984at4893	Complete	contig_30	38765	39224	+	153.7	140	https://v12-1.orthodb.org/?query=34984at4893	YCR087C-A
+34987at4893	Missing
+35001at4893	Missing
+35006at4893	Missing
+35010at4893	Missing
+35019at4893	Missing
+35032at4893	Missing
+35035at4893	Missing
+35036at4893	Missing
+35037at4893	Missing
+35041at4893	Complete	contig_118	26538	27573	+	449.1	334	https://v12-1.orthodb.org/?query=35041at4893	ditrans,polycis-polyprenyl diphosphate synthase
+35049at4893	Missing
+35060at4893	Missing
+35075at4893	Complete	contig_431	36021	35575	-	136.7	135	https://v12-1.orthodb.org/?query=35075at4893	Rrn10
+35089at4893	Missing
+35099at4893	Missing
+35127at4893	Missing
+35136at4893	Missing
+35145at4893	Missing
+35147at4893	Complete	contig_35	3449	5025	+	688.9	443	https://v12-1.orthodb.org/?query=35147at4893	Dun1
+35151at4893	Complete	contig_425	28640	25627	-	1054.4	758	https://v12-1.orthodb.org/?query=35151at4893	autophagy-related protein
+35158at4893	Missing
+35165at4893	Missing
+35172at4893	Missing
+35183at4893	Missing
+35194at4893	Missing
+35195at4893	Missing
+35198at4893	Missing
+35243at4893	Missing
+35245at4893	Missing
+35259at4893	Missing
+35271at4893	Missing
+35288at4893	Missing
+35305at4893	Missing
+35310at4893	Complete	contig_292	2783	2005	-	115.3	160	https://v12-1.orthodb.org/?query=35310at4893	Prp18
+35313at4893	Missing
+35325at4893	Missing
+35338at4893	Missing
+35357at4893	Missing
+35362at4893	Missing
+35369at4893	Complete	contig_106	32725	31004	-	219.8	321	https://v12-1.orthodb.org/?query=35369at4893	nuclear division defective
+35371at4893	Missing
+35385at4893	Missing
+35392at4893	Missing
+35402at4893	Missing
+35425at4893	Missing
+35436at4893	Missing
+35446at4893	Complete	contig_29	34307	37956	+	1498.9	1120	https://v12-1.orthodb.org/?query=35446at4893	Bms1
+35452at4893	Missing
+35468at4893	Missing
+35470at4893	Missing
+35485at4893	Missing
+35504at4893	Missing
+35507at4893	Missing
+35523at4893	Missing
+35525at4893	Complete	contig_101	19948	20290	+	152.4	111	https://v12-1.orthodb.org/?query=35525at4893	V-ATPase subunit G
+35531at4893	Complete	contig_175	9814	11850	+	402.9	448	https://v12-1.orthodb.org/?query=35531at4893	ino eighty subunit 1
+35543at4893	Missing
+35544at4893	Complete	contig_31	23996	23252	-	146.4	122	https://v12-1.orthodb.org/?query=35544at4893	Clathrin light chain
+35548at4893	Missing
+35574at4893	Missing
+35586at4893	Missing
+35594at4893	Fragmented	contig_205	5918	9696	+	810.7	969	https://v12-1.orthodb.org/?query=35594at4893	separase
+35611at4893	Missing
+35633at4893	Missing
+35658at4893	Missing
+35661at4893	Missing
+35672at4893	Missing
+35673at4893	Missing
+35707at4893	Missing
+35730at4893	Missing
+35740at4893	Missing
+35743at4893	Missing
+35749at4893	Missing
+35751at4893	Missing
+35770at4893	Missing
+35789at4893	Complete	contig_25	22219	23584	+	509.1	421	https://v12-1.orthodb.org/?query=35789at4893	Mpe1
+35798at4893	Missing
+35800at4893	Complete	contig_57	61880	58759	-	1051.0	895	https://v12-1.orthodb.org/?query=35800at4893	Rad2
+35805at4893	Missing
+35825at4893	Missing
+35858at4893	Complete	contig_108	11708	9655	-	495.6	643	https://v12-1.orthodb.org/?query=35858at4893	Sld3
+35866at4893	Missing
+35868at4893	Complete	contig_149	9808	8802	-	189.4	286	https://v12-1.orthodb.org/?query=35868at4893	Sam35
+35871at4893	Missing
+35881at4893	Complete	contig_123	5898	3895	-	762.0	567	https://v12-1.orthodb.org/?query=35881at4893	Translation initiation factor eIF-2B subunit delta
+35890at4893	Missing
+35896at4893	Missing
+35905at4893	Missing
+35914at4893	Missing
+35940at4893	Missing
+35941at4893	Complete	contig_40	9704	11468	+	509.5	499	https://v12-1.orthodb.org/?query=35941at4893	lysine-tRNA ligase
+35961at4893	Missing
+35970at4893	Missing
+35972at4893	Missing
+35979at4893	Missing
+36000at4893	Missing
+36015at4893	Complete	contig_85	11320	11969	+	103.2	162	https://v12-1.orthodb.org/?query=36015at4893	Rcn1
+36022at4893	Missing
+36024at4893	Missing
+36041at4893	Missing
+36048at4893	Missing
+36059at4893	Missing
+36068at4893	Missing
+36080at4893	Missing
+36099at4893	Complete	contig_29	27192	28837	+	871.5	532	https://v12-1.orthodb.org/?query=36099at4893	hydroxyethylthiazole kinase
+36121at4893	Missing
+36122at4893	Missing
+36130at4893	Missing
+36155at4893	Missing
+36156at4893	Missing
+36159at4893	Missing
+36165at4893	Missing
+36168at4893	Missing
+36175at4893	Complete	contig_117	17988	19648	+	681.7	477	https://v12-1.orthodb.org/?query=36175at4893	carboxypeptidase Y
+36176at4893	Missing
+36186at4893	Missing
+36192at4893	Missing
+36194at4893	Missing
+36207at4893	Missing
+36223at4893	Missing
+36245at4893	Missing
+36247at4893	Missing
+36250at4893	Complete	contig_246	12070	13805	+	304.6	464	https://v12-1.orthodb.org/?query=36250at4893	pre-mRNA-splicing factor CWC22
+36251at4893	Missing
+36254at4893	Missing
+36255at4893	Missing
+36262at4893	Missing
+36266at4893	Missing
+36268at4893	Complete	contig_427	1638	514	-	410.9	296	https://v12-1.orthodb.org/?query=36268at4893	choline-phosphate cytidylyltransferase
+36273at4893	Missing
+36286at4893	Missing
+36290at4893	Missing
+36298at4893	Missing
+36299at4893	Missing
+36307at4893	Missing
+36309at4893	Missing
+36312at4893	Missing
+36328at4893	Missing
+36333at4893	Missing
+36342at4893	Missing
+36347at4893	Missing
+36355at4893	Missing
+36366at4893	Missing
+36369at4893	Complete	contig_74	24390	23532	-	165.1	235	https://v12-1.orthodb.org/?query=36369at4893	conserved oligomeric Golgi complex component
+36371at4893	Complete	contig_56	10536	9521	-	460.8	305	https://v12-1.orthodb.org/?query=36371at4893	Mho1
+36373at4893	Missing
+36379at4893	Missing
+36386at4893	Missing
+36390at4893	Missing
+36398at4893	Missing
+36399at4893	Complete	contig_8	6448	7644	+	374.2	358	https://v12-1.orthodb.org/?query=36399at4893	Diphthamide biosynthesis protein
+36402at4893	Missing
+36415at4893	Missing
+36416at4893	Missing
+36434at4893	Missing
+36480at4893	Missing
+36484at4893	Missing
+36485at4893	Missing
+36509at4893	Missing
+36525at4893	Missing
+36557at4893	Fragmented	contig_19	20580	21083	+	235.8	135	https://v12-1.orthodb.org/?query=36557at4893	Mtw1p
+36559at4893	Complete	contig_29	30017	28994	-	491.9	305	https://v12-1.orthodb.org/?query=36559at4893	protein cbp3, mitochondrial
+36565at4893	Missing
+36570at4893	Missing
+36573at4893	Missing
+36581at4893	Missing
+36586at4893	Missing
+36587at4893	Complete	contig_324	6355	7424	+	487.2	335	https://v12-1.orthodb.org/?query=36587at4893	Co-chaperone
+36588at4893	Missing
+36598at4893	Missing
+36606at4893	Missing
+36610at4893	Missing
+36612at4893	Complete	contig_400	15496	16242	+	150.2	180	https://v12-1.orthodb.org/?query=36612at4893	ubiquitin-conjugating enzyme suppressor
+36638at4893	Missing
+36658at4893	Missing
+36677at4893	Missing
+36680at4893	Missing
+36693at4893	Missing
+36696at4893	Missing
+36699at4893	Complete	contig_110	21705	22129	+	135.9	128	https://v12-1.orthodb.org/?query=36699at4893	Yae1
+36700at4893	Missing
+36732at4893	Missing
+36755at4893	Missing
+36763at4893	Complete	contig_275	11468	10337	-	219.2	292	https://v12-1.orthodb.org/?query=36763at4893	YLR063W
+36765at4893	Complete	contig_227	5398	5872	+	214.8	144	https://v12-1.orthodb.org/?query=36765at4893	Caf20
+36769at4893	Missing
+36773at4893	Missing
+36787at4893	Missing
+36792at4893	Missing
+36801at4893	Missing
+36805at4893	Missing
+36829at4893	Missing
+36835at4893	Missing
+36841at4893	Complete	contig_328	14795	14213	-	150.1	163	https://v12-1.orthodb.org/?query=36841at4893	Rmp1
+36848at4893	Missing
+36849at4893	Missing
+36855at4893	Missing
+36860at4893	Missing
+36863at4893	Missing
+36867at4893	Missing
+36889at4893	Complete	contig_14	10462	10865	+	120.1	100	https://v12-1.orthodb.org/?query=36889at4893	Cytochrome c oxidase biogenesis protein Cmc1 like
+36911at4893	Missing
+36912at4893	Missing
+36916at4893	Missing
+36928at4893	Missing
+36931at4893	Missing
+36939at4893	Missing
+36942at4893	Missing
+36943at4893	Missing
+36948at4893	Missing
+36953at4893	Missing
+36958at4893	Missing
+36972at4893	Missing
+36973at4893	Missing
+36980at4893	Missing
+36994at4893	Missing
+36996at4893	Fragmented	contig_293	1881	871	-	96.8	256	https://v12-1.orthodb.org/?query=36996at4893	Hypothetical protein
+37001at4893	Missing
+37015at4893	Missing
+37017at4893	Missing
+37038at4893	Missing
+37059at4893	Complete	contig_60	49882	49201	-	183.8	200	https://v12-1.orthodb.org/?query=37059at4893	related to Biogenesis of lysosome-related organelles complex 1 subunit KXD1
+37062at4893	Complete	contig_35	13732	15424	+	337.3	421	https://v12-1.orthodb.org/?query=37062at4893	Pho2
+37079at4893	Missing
+37090at4893	Missing
+37096at4893	Missing
+37097at4893	Missing
+37106at4893	Complete	contig_239	13395	12745	-	240.4	208	https://v12-1.orthodb.org/?query=37106at4893	Der1
+37134at4893	Missing
+37156at4893	Missing
+37178at4893	Missing
+37210at4893	Missing
+37211at4893	Missing
+37229at4893	Missing
+37230at4893	Missing
+37252at4893	Missing
+37256at4893	Missing
+37261at4893	Missing
+37263at4893	Missing
+37264at4893	Fragmented	contig_191	13358	11555	-	132.9	272	https://v12-1.orthodb.org/?query=37264at4893	Msa1
+37265at4893	Missing
+37268at4893	Missing
+37285at4893	Complete	contig_342	18612	19223	+	95.1	129	https://v12-1.orthodb.org/?query=37285at4893	related to Autophagy-related protein 31
+37291at4893	Missing
+37297at4893	Missing
+37306at4893	Missing
+37309at4893	Missing
+37320at4893	Missing
+37351at4893	Missing
+37365at4893	Complete	contig_417	13997	10024	-	510.2	880	https://v12-1.orthodb.org/?query=37365at4893	Ecm30
+37380at4893	Missing
+37383at4893	Missing
+37387at4893	Missing
+37392at4893	Missing
+37397at4893	Missing
+37412at4893	Complete	contig_166	47438	46809	-	268.0	204	https://v12-1.orthodb.org/?query=37412at4893	ran-specific GTPase-activating protein 1
+37420at4893	Missing
+37421at4893	Missing
+37422at4893	Missing
+37434at4893	Missing
+37439at4893	Missing
+37441at4893	Missing
+37444at4893	Missing
+37446at4893	Complete	contig_329	3997	3118	-	183.7	260	https://v12-1.orthodb.org/?query=37446at4893	Transcriptional coactivator
+37455at4893	Complete	contig_394	11082	12160	+	479.5	318	https://v12-1.orthodb.org/?query=37455at4893	Sur2
+37458at4893	Missing
+37470at4893	Missing
+37486at4893	Missing
+37493at4893	Missing
+37494at4893	Missing
+37496at4893	Fragmented	contig_6	4228	8908	+	330.8	834	https://v12-1.orthodb.org/?query=37496at4893	Stu1
+37497at4893	Complete	contig_222	2960	2311	-	145.1	180	https://v12-1.orthodb.org/?query=37497at4893	Spc24
+37502at4893	Complete	contig_276	6096	9802	+	1264.6	1151	https://v12-1.orthodb.org/?query=37502at4893	condensin complex subunit
+37505at4893	Missing
+37511at4893	Missing
+37521at4893	Missing
+37538at4893	Complete	contig_144	12340	9541	-	729.7	788	https://v12-1.orthodb.org/?query=37538at4893	ABC transporter
+37544at4893	Complete	contig_137	8501	7462	-	526.2	322	https://v12-1.orthodb.org/?query=37544at4893	26S proteasome regulatory subunit RPN7
+37547at4893	Missing
+37559at4893	Missing
+37562at4893	Missing
+37572at4893	Missing
+37577at4893	Missing
+37590at4893	Missing
+37598at4893	Missing
+37600at4893	Complete	contig_52	8788	10794	+	341.7	644	https://v12-1.orthodb.org/?query=37600at4893	Akr1
+37630at4893	Missing
+37636at4893	Missing
+37638at4893	Missing
+37668at4893	Missing
+37683at4893	Missing
+37687at4893	Missing
+37707at4893	Missing
+37722at4893	Missing
+37736at4893	Missing
+37738at4893	Missing
+37746at4893	Missing
+37755at4893	Missing
+37758at4893	Missing
+37766at4893	Missing
+37797at4893	Missing
+37798at4893	Missing
+37810at4893	Missing
+37815at4893	Missing
+37817at4893	Missing
+37825at4893	Missing
+37829at4893	Missing
+37832at4893	Missing
+37833at4893	Missing
+37835at4893	Missing
+37842at4893	Missing
+37847at4893	Missing
+37852at4893	Missing
+37854at4893	Missing
+37864at4893	Complete	contig_310	24097	20998	-	1217.3	921	https://v12-1.orthodb.org/?query=37864at4893	NFACT, RNA-binding domain
+37875at4893	Missing
+37880at4893	Missing
+37883at4893	Missing
+37885at4893	Missing
+37892at4893	Missing
+37894at4893	Missing
+37901at4893	Complete	contig_22	6131	9085	+	449.9	459	https://v12-1.orthodb.org/?query=37901at4893	Major facilitator superfamily (MFS) profile
+37930at4893	Missing
+37941at4893	Missing
+37943at4893	Missing
+37949at4893	Missing
+37956at4893	Missing
+37959at4893	Complete	contig_148	8047	12747	+	1466.5	1120	https://v12-1.orthodb.org/?query=37959at4893	Sin3
+37965at4893	Missing
+37985at4893	Missing
+38020at4893	Missing
+38023at4893	Complete	contig_430	34750	32634	-	420.8	572	https://v12-1.orthodb.org/?query=38023at4893	YER077C
+38036at4893	Complete	contig_258	5894	8641	+	840.7	814	https://v12-1.orthodb.org/?query=38036at4893	Lhs1
+38040at4893	Missing
+38045at4893	Missing
+38052at4893	Missing
+38071at4893	Missing
+38072at4893	Complete	contig_5	14870	15426	+	243.2	160	https://v12-1.orthodb.org/?query=38072at4893	mRNA transport regulator
+38073at4893	Missing
+38079at4893	Complete	contig_310	19884	18821	-	401.9	312	https://v12-1.orthodb.org/?query=38079at4893	Taf3
+38091at4893	Missing
+38099at4893	Missing
+38100at4893	Missing
+38102at4893	Missing
+38104at4893	Missing
+38118at4893	Missing
+38126at4893	Missing
+38127at4893	Missing
+38128at4893	Complete	contig_406	3109	858	-	297.4	304	https://v12-1.orthodb.org/?query=38128at4893	Ssk1
+38131at4893	Missing
+38137at4893	Missing
+38140at4893	Missing
+38156at4893	Complete	contig_9	64469	59643	-	1007.2	1277	https://v12-1.orthodb.org/?query=38156at4893	DNA polymerase zeta
+38162at4893	Missing
+38170at4893	Missing
+38174at4893	Missing
+38175at4893	Missing
+38184at4893	Missing
+38193at4893	Missing
+38201at4893	Missing
+38207at4893	Missing
+38210at4893	Fragmented	contig_221	22812	21559	-	102.1	167	https://v12-1.orthodb.org/?query=38210at4893	Rad55
+38214at4893	Missing
+38230at4893	Missing
+38238at4893	Complete	contig_84	5466	8366	+	790.5	825	https://v12-1.orthodb.org/?query=38238at4893	Tma108
+38248at4893	Missing
+38249at4893	Missing
+38259at4893	Missing
+38267at4893	Missing
+38271at4893	Fragmented	contig_412	22413	23375	+	229.4	235	https://v12-1.orthodb.org/?query=38271at4893	YOL019W
+38273at4893	Missing
+38281at4893	Missing
+38284at4893	Complete	contig_142	10166	11263	+	191.3	356	https://v12-1.orthodb.org/?query=38284at4893	Lin1
+38290at4893	Missing
+38316at4893	Missing
+38324at4893	Missing
+38327at4893	Complete	contig_395	7497	9006	+	599.1	471	https://v12-1.orthodb.org/?query=38327at4893	Ssh1
+38334at4893	Missing
+38336at4893	Missing
+38354at4893	Missing
+38375at4893	Missing
+38386at4893	Complete	contig_388	6832	7624	+	195.8	223	https://v12-1.orthodb.org/?query=38386at4893	Vps29
+38401at4893	Missing
+38410at4893	Missing
+38428at4893	Missing
+38432at4893	Missing
+38442at4893	Missing
+38443at4893	Missing
+38450at4893	Complete	contig_114	12125	13031	+	138.9	226	https://v12-1.orthodb.org/?query=38450at4893	J domain-containing protein 1
+38453at4893	Missing
+38476at4893	Missing
+38480at4893	Missing
+38493at4893	Complete	contig_414	12171	10478	-	322.6	517	https://v12-1.orthodb.org/?query=38493at4893	cytochrome c lysine N-methyltransferase
+38500at4893	Missing
+38522at4893	Missing
+38539at4893	Missing
+38540at4893	Missing
+38542at4893	Missing
+38546at4893	Missing
+38547at4893	Complete	contig_217	16566	17299	+	149.6	212	https://v12-1.orthodb.org/?query=38547at4893	DNA-directed RNA polymerase III subunit Rpc31
+38573at4893	Missing
+38577at4893	Missing
+38581at4893	Missing
+38582at4893	Missing
+38583at4893	Missing
+38606at4893	Complete	contig_290	4402	4813	+	165.0	113	https://v12-1.orthodb.org/?query=38606at4893	Long chronological lifespan protein 2
+38613at4893	Missing
+38617at4893	Missing
+38634at4893	Missing
+38637at4893	Missing
+38643at4893	Missing
+38664at4893	Missing
+38672at4893	Missing
+38673at4893	Missing
+38680at4893	Missing
+38682at4893	Missing
+38688at4893	Missing
+38693at4893	Complete	contig_427	8604	7831	-	332.9	249	https://v12-1.orthodb.org/?query=38693at4893	electron transfer flavoprotein beta-subunit
+38694at4893	Missing
+38697at4893	Missing
+38699at4893	Complete	contig_232	22596	18876	-	372.6	861	https://v12-1.orthodb.org/?query=38699at4893	autophagy-related protein 11
+38708at4893	Missing
+38712at4893	Missing
+38714at4893	Missing
+38725at4893	Complete	contig_194	21050	21642	+	202.1	167	https://v12-1.orthodb.org/?query=38725at4893	GTP-binding protein
+38734at4893	Complete	contig_108	38054	39091	+	179.7	272	https://v12-1.orthodb.org/?query=38734at4893	pre-mRNA-splicing factor CWC23
+38735at4893	Missing
+38737at4893	Missing
+38755at4893	Missing
+38757at4893	Missing
+38759at4893	Missing
+38768at4893	Complete	contig_6	30469	29121	-	247.8	290	https://v12-1.orthodb.org/?query=38768at4893	serine/threonine-protein phosphatase 4 regulatory subunit 2
+38776at4893	Missing
+38781at4893	Missing
+38801at4893	Complete	contig_328	6329	5489	-	301.8	251	https://v12-1.orthodb.org/?query=38801at4893	Stm1
+38802at4893	Missing
+38803at4893	Missing
+38807at4893	Missing
+38810at4893	Complete	contig_9	57861	56015	-	831.5	587	https://v12-1.orthodb.org/?query=38810at4893	Mex67
+38825at4893	Missing
+38840at4893	Missing
+38855at4893	Missing
+38860at4893	Missing
+38895at4893	Missing
+38920at4893	Missing
+38923at4893	Missing
+38928at4893	Complete	contig_14	32805	33903	+	339.8	348	https://v12-1.orthodb.org/?query=38928at4893	Aar2
+38952at4893	Missing
+38957at4893	Missing
+38973at4893	Complete	contig_292	1854	832	-	260.9	279	https://v12-1.orthodb.org/?query=38973at4893	ethanolamine-phosphate cytidylyltransferase
+38991at4893	Missing
+38997at4893	Missing
+39000at4893	Missing
+39004at4893	Missing
+39016at4893	Missing
+39023at4893	Missing
+39027at4893	Missing
+39034at4893	Missing
+39056at4893	Missing
+39063at4893	Missing
+39067at4893	Missing
+39070at4893	Missing
+39072at4893	Missing
+39089at4893	Missing
+39090at4893	Complete	contig_46	9785	7353	-	1020.3	749	https://v12-1.orthodb.org/?query=39090at4893	Flc2
+39100at4893	Missing
+39115at4893	Missing
+39116at4893	Missing
+39122at4893	Missing
+39126at4893	Missing
+39127at4893	Missing
+39136at4893	Missing
+39147at4893	Missing
+39158at4893	Missing
+39163at4893	Missing
+39173at4893	Missing
+39174at4893	Complete	contig_1	2496	1597	-	155.5	285	https://v12-1.orthodb.org/?query=39174at4893	kinetochore protein
+39176at4893	Missing
+39184at4893	Missing
+39189at4893	Missing
+39191at4893	Missing
+39204at4893	Missing
+39211at4893	Missing
+39212at4893	Missing
+39213at4893	Missing
+39220at4893	Missing
+39235at4893	Missing
+39252at4893	Missing
+39254at4893	Missing
+39257at4893	Missing
+39272at4893	Missing
+39274at4893	Missing
+39275at4893	Missing
+39279at4893	Missing
+39283at4893	Missing
+39285at4893	Missing
+39298at4893	Missing
+39300at4893	Missing
+39304at4893	Missing
+39315at4893	Missing
+39317at4893	Missing
+39322at4893	Missing
+39331at4893	Missing
+39346at4893	Missing
+39361at4893	Missing
+39371at4893	Missing
+39375at4893	Missing
+39391at4893	Missing
+39399at4893	Missing
+39412at4893	Missing
+39417at4893	Missing
+39421at4893	Missing
+39424at4893	Missing
+39441at4893	Missing
+39444at4893	Missing
+39451at4893	Missing
+39460at4893	Missing
+39495at4893	Missing
+39516at4893	Missing
+39525at4893	Complete	contig_425	30576	32459	+	663.8	554	https://v12-1.orthodb.org/?query=39525at4893	Sas10
+39528at4893	Missing
+39530at4893	Complete	contig_254	1351	2306	+	154.2	236	https://v12-1.orthodb.org/?query=39530at4893	Protein dos2
+39546at4893	Missing
+39551at4893	Missing
+39552at4893	Missing
+39558at4893	Missing
+39565at4893	Complete	contig_69	27042	26492	-	128.9	133	https://v12-1.orthodb.org/?query=39565at4893	Meh1
+39586at4893	Missing
+39592at4893	Missing
+39595at4893	Complete	contig_106	11256	9662	-	383.4	437	https://v12-1.orthodb.org/?query=39595at4893	3',5'-cyclic-nucleotide phosphodiesterase
+39599at4893	Complete	contig_181	2590	1894	-	137.1	193	https://v12-1.orthodb.org/?query=39599at4893	Far7
+39615at4893	Missing
+39627at4893	Missing
+39630at4893	Complete	contig_86	13355	11826	-	186.7	348	https://v12-1.orthodb.org/?query=39630at4893	TFIID subunit
+39634at4893	Complete	contig_85	12505	12080	-	169.6	140	https://v12-1.orthodb.org/?query=39634at4893	elongation factor
+39637at4893	Missing
+39649at4893	Missing
+39654at4893	Missing
+39662at4893	Missing
+39666at4893	Missing
+39670at4893	Missing
+39676at4893	Missing
+39677at4893	Complete	contig_51	3683	4098	+	105.2	121	https://v12-1.orthodb.org/?query=39677at4893	SWR1-complex protein 7
+39678at4893	Missing
+39683at4893	Complete	contig_119	16655	13415	-	458.7	555	https://v12-1.orthodb.org/?query=39683at4893	Sum1
+39687at4893	Missing
+39691at4893	Complete	contig_45	29309	30075	+	174.9	219	https://v12-1.orthodb.org/?query=39691at4893	pre-mRNA-splicing factor CWC24
+39694at4893	Complete	contig_30	38157	36363	-	434.7	417	https://v12-1.orthodb.org/?query=39694at4893	actin-binding protein
+39696at4893	Missing
+39697at4893	Missing
+39703at4893	Missing
+39704at4893	Missing
+39706at4893	Missing
+39714at4893	Missing
+39720at4893	Missing
+39730at4893	Missing
+39751at4893	Missing
+39755at4893	Complete	contig_137	6364	5456	-	213.1	230	https://v12-1.orthodb.org/?query=39755at4893	YPR109W
+39762at4893	Missing
+39781at4893	Missing
+39783at4893	Complete	contig_51	17921	15626	-	551.4	704	https://v12-1.orthodb.org/?query=39783at4893	Ctf3
+39786at4893	Missing
+39801at4893	Missing
+39816at4893	Complete	contig_59	2333	3211	+	349.1	277	https://v12-1.orthodb.org/?query=39816at4893	endonuclease
+39820at4893	Missing
+39831at4893	Complete	contig_59	10188	9255	-	264.6	268	https://v12-1.orthodb.org/?query=39831at4893	SWR1-complex protein 5
+39836at4893	Missing
+39842at4893	Missing
+39849at4893	Missing
+39857at4893	Complete	contig_352	11082	9326	-	688.9	533	https://v12-1.orthodb.org/?query=39857at4893	centromere DNA-binding protein complex CBF3 subunit B
+39858at4893	Missing
+39860at4893	Missing
+39861at4893	Complete	contig_101	19537	18447	-	346.7	328	https://v12-1.orthodb.org/?query=39861at4893	Box C/D snoRNA
+39865at4893	Missing
+39866at4893	Missing
+39878at4893	Missing
+39880at4893	Missing
+39888at4893	Missing
+39901at4893	Complete	contig_370	13304	14531	+	247.3	337	https://v12-1.orthodb.org/?query=39901at4893	Stp22
+39933at4893	Missing
+39935at4893	Missing
+39936at4893	Missing
+39937at4893	Missing
+39941at4893	Missing
+39942at4893	Missing
+39944at4893	Missing
+39946at4893	Missing
+39949at4893	Missing
+39953at4893	Missing
+39954at4893	Missing
+39960at4893	Missing
+39972at4893	Missing
+39985at4893	Missing
+39988at4893	Missing
+39991at4893	Missing
+39995at4893	Missing
+39997at4893	Missing
+40002at4893	Missing
+40003at4893	Missing
+40013at4893	Complete	contig_176	9426	10882	+	531.7	417	https://v12-1.orthodb.org/?query=40013at4893	mitochondrial import inner membrane translocase subunit TIM50
+40022at4893	Missing
+40024at4893	Missing
+40026at4893	Missing
+40030at4893	Missing
+40041at4893	Missing
+40042at4893	Missing
+40055at4893	Missing
+40059at4893	Missing
+40066at4893	Missing
+40071at4893	Missing
+40072at4893	Missing
+40078at4893	Missing
+40084at4893	Complete	contig_21	25064	24698	-	139.7	117	https://v12-1.orthodb.org/?query=40084at4893	rRNA-processing protein CGR1
+40088at4893	Missing
+40092at4893	Missing
+40099at4893	Missing
+40109at4893	Missing
+40115at4893	Complete	contig_6	27342	28744	+	672.0	432	https://v12-1.orthodb.org/?query=40115at4893	cytochrome b-c1 complex subunit 1
+40117at4893	Missing
+40121at4893	Missing
+40123at4893	Missing
+40125at4893	Missing
+40128at4893	Missing
+40129at4893	Missing
+40135at4893	Complete	contig_145	12001	9792	-	306.0	517	https://v12-1.orthodb.org/?query=40135at4893	Spp382
+40137at4893	Missing
+40146at4893	Missing
+40154at4893	Missing
+40155at4893	Missing
+40167at4893	Missing
+40179at4893	Fragmented	contig_46	19350	18741	-	146.1	149	https://v12-1.orthodb.org/?query=40179at4893	Ecm1
+40183at4893	Missing
+40188at4893	Missing
+40194at4893	Missing
+40197at4893	Missing
+40202at4893	Missing
+40209at4893	Missing
+40211at4893	Fragmented	contig_274	35	1574	+	374.2	436	https://v12-1.orthodb.org/?query=40211at4893	She10
+40213at4893	Missing
+40234at4893	Missing
+40237at4893	Missing
+40239at4893	Complete	contig_77	12747	16810	+	939.2	1151	https://v12-1.orthodb.org/?query=40239at4893	Trs120
+40242at4893	Missing
+40250at4893	Missing
+40252at4893	Complete	contig_208	3748	3086	-	201.1	194	https://v12-1.orthodb.org/?query=40252at4893	dihydrofolate reductase
+40254at4893	Missing
+40262at4893	Missing
+40263at4893	Missing
+40271at4893	Missing
+40299at4893	Missing
+40300at4893	Missing
+40307at4893	Missing
+40326at4893	Missing
+40330at4893	Missing
+40335at4893	Missing
+40336at4893	Missing
+40348at4893	Missing
+40351at4893	Missing
+40373at4893	Missing
+40395at4893	Missing
+40398at4893	Missing
+40402at4893	Missing
+40410at4893	Missing
+40429at4893	Complete	contig_267	2300	25	-	870.6	696	https://v12-1.orthodb.org/?query=40429at4893	phosphate transporter
+40435at4893	Missing
+40453at4893	Missing
+40462at4893	Missing
+40471at4893	Complete	contig_20	28778	27414	-	473.9	409	https://v12-1.orthodb.org/?query=40471at4893	Putative nucleotide sugar transporter
+40472at4893	Complete	contig_333	9012	9587	+	195.1	155	https://v12-1.orthodb.org/?query=40472at4893	Tim18
+40473at4893	Missing
+40475at4893	Missing
+40478at4893	Missing
+40490at4893	Missing
+40497at4893	Missing
+40508at4893	Missing
+40510at4893	Complete	contig_197	34292	33451	-	241.5	265	https://v12-1.orthodb.org/?query=40510at4893	proteasome chaperone 2
+40525at4893	Missing
+40531at4893	Complete	contig_127	6937	7784	+	212.1	241	https://v12-1.orthodb.org/?query=40531at4893	YLR290C
+40556at4893	Missing
+40561at4893	Missing
+40568at4893	Missing
+40569at4893	Missing
+40583at4893	Missing
+40593at4893	Missing
+40596at4893	Complete	contig_238	12438	13865	+	430.0	436	https://v12-1.orthodb.org/?query=40596at4893	Thp1
+40601at4893	Complete	contig_81	14778	13656	-	304.4	292	https://v12-1.orthodb.org/?query=40601at4893	Fluoride export protein
+40602at4893	Missing
+40614at4893	Missing
+40648at4893	Missing
+40654at4893	Missing
+40661at4893	Missing
+40664at4893	Missing
+40665at4893	Missing
+40668at4893	Missing
+40673at4893	Fragmented	contig_139	5595	5865	+	136.2	84	https://v12-1.orthodb.org/?query=40673at4893	Tma23
+40674at4893	Complete	contig_149	4353	2720	-	342.3	375	https://v12-1.orthodb.org/?query=40674at4893	Nam8
+40678at4893	Missing
+40683at4893	Missing
+40689at4893	Missing
+40694at4893	Missing
+40696at4893	Missing
+40702at4893	Missing
+40707at4893	Missing
+40709at4893	Missing
+40717at4893	Complete	contig_346	11234	15396	+	438.0	411	https://v12-1.orthodb.org/?query=40717at4893	Mdm38
+40726at4893	Missing
+40733at4893	Missing
+40737at4893	Missing
+40739at4893	Missing
+40744at4893	Missing
+40747at4893	Missing
+40756at4893	Missing
+40760at4893	Missing
+40764at4893	Missing
+40792at4893	Missing
+40799at4893	Missing
+40807at4893	Missing
+40810at4893	Missing
+40817at4893	Missing
+40826at4893	Missing
+40845at4893	Missing
+40854at4893	Missing
+40855at4893	Missing
+40867at4893	Complete	contig_137	14988	17864	+	592.6	593	https://v12-1.orthodb.org/?query=40867at4893	pre-rRNA-processing protein fhl1
+40874at4893	Missing
+40884at4893	Complete	contig_218	9489	2560	-	1797.4	1691	https://v12-1.orthodb.org/?query=40884at4893	1-phosphatidylinositol-3-phosphate 5-kinase
+40886at4893	Missing
+40890at4893	Missing
+40894at4893	Missing
+40896at4893	Complete	contig_31	44760	43477	-	337.4	298	https://v12-1.orthodb.org/?query=40896at4893	Hinge domain of cleavage stimulation factor subunit 2
+40904at4893	Missing
+40905at4893	Missing
+40910at4893	Missing
+40915at4893	Missing
+40917at4893	Missing
+40919at4893	Complete	contig_135	25907	24913	-	223.3	286	https://v12-1.orthodb.org/?query=40919at4893	mannose 6-phosphate receptor-like protein
+40922at4893	Missing
+40930at4893	Complete	contig_92	48	2122	+	537.7	638	https://v12-1.orthodb.org/?query=40930at4893	Rgp1p
+40945at4893	Missing
+40958at4893	Complete	contig_97	7496	5589	-	498.8	415	https://v12-1.orthodb.org/?query=40958at4893	Ack1p
+40979at4893	Missing
+40983at4893	Missing
+40990at4893	Missing
+40995at4893	Missing
+41018at4893	Missing
+41023at4893	Missing
+41044at4893	Missing
+41052at4893	Missing
+41058at4893	Complete	contig_131	25106	25646	+	116.9	165	https://v12-1.orthodb.org/?query=41058at4893	regulator of rDNA transcription 14
+41060at4893	Missing
+41064at4893	Missing
+41068at4893	Missing
+41071at4893	Missing
+41075at4893	Missing
+41076at4893	Missing
+41078at4893	Missing
+41082at4893	Missing
+41096at4893	Missing
+41098at4893	Complete	contig_190	18006	18614	+	76.8	127	https://v12-1.orthodb.org/?query=41098at4893	Sue1
+41100at4893	Complete	contig_102	14710	14015	-	178.0	194	https://v12-1.orthodb.org/?query=41100at4893	YDR476C
+41105at4893	Complete	contig_227	5133	3056	-	530.5	644	https://v12-1.orthodb.org/?query=41105at4893	pH-response regulator protein palA/rim20
+41124at4893	Complete	contig_97	16903	20819	+	1535.2	1289	https://v12-1.orthodb.org/?query=41124at4893	Sec31
+41132at4893	Missing
+41139at4893	Complete	contig_414	26956	27713	+	98.0	200	https://v12-1.orthodb.org/?query=41139at4893	Big1
+41145at4893	Complete	contig_304	6645	5633	-	312.4	292	https://v12-1.orthodb.org/?query=41145at4893	polyadenylation factor I
+41158at4893	Missing
+41161at4893	Missing
+41166at4893	Missing
+41177at4893	Missing
+41180at4893	Missing
+41199at4893	Missing
+41200at4893	Missing
+41217at4893	Missing
+41221at4893	Complete	contig_344	17588	19345	+	167.7	429	https://v12-1.orthodb.org/?query=41221at4893	Bsp1
+41236at4893	Missing
+41240at4893	Missing
+41250at4893	Missing
+41256at4893	Missing
+41264at4893	Missing
+41272at4893	Missing
+41274at4893	Missing
+41279at4893	Missing
+41280at4893	Fragmented	contig_365	10085	7128	-	193.1	393	https://v12-1.orthodb.org/?query=41280at4893	Fir1
+41284at4893	Missing
+41289at4893	Missing
+41302at4893	Missing
+41305at4893	Missing
+41328at4893	Missing
+41333at4893	Missing
+41336at4893	Missing
+41339at4893	Missing
+41340at4893	Missing
+41343at4893	Missing
+41355at4893	Missing
+41360at4893	Missing
+41364at4893	Missing
+41368at4893	Missing
+41374at4893	Missing
+41410at4893	Missing
+41420at4893	Missing
+41421at4893	Missing
+41422at4893	Missing
+41432at4893	Missing
+41440at4893	Missing
+41444at4893	Missing
+41447at4893	Missing
+41458at4893	Missing
+41461at4893	Missing
+41464at4893	Missing
+41481at4893	Missing
+41490at4893	Missing
+41496at4893	Missing
+41501at4893	Missing
+41502at4893	Missing
+41512at4893	Missing
+41514at4893	Missing
+41516at4893	Missing
+41549at4893	Missing
+41557at4893	Complete	contig_386	7500	5811	-	378.9	427	https://v12-1.orthodb.org/?query=41557at4893	ERAD-associated E3 ubiquitin-protein ligase HRD1
+41558at4893	Missing
+41559at4893	Complete	contig_160	22945	24669	+	250.2	275	https://v12-1.orthodb.org/?query=41559at4893	HMGB-UBF HMG-box containing protein
+41562at4893	Complete	contig_68	5459	6248	+	157.0	216	https://v12-1.orthodb.org/?query=41562at4893	syntaxin
+41570at4893	Complete	contig_25	2259	637	-	278.1	447	https://v12-1.orthodb.org/?query=41570at4893	YKL047W
+41571at4893	Missing
+41574at4893	Missing
+41581at4893	Missing
+41611at4893	Missing
+41638at4893	Missing
+41639at4893	Missing
+41654at4893	Missing
+41658at4893	Missing
+41688at4893	Missing
+41697at4893	Missing
+41708at4893	Missing
+41730at4893	Missing
+41762at4893	Missing
+41788at4893	Missing
+41795at4893	Missing
+41798at4893	Complete	contig_337	9237	8589	-	172.2	168	https://v12-1.orthodb.org/?query=41798at4893	vacuolar ATPase assembly integral membrane protein
+41803at4893	Missing
+41806at4893	Complete	contig_359	12638	11029	-	476.1	477	https://v12-1.orthodb.org/?query=41806at4893	YNL295W
+41817at4893	Complete	contig_5	32524	31300	-	152.1	159	https://v12-1.orthodb.org/?query=41817at4893	mitochondrial intermembrane space import and assembly protein
+41833at4893	Missing
+41834at4893	Missing
+41887at4893	Complete	contig_110	40429	39368	-	212.2	212	https://v12-1.orthodb.org/?query=41887at4893	Helix-loop-helix DNA-binding domain
+41904at4893	Missing
+41907at4893	Missing
+41926at4893	Complete	contig_7	16828	15846	-	258.5	259	https://v12-1.orthodb.org/?query=41926at4893	Yrb2
+41939at4893	Missing
+41946at4893	Complete	contig_4	27404	30073	+	441.4	780	https://v12-1.orthodb.org/?query=41946at4893	DNA repair protein
+41952at4893	Complete	contig_57	44475	42024	-	382.3	464	https://v12-1.orthodb.org/?query=41952at4893	YGR250C
+41962at4893	Missing
+41995at4893	Missing
+41996at4893	Missing
+41999at4893	Complete	contig_5	13695	11887	-	226.1	328	https://v12-1.orthodb.org/?query=41999at4893	DNA-binding transcription repressor
+42001at4893	Missing
+42020at4893	Missing
+42030at4893	Missing
+42034at4893	Complete	contig_260	10553	12215	+	239.0	378	https://v12-1.orthodb.org/?query=42034at4893	RNA-binding protein
+42039at4893	Missing
+42073at4893	Missing
+42077at4893	Missing
+42081at4893	Missing
+42087at4893	Missing
+42093at4893	Missing
+42101at4893	Missing
+42109at4893	Missing
+42121at4893	Missing
+42122at4893	Missing
+42124at4893	Missing
+42135at4893	Missing
+42137at4893	Missing
+42139at4893	Missing
+42151at4893	Complete	contig_133	12380	12940	+	132.8	125	https://v12-1.orthodb.org/?query=42151at4893	Met28p
+42162at4893	Missing
+42167at4893	Fragmented	contig_175	3861	4493	+	97.0	116	https://v12-1.orthodb.org/?query=42167at4893	WW domain-containing protein wwm1
+42190at4893	Missing
+42204at4893	Missing
+42205at4893	Missing
+42228at4893	Complete	contig_113	15833	14821	-	187.7	260	https://v12-1.orthodb.org/?query=42228at4893	Lge1
+42264at4893	Missing
+42292at4893	Missing
+42373at4893	Missing
+42384at4893	Missing
+42389at4893	Missing

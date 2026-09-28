@@ -1,0 +1,3 @@
+contig_302	miniprot	mRNA	13314	16241	2021	-	.	ID=MP007011;Rank=1;Identity=0.7347;Positive=0.7898;Frameshift=54;StopCodon=4;Target=2283at4893_1095631_0:0007a9 9 950
+contig_302	miniprot	CDS	13314	16241	2021	-	0	Parent=MP007011;Rank=1;Identity=0.7347;Frameshift=54;StopCodon=4;Target=2283at4893_1095631_0:0007a9 9 950
+contig_302	miniprot	stop_codon	13314	13316	0	-	0	Parent=MP007011;Rank=1

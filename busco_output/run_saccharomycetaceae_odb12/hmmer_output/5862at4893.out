@@ -1,0 +1,17 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+5862at4893_27292_0:00128c|contig_346:15167-16635|-   -            482 5862                 -            453    7e-226  737.8  34.5   1   2  9.2e-220  9.2e-220  717.6  29.4    10   432    14   434     9   440 0.93 <unknown description>
+5862at4893_27292_0:00128c|contig_346:15167-16635|-   -            482 5862                 -            453    7e-226  737.8  34.5   2   2   1.6e-10   1.6e-10   27.9   1.6   399   453   427   481   425   481 0.87 <unknown description>
+5862at4893_1072105_0:00097d|contig_346:15167-20434|- -            485 5862                 -            453    5e-204  665.7  28.2   1   2  8.1e-198  8.1e-198  645.2  22.4    10   430    14   434     9   440 0.90 <unknown description>
+5862at4893_1072105_0:00097d|contig_346:15167-20434|- -            485 5862                 -            453    5e-204  665.7  28.2   2   2   1.1e-10   1.1e-10   28.4   2.3   397   453   428   484   426   484 0.85 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/5862at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/5862at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/5862at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/5862at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/5862at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:31 2026
+# [ok]

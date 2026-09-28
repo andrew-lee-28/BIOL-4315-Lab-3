@@ -1,0 +1,3 @@
+contig_131	miniprot	mRNA	2234	2931	797	-	.	ID=MP038595;Rank=1;Identity=0.8620;Positive=0.8876;Frameshift=9;Target=1558at4893_1095631_0:00048d 1 231
+contig_131	miniprot	CDS	2234	2931	797	-	0	Parent=MP038595;Rank=1;Identity=0.8620;Frameshift=9;Target=1558at4893_1095631_0:00048d 1 231
+contig_131	miniprot	stop_codon	2234	2236	0	-	0	Parent=MP038595;Rank=1

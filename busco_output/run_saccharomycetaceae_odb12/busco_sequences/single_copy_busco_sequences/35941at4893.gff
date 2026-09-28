@@ -1,0 +1,3 @@
+contig_40	miniprot	mRNA	9705	11471	1567	+	.	ID=MP017810;Rank=1;Identity=0.7635;Positive=0.8191;Frameshift=30;Target=35941at4893_559292_0:00133f 5 576
+contig_40	miniprot	CDS	9705	11471	1567	+	0	Parent=MP017810;Rank=1;Identity=0.7635;Frameshift=30;Target=35941at4893_559292_0:00133f 5 576
+contig_40	miniprot	stop_codon	11469	11471	0	+	0	Parent=MP017810;Rank=1

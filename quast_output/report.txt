@@ -1,0 +1,58 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     consensus    
+# contigs (>= 0 bp)          431          
+# contigs (>= 1000 bp)       431          
+# contigs (>= 5000 bp)       427          
+# contigs (>= 10000 bp)      371          
+# contigs (>= 25000 bp)      158          
+# contigs (>= 50000 bp)      22           
+Total length (>= 0 bp)       10063190     
+Total length (>= 1000 bp)    10063190     
+Total length (>= 5000 bp)    10044741     
+Total length (>= 10000 bp)   9599871      
+Total length (>= 25000 bp)   6026413      
+Total length (>= 50000 bp)   1379567      
+# contigs                    431          
+Largest contig               84371        
+Total length                 10063190     
+Reference length             12157105     
+GC (%)                       42.84        
+Reference GC (%)             38.15        
+N50                          28271        
+NG50                         24905        
+N90                          12381        
+NG90                         -            
+auN                          32077.6      
+auNG                         26552.6      
+L50                          121          
+LG50                         161          
+L90                          323          
+LG90                         -            
+# misassemblies              1            
+# misassembled contigs       1            
+Misassembled contigs length  18028        
+# local misassemblies        0            
+# scaffold gap ext. mis.     0            
+# scaffold gap loc. mis.     0            
+# unaligned mis. contigs     10           
+# unaligned contigs          374 + 57 part
+Unaligned length             9860368      
+Genome fraction (%)          1.625        
+Duplication ratio            1.027        
+# N's per 100 kbp            0.00         
+# mismatches per 100 kbp     1538.79      
+# indels per 100 kbp         2981.43      
+# genomic features           0 + 0 part   
+Largest alignment            14528        
+Total aligned length         202822       
+NA50                         -            
+NGA50                        -            
+NA90                         -            
+NGA90                        -            
+auNA                         139.9        
+auNGA                        115.8        
+LA50                         -            
+LGA50                        -            
+LA90                         -            
+LGA90                        -            

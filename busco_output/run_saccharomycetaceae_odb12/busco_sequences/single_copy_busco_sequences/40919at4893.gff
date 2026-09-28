@@ -1,0 +1,3 @@
+contig_135	miniprot	mRNA	24911	25907	664	-	.	ID=MP029771;Rank=1;Identity=0.6791;Positive=0.7293;Frameshift=15;Target=40919at4893_1095631_0:001127 68 381
+contig_135	miniprot	CDS	24911	25907	664	-	0	Parent=MP029771;Rank=1;Identity=0.6791;Frameshift=15;Target=40919at4893_1095631_0:001127 68 381
+contig_135	miniprot	stop_codon	24911	24913	0	-	0	Parent=MP029771;Rank=1

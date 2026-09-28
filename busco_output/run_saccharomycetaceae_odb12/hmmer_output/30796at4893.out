@@ -1,0 +1,25 @@
+#                                                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                 ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+30796at4893_1095631_0:000eb7|contig_320:11198-16207|- -           1633 30796                -           1301  2.2e-182  597.2  47.9   1   3  1.1e-179  1.1e-179  588.3  35.5    16  1149     8  1265     4  1271 0.77 <unknown description>
+30796at4893_1095631_0:000eb7|contig_320:11198-16207|- -           1633 30796                -           1301  2.2e-182  597.2  47.9   2   3   7.3e-05   7.3e-05    9.1   0.0  1173  1284  1322  1438  1315  1451 0.77 <unknown description>
+30796at4893_1095631_0:000eb7|contig_320:11198-16207|- -           1633 30796                -           1301  2.2e-182  597.2  47.9   3   3     0.026     0.026    0.6   2.0  1243  1291  1572  1620  1564  1626 0.88 <unknown description>
+30796at4893_2792677_0:000823|contig_320:12418-15817|- -           1060 30796                -           1301  1.9e-148  484.8  32.0   1   2  1.4e-119  1.4e-119  389.1  28.6   123   952     5   922     1   924 0.78 <unknown description>
+30796at4893_2792677_0:000823|contig_320:12418-15817|- -           1060 30796                -           1301  1.9e-148  484.8  32.0   2   2   2.5e-30   2.5e-30   93.4   0.1   973  1122   908  1059   903  1059 0.89 <unknown description>
+30796at4893_27292_0:002653|contig_320:11198-14761|-   -           1136 30796                -           1301  5.9e-137  446.7  23.1   1   1    9e-137    9e-137  446.1  23.1   408  1265    18   919     5   950 0.81 <unknown description>
+30796at4893_1095631_0:000eb7|contig_217:194-5944|+    -           1771 30796                -           1301  1.1e-117  382.9   6.5   1   4   1.4e-65   1.4e-65  210.2   0.1    15   317    22   368     4   373 0.82 <unknown description>
+30796at4893_1095631_0:000eb7|contig_217:194-5944|+    -           1771 30796                -           1301  1.1e-117  382.9   6.5   2   4   1.7e-17   1.7e-17   50.9   0.0   598   816   719   987   710  1006 0.69 <unknown description>
+30796at4893_1095631_0:000eb7|contig_217:194-5944|+    -           1771 30796                -           1301  1.1e-117  382.9   6.5   3   4   5.1e-28   5.1e-28   85.8   0.1   886  1163  1103  1431  1095  1443 0.69 <unknown description>
+30796at4893_1095631_0:000eb7|contig_217:194-5944|+    -           1771 30796                -           1301  1.1e-117  382.9   6.5   4   4   6.4e-13   6.4e-13   35.7   0.1  1173  1286  1464  1588  1446  1598 0.81 <unknown description>
+30796at4893_42258_0:000d16|contig_320:12451-14424|-   -            624 30796                -           1301  3.1e-108  351.5  18.0   1   1  3.5e-108  3.5e-108  351.3  18.0   487  1113     1   624     1   624 0.86 <unknown description>
+30796at4893_27292_0:002677|contig_320:15065-16207|-   -            377 30796                -           1301   5.7e-42  132.0   0.4   1   1   1.8e-41   1.8e-41  130.4   0.4    16   328     8   369     4   375 0.76 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/30796at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/30796at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/30796at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/30796at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/30796at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:11 2026
+# [ok]

@@ -1,0 +1,2 @@
+contig_84	miniprot	mRNA	15614	18232	2236	+	.	ID=MP009169;Rank=1;Identity=0.8087;Positive=0.8394;Frameshift=51;StopCodon=2;Target=22886at4893_27292_0:00050c 1 843
+contig_84	miniprot	CDS	15614	18232	2236	+	0	Parent=MP009169;Rank=1;Identity=0.8087;Frameshift=51;StopCodon=2;Target=22886at4893_27292_0:00050c 1 843

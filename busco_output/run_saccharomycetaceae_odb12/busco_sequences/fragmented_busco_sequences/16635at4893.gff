@@ -1,0 +1,4 @@
+contig_162	miniprot	mRNA	29316	30676	610	-	.	ID=MP027730;Rank=1;Identity=0.6044;Positive=0.6886;Frameshift=21;StopCodon=1;Target=16635at4893_27292_0:00005e 1 413
+contig_162	miniprot	CDS	29538	30676	441	-	0	Parent=MP027730;Rank=1;Identity=0.5864;Frameshift=20;Target=16635at4893_27292_0:00005e 1 350
+contig_162	miniprot	CDS	29316	29529	169	-	2	Parent=MP027730;Rank=1;Identity=0.7033;Frameshift=1;StopCodon=1;Target=16635at4893_27292_0:00005e 351 413
+contig_162	miniprot	stop_codon	29316	29318	0	-	0	Parent=MP027730;Rank=1

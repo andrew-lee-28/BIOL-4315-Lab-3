@@ -1,0 +1,2 @@
+contig_114	miniprot	mRNA	15442	16433	889	-	.	ID=MP032062;Rank=1;Identity=0.7588;Positive=0.8235;Frameshift=17;Target=22511at4893_1095631_0:001199 2 337
+contig_114	miniprot	CDS	15442	16433	889	-	0	Parent=MP032062;Rank=1;Identity=0.7588;Frameshift=17;Target=22511at4893_1095631_0:001199 2 337

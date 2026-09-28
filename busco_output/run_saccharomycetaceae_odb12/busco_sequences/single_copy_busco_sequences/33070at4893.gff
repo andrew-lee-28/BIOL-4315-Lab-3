@@ -1,0 +1,2 @@
+contig_60	miniprot	mRNA	7297	7677	304	+	.	ID=MP043224;Rank=1;Identity=0.8068;Positive=0.8460;Frameshift=8;Target=33070at4893_1160507_0:000484 2 123
+contig_60	miniprot	CDS	7297	7677	304	+	0	Parent=MP043224;Rank=1;Identity=0.8068;Frameshift=8;Target=33070at4893_1160507_0:000484 2 123

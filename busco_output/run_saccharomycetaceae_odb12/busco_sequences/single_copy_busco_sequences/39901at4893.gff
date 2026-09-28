@@ -1,0 +1,2 @@
+contig_370	miniprot	mRNA	13305	14531	734	+	.	ID=MP029607;Rank=1;Identity=0.7281;Positive=0.7792;Frameshift=27;StopCodon=1;Target=39901at4893_4932_0:0001fa 1 385
+contig_370	miniprot	CDS	13305	14531	734	+	0	Parent=MP029607;Rank=1;Identity=0.7281;Frameshift=27;StopCodon=1;Target=39901at4893_4932_0:0001fa 1 385

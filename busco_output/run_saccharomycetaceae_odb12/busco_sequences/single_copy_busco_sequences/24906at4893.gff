@@ -1,0 +1,4 @@
+contig_23	miniprot	mRNA	419	2524	1092	+	.	ID=MP014436;Rank=1;Identity=0.6337;Positive=0.7202;Frameshift=36;StopCodon=2;Target=24906at4893_27292_0:0009c1 8 666
+contig_23	miniprot	CDS	419	1638	589	+	0	Parent=MP014436;Rank=1;Identity=0.5883;Frameshift=18;StopCodon=1;Target=24906at4893_27292_0:0009c1 8 389
+contig_23	miniprot	CDS	1643	2524	503	+	0	Parent=MP014436;Rank=1;Identity=0.6967;Frameshift=18;StopCodon=1;Target=24906at4893_27292_0:0009c1 390 666
+contig_23	miniprot	stop_codon	2522	2524	0	+	0	Parent=MP014436;Rank=1

@@ -1,0 +1,4 @@
+contig_5	miniprot	mRNA	34582	37824	2662	+	.	ID=MP005469;Rank=1;Identity=0.7733;Positive=0.8184;Frameshift=55;StopCodon=4;Target=6649at4893_1095631_0:000a39 1 1043
+contig_5	miniprot	CDS	34582	36357	1424	+	0	Parent=MP005469;Rank=1;Identity=0.7513;Frameshift=26;StopCodon=4;Target=6649at4893_1095631_0:000a39 1 573
+contig_5	miniprot	CDS	36362	37824	1238	+	0	Parent=MP005469;Rank=1;Identity=0.8001;Frameshift=29;Target=6649at4893_1095631_0:000a39 574 1043
+contig_5	miniprot	stop_codon	37822	37824	0	+	0	Parent=MP005469;Rank=1

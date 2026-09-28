@@ -1,0 +1,2 @@
+contig_431	miniprot	mRNA	32815	34906	1879	-	.	ID=MP013840;Rank=1;Identity=0.7852;Positive=0.8293;Frameshift=33;StopCodon=2;Target=22785at4893_559292_0:00009b 3 681
+contig_431	miniprot	CDS	32815	34906	1879	-	0	Parent=MP013840;Rank=1;Identity=0.7852;Frameshift=33;StopCodon=2;Target=22785at4893_559292_0:00009b 3 681

@@ -1,0 +1,2 @@
+contig_117	miniprot	mRNA	19949	20407	443	+	.	ID=MP042570;Rank=1;Identity=0.8247;Positive=0.8506;Frameshift=8;StopCodon=1;Target=19787at4893_1095631_0:000db7 1 150
+contig_117	miniprot	CDS	19949	20407	443	+	0	Parent=MP042570;Rank=1;Identity=0.8247;Frameshift=8;StopCodon=1;Target=19787at4893_1095631_0:000db7 1 150

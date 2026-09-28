@@ -1,0 +1,3 @@
+contig_135	miniprot	mRNA	11655	13324	1351	+	.	ID=MP019404;Rank=1;Identity=0.7416;Positive=0.7912;Frameshift=22;StopCodon=3;Target=34937at4893_226126_0:0014c1 1 548
+contig_135	miniprot	CDS	11655	13324	1351	+	0	Parent=MP019404;Rank=1;Identity=0.7416;Frameshift=22;StopCodon=3;Target=34937at4893_226126_0:0014c1 1 548
+contig_135	miniprot	stop_codon	13322	13324	0	+	0	Parent=MP019404;Rank=1

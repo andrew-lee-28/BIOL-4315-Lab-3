@@ -1,0 +1,2 @@
+contig_31	miniprot	mRNA	26466	27544	771	-	.	ID=MP031852;Rank=1;Identity=0.6938;Positive=0.7410;Frameshift=16;Target=26165at4893_1095631_0:00061c 6 345
+contig_31	miniprot	CDS	26466	27544	771	-	0	Parent=MP031852;Rank=1;Identity=0.6938;Frameshift=16;Target=26165at4893_1095631_0:00061c 6 345

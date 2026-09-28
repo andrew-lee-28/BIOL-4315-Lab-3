@@ -1,0 +1,25 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+5107at4893_27292_0:0003e5|contig_425:76809-78533|-  -            561 5107                 -            397   4.3e-58  184.6  26.6   1   5   4.9e-32   4.9e-32   98.8   6.3     4   163     4   176     2   183 0.78 <unknown description>
+5107at4893_27292_0:0003e5|contig_425:76809-78533|-  -            561 5107                 -            397   4.3e-58  184.6  26.6   2   5   2.5e-07   2.5e-07   17.4   2.5   165   205   205   244   190   251 0.85 <unknown description>
+5107at4893_27292_0:0003e5|contig_425:76809-78533|-  -            561 5107                 -            397   4.3e-58  184.6  26.6   3   5      0.04      0.04    0.3   0.0   204   229   271   298   261   314 0.73 <unknown description>
+5107at4893_27292_0:0003e5|contig_425:76809-78533|-  -            561 5107                 -            397   4.3e-58  184.6  26.6   4   5   7.6e-23   7.6e-23   68.5   0.3   227   337   325   438   319   443 0.86 <unknown description>
+5107at4893_27292_0:0003e5|contig_425:76809-78533|-  -            561 5107                 -            397   4.3e-58  184.6  26.6   5   5   6.1e-05   6.1e-05    9.6   0.1   344   382   508   545   501   559 0.81 <unknown description>
+5107at4893_764100_0:000382|contig_425:77183-78206|- -            333 5107                 -            397   2.2e-37  116.4  11.3   1   4   3.5e-11   3.5e-11   30.1   0.0   103   163     2    69     1    80 0.78 <unknown description>
+5107at4893_764100_0:000382|contig_425:77183-78206|- -            333 5107                 -            397   2.2e-37  116.4  11.3   2   4   1.2e-07   1.2e-07   18.5   2.7   165   205    98   137    78   146 0.84 <unknown description>
+5107at4893_764100_0:000382|contig_425:77183-78206|- -            333 5107                 -            397   2.2e-37  116.4  11.3   3   4      0.02      0.02    1.3   0.0   204   230   164   192   154   208 0.72 <unknown description>
+5107at4893_764100_0:000382|contig_425:77183-78206|- -            333 5107                 -            397   2.2e-37  116.4  11.3   4   4   3.1e-23   3.1e-23   69.8   0.2   227   337   218   331   211   333 0.86 <unknown description>
+5107at4893_764102_0:000252|contig_425:77060-77939|- -            285 5107                 -            397     3e-29   89.6   7.4   1   3   1.1e-07   1.1e-07   18.6   2.5   166   205    11    49     3    72 0.88 <unknown description>
+5107at4893_764102_0:000252|contig_425:77060-77939|- -            285 5107                 -            397     3e-29   89.6   7.4   2   3     0.016     0.016    1.6   0.0   204   230    76   104    66   120 0.72 <unknown description>
+5107at4893_764102_0:000252|contig_425:77060-77939|- -            285 5107                 -            397     3e-29   89.6   7.4   3   3   1.9e-23   1.9e-23   70.5   0.2   227   337   130   243   123   249 0.86 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/5107at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/5107at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/5107at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/5107at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/5107at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:34 2026
+# [ok]

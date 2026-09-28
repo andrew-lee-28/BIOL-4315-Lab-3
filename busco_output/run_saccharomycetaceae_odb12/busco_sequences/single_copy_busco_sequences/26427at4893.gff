@@ -1,0 +1,3 @@
+contig_319	miniprot	mRNA	13124	14606	1479	-	.	ID=MP022334;Rank=1;Identity=0.8511;Positive=0.8834;Frameshift=30;Target=26427at4893_1095631_0:000e8c 15 494
+contig_319	miniprot	CDS	13124	14606	1479	-	0	Parent=MP022334;Rank=1;Identity=0.8511;Frameshift=30;Target=26427at4893_1095631_0:000e8c 15 494
+contig_319	miniprot	stop_codon	13124	13126	0	-	0	Parent=MP022334;Rank=1

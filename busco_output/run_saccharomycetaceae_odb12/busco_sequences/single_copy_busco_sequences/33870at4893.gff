@@ -1,0 +1,2 @@
+contig_35	miniprot	mRNA	11994	13230	1122	-	.	ID=MP028497;Rank=1;Identity=0.8258;Positive=0.8644;Frameshift=22;StopCodon=1;Target=33870at4893_1095631_0:000327 4 402
+contig_35	miniprot	CDS	11994	13230	1122	-	0	Parent=MP028497;Rank=1;Identity=0.8258;Frameshift=22;StopCodon=1;Target=33870at4893_1095631_0:000327 4 402

@@ -1,0 +1,3 @@
+contig_303	miniprot	mRNA	16604	17190	432	-	.	ID=MP041044;Rank=1;Identity=0.7653;Positive=0.8010;Frameshift=12;StopCodon=2;Target=11096at4893_1095631_0:0007fe 1 189
+contig_303	miniprot	CDS	16604	17190	432	-	0	Parent=MP041044;Rank=1;Identity=0.7653;Frameshift=12;StopCodon=2;Target=11096at4893_1095631_0:0007fe 1 189
+contig_303	miniprot	stop_codon	16604	16606	0	-	0	Parent=MP041044;Rank=1

@@ -1,0 +1,2 @@
+contig_105	miniprot	mRNA	11244	12233	784	-	.	ID=MP033663;Rank=1;Identity=0.7681;Positive=0.8163;Frameshift=20;Target=12882at4893_1095631_0:0009e9 1 320
+contig_105	miniprot	CDS	11244	12233	784	-	0	Parent=MP033663;Rank=1;Identity=0.7681;Frameshift=20;Target=12882at4893_1095631_0:0009e9 1 320

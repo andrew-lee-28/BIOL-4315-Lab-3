@@ -1,0 +1,3 @@
+contig_32	miniprot	mRNA	7286	8936	1636	-	.	ID=MP019181;Rank=1;Identity=0.7826;Positive=0.8326;Frameshift=25;Target=27139at4893_764100_0:0004d5 1 551
+contig_32	miniprot	CDS	7286	8936	1636	-	0	Parent=MP019181;Rank=1;Identity=0.7826;Frameshift=25;Target=27139at4893_764100_0:0004d5 1 551
+contig_32	miniprot	stop_codon	7286	7288	0	-	0	Parent=MP019181;Rank=1

@@ -1,0 +1,2 @@
+contig_222	miniprot	mRNA	2312	2960	662	-	.	ID=MP039546;Rank=1;Identity=0.8742;Positive=0.8742;Frameshift=9;StopCodon=2;Target=37497at4893_1095631_0:000d98 1 213
+contig_222	miniprot	CDS	2312	2960	662	-	0	Parent=MP039546;Rank=1;Identity=0.8742;Frameshift=9;StopCodon=2;Target=37497at4893_1095631_0:000d98 1 213

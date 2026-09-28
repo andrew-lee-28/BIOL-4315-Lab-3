@@ -1,0 +1,2 @@
+contig_412	miniprot	mRNA	22414	23375	783	+	.	ID=MP019205;Rank=1;Identity=0.7725;Positive=0.8128;Frameshift=19;Target=38271at4893_1095631_0:0010dc 1 313
+contig_412	miniprot	CDS	22414	23375	783	+	0	Parent=MP019205;Rank=1;Identity=0.7725;Frameshift=19;Target=38271at4893_1095631_0:0010dc 1 313

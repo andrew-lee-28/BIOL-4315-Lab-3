@@ -1,0 +1,2 @@
+contig_378	miniprot	mRNA	957	1469	413	-	.	ID=MP041911;Rank=1;Identity=0.7834;Positive=0.8356;Frameshift=10;StopCodon=1;Target=9591at4893_1095631_0:000d8d 1 165
+contig_378	miniprot	CDS	957	1469	413	-	0	Parent=MP041911;Rank=1;Identity=0.7834;Frameshift=10;StopCodon=1;Target=9591at4893_1095631_0:000d8d 1 165

@@ -1,0 +1,3 @@
+contig_411	miniprot	mRNA	12363	13414	1332	-	.	ID=MP031728;Rank=1;Identity=0.9222;Positive=0.9364;Frameshift=10;StopCodon=1;Target=32552at4893_1095631_0:00114a 2 347
+contig_411	miniprot	CDS	12363	13414	1332	-	0	Parent=MP031728;Rank=1;Identity=0.9222;Frameshift=10;StopCodon=1;Target=32552at4893_1095631_0:00114a 2 347
+contig_411	miniprot	stop_codon	12363	12365	0	-	0	Parent=MP031728;Rank=1

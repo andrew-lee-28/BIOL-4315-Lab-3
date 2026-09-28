@@ -1,0 +1,2 @@
+contig_310	miniprot	mRNA	14097	14461	363	-	.	ID=MP043638;Rank=1;Identity=0.8548;Positive=0.8795;Frameshift=6;Target=1111at4893_1095631_0:00117e 1 118
+contig_310	miniprot	CDS	14097	14461	363	-	0	Parent=MP043638;Rank=1;Identity=0.8548;Frameshift=6;Target=1111at4893_1095631_0:00117e 1 118

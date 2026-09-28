@@ -1,0 +1,2 @@
+contig_338	miniprot	mRNA	1040	4657	2723	-	.	ID=MP003922;Rank=1;Identity=0.7356;Positive=0.7892;Frameshift=58;StopCodon=6;Target=27183at4893_1095631_0:000c41 1 1165
+contig_338	miniprot	CDS	1040	4657	2723	-	0	Parent=MP003922;Rank=1;Identity=0.7356;Frameshift=58;StopCodon=6;Target=27183at4893_1095631_0:000c41 1 1165

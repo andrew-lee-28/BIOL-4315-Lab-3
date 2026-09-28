@@ -1,0 +1,4 @@
+contig_32	miniprot	mRNA	18194	18950	688	-	.	ID=MP038701;Rank=1;Identity=0.8107;Positive=0.8410;Frameshift=10;Target=2557at4893_4932_0:000984 1 229
+contig_32	miniprot	CDS	18918	18950	64	-	0	Parent=MP038701;Rank=1;Identity=1.0000;Target=2557at4893_4932_0:000984 1 11
+contig_32	miniprot	CDS	18194	18838	624	-	0	Parent=MP038701;Rank=1;Identity=0.8012;Frameshift=10;Target=2557at4893_4932_0:000984 12 229
+contig_32	miniprot	stop_codon	18194	18196	0	-	0	Parent=MP038701;Rank=1

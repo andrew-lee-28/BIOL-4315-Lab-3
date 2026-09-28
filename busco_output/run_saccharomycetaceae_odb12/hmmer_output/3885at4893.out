@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+3885at4893_27292_0:00073e|contig_358:2978-5139|+   -            702 3885                 -            640   6.7e-97  313.6  37.7   1   1   5.1e-95   5.1e-95  307.4  37.7     2   635     2   691     1   691 0.79 <unknown description>
+3885at4893_230603_0:0007d4|contig_72:3999-5925|+   -            629 3885                 -            640   7.3e-76  244.1  27.8   1   2   4.4e-15   4.4e-15   43.3   3.1     5   106     2   108     1   186 0.79 <unknown description>
+3885at4893_230603_0:0007d4|contig_72:3999-5925|+   -            629 3885                 -            640   7.3e-76  244.1  27.8   2   2   1.4e-64   1.4e-64  206.8  16.9   187   545   234   628   221   629 0.84 <unknown description>
+3885at4893_1071378_0:001158|contig_72:4736-5925|+  -            357 3885                 -            640     9e-59  187.7  10.1   1   2   2.7e-30   2.7e-30   93.6   0.8   194   308     4   127     1   139 0.86 <unknown description>
+3885at4893_1071378_0:001158|contig_72:4736-5925|+  -            357 3885                 -            640     9e-59  187.7  10.1   2   2     7e-32     7e-32   98.8   2.8   386   545   181   356   148   357 0.83 <unknown description>
+3885at4893_1333698_0:000e53|contig_358:3662-4721|+ -            347 3885                 -            640   1.9e-51  163.5  14.5   1   1   2.5e-51   2.5e-51  163.1  14.5   189   510    11   346     2   347 0.80 <unknown description>
+3885at4893_566037_0:000ca3|contig_72:4730-5000|+   -             90 3885                 -            640   4.1e-20   60.0   0.0   1   1   4.3e-20   4.3e-20   59.9   0.0   192   268     4    87     1    90 0.80 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/3885at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/3885at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/3885at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/3885at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/3885at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:24 2026
+# [ok]

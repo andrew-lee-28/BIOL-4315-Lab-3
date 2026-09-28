@@ -1,0 +1,20 @@
+#                                                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+36342at4893_1095631_0:0009fd|contig_62:21185-23537|- -            762 36342                -            749  6.3e-107  347.5  27.4   1   1  7.6e-107  7.6e-107  347.3  27.4     8   711     8   708     1   748 0.72 <unknown description>
+36342at4893_764102_0:00077a|contig_62:21577-23401|-  -            593 36342                -            749   3.7e-91  295.4  20.2   1   1   4.5e-91   4.5e-91  295.1  20.2    51   634     4   591     2   593 0.74 <unknown description>
+36342at4893_1064592_0:000317|contig_62:22221-23456|- -            344 36342                -            749   2.1e-73  236.7  21.4   1   2   6.4e-64   6.4e-64  205.3  15.9    28   267     1   230     1   293 0.80 <unknown description>
+36342at4893_1064592_0:000317|contig_62:22221-23456|- -            344 36342                -            749   2.1e-73  236.7  21.4   2   2   1.8e-12   1.8e-12   35.3   0.9   384   448   278   342   238   344 0.68 <unknown description>
+36342at4893_1071382_0:000fdd|contig_62:22840-23456|- -            201 36342                -            749   7.6e-67  215.0  13.4   1   1   8.4e-67   8.4e-67  214.9  13.4    28   238     1   200     1   201 0.94 <unknown description>
+36342at4893_1266667_0:000603|contig_62:22626-23456|- -            272 36342                -            749   2.5e-63  203.4  15.4   1   1   3.1e-63   3.1e-63  203.1  15.4    28   289     1   249     1   269 0.78 <unknown description>
+36342at4893_1654605_0:000216|contig_62:22884-23228|- -            112 36342                -            749     2e-42  134.3   2.7   1   1   2.2e-42   2.2e-42  134.2   2.7   107   223     2   111     1   112 0.93 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/36342at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/36342at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/36342at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/36342at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/36342at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:32:19 2026
+# [ok]

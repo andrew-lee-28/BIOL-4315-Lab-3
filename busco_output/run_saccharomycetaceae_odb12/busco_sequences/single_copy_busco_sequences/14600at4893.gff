@@ -1,0 +1,2 @@
+contig_85	miniprot	mRNA	34559	34980	282	-	.	ID=MP043183;Rank=1;Identity=0.7887;Positive=0.8310;Frameshift=10;Target=14600at4893_1095631_0:000ac4 5 138
+contig_85	miniprot	CDS	34559	34980	282	-	0	Parent=MP043183;Rank=1;Identity=0.7887;Frameshift=10;Target=14600at4893_1095631_0:000ac4 5 138

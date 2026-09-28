@@ -1,0 +1,2 @@
+contig_108	miniprot	mRNA	22135	23642	946	-	.	ID=MP022047;Rank=1;Identity=0.6291;Positive=0.7018;Frameshift=20;StopCodon=1;Target=32445at4893_1095631_0:000782 4 494
+contig_108	miniprot	CDS	22135	23642	946	-	0	Parent=MP022047;Rank=1;Identity=0.6291;Frameshift=20;StopCodon=1;Target=32445at4893_1095631_0:000782 4 494

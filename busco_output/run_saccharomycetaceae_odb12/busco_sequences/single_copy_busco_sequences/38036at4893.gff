@@ -1,0 +1,3 @@
+contig_258	miniprot	mRNA	5895	8644	2074	+	.	ID=MP008288;Rank=1;Identity=0.7750;Positive=0.8153;Frameshift=51;StopCodon=3;Target=38036at4893_1095631_0:000acf 1 881
+contig_258	miniprot	CDS	5895	8644	2074	+	0	Parent=MP008288;Rank=1;Identity=0.7750;Frameshift=51;StopCodon=3;Target=38036at4893_1095631_0:000acf 1 881
+contig_258	miniprot	stop_codon	8642	8644	0	+	0	Parent=MP008288;Rank=1

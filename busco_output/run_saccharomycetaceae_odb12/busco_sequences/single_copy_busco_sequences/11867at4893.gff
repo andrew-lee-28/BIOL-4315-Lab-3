@@ -1,0 +1,2 @@
+contig_295	miniprot	mRNA	5584	6168	447	-	.	ID=MP039891;Rank=1;Identity=0.6962;Positive=0.7730;Frameshift=9;Target=11867at4893_27292_0:001b6b 20 206
+contig_295	miniprot	CDS	5584	6168	447	-	0	Parent=MP039891;Rank=1;Identity=0.6962;Frameshift=9;Target=11867at4893_27292_0:001b6b 20 206

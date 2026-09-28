@@ -1,0 +1,3 @@
+contig_211	miniprot	mRNA	11033	13606	1863	-	.	ID=MP009585;Rank=1;Identity=0.7153;Positive=0.7692;Frameshift=44;StopCodon=3;Target=2111at4893_764102_0:00008b 1 828
+contig_211	miniprot	CDS	11033	13606	1863	-	0	Parent=MP009585;Rank=1;Identity=0.7153;Frameshift=44;StopCodon=3;Target=2111at4893_764102_0:00008b 1 828
+contig_211	miniprot	stop_codon	11033	11035	0	-	0	Parent=MP009585;Rank=1

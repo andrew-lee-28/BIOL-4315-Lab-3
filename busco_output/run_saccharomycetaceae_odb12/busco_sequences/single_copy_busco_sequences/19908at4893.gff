@@ -1,0 +1,2 @@
+contig_261	miniprot	mRNA	14621	15381	577	-	.	ID=MP037751;Rank=1;Identity=0.7724;Positive=0.8231;Frameshift=16;Target=19908at4893_1095631_0:000a64 1 247
+contig_261	miniprot	CDS	14621	15381	577	-	0	Parent=MP037751;Rank=1;Identity=0.7724;Frameshift=16;Target=19908at4893_1095631_0:000a64 1 247

@@ -1,0 +1,2 @@
+contig_22	miniprot	mRNA	9523	10664	1259	-	.	ID=MP029483;Rank=1;Identity=0.8515;Positive=0.8777;Frameshift=16;Target=9738at4893_34358_0:000dc7 15 387
+contig_22	miniprot	CDS	9523	10664	1259	-	0	Parent=MP029483;Rank=1;Identity=0.8515;Frameshift=16;Target=9738at4893_34358_0:000dc7 15 387

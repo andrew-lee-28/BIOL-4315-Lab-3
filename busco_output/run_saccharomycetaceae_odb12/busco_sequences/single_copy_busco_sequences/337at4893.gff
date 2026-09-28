@@ -1,0 +1,2 @@
+contig_428	miniprot	mRNA	2937	4997	1456	+	.	ID=MP014346;Rank=1;Identity=0.7256;Positive=0.7701;Frameshift=36;StopCodon=2;Target=337at4893_1095631_0:00013d 1 667
+contig_428	miniprot	CDS	2937	4997	1456	+	0	Parent=MP014346;Rank=1;Identity=0.7256;Frameshift=36;StopCodon=2;Target=337at4893_1095631_0:00013d 1 667

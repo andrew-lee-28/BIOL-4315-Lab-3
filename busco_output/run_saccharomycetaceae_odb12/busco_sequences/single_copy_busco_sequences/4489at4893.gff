@@ -1,0 +1,3 @@
+contig_114	miniprot	mRNA	16786	18002	516	-	.	ID=MP028032;Rank=1;Identity=0.6048;Positive=0.6840;Frameshift=23;StopCodon=3;Target=4489at4893_764097_0:000e27 1 409
+contig_114	miniprot	CDS	16786	18002	516	-	0	Parent=MP028032;Rank=1;Identity=0.6048;Frameshift=23;StopCodon=3;Target=4489at4893_764097_0:000e27 1 409
+contig_114	miniprot	stop_codon	16786	16788	0	-	0	Parent=MP028032;Rank=1

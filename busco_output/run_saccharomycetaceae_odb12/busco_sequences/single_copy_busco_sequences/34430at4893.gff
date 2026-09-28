@@ -1,0 +1,3 @@
+contig_110	miniprot	mRNA	6281	6629	367	+	.	ID=MP043834;Rank=1;Identity=0.8276;Positive=0.8362;Frameshift=5;Target=34430at4893_1095631_0:0008da 1 113
+contig_110	miniprot	CDS	6281	6629	367	+	0	Parent=MP043834;Rank=1;Identity=0.8276;Frameshift=5;Target=34430at4893_1095631_0:0008da 1 113
+contig_110	miniprot	stop_codon	6627	6629	0	+	0	Parent=MP043834;Rank=1

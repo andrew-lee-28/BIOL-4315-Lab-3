@@ -1,0 +1,2 @@
+contig_108	miniprot	mRNA	6142	7565	1133	-	.	ID=MP024088;Rank=1;Identity=0.7729;Positive=0.8125;Frameshift=27;Target=32593at4893_1095631_0:000758 1 463
+contig_108	miniprot	CDS	6142	7565	1133	-	0	Parent=MP024088;Rank=1;Identity=0.7729;Frameshift=27;Target=32593at4893_1095631_0:000758 1 463

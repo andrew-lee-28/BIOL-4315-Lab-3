@@ -1,0 +1,2 @@
+contig_13	miniprot	mRNA	487	1012	489	-	.	ID=MP041769;Rank=1;Identity=0.8441;Positive=0.8669;Frameshift=9;Target=22096at4893_27292_0:0017d9 1 169
+contig_13	miniprot	CDS	487	1012	489	-	0	Parent=MP041769;Rank=1;Identity=0.8441;Frameshift=9;Target=22096at4893_27292_0:0017d9 1 169

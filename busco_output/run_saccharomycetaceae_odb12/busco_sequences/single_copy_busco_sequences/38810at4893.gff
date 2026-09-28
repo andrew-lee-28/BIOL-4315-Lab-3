@@ -1,0 +1,2 @@
+contig_9	miniprot	mRNA	56016	57861	1719	-	.	ID=MP016859;Rank=1;Identity=0.8176;Positive=0.8564;Frameshift=32;StopCodon=1;Target=38810at4893_1095631_0:0011bd 1 599
+contig_9	miniprot	CDS	56016	57861	1719	-	0	Parent=MP016859;Rank=1;Identity=0.8176;Frameshift=32;StopCodon=1;Target=38810at4893_1095631_0:0011bd 1 599

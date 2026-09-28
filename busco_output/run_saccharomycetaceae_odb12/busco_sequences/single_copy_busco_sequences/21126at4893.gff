@@ -1,0 +1,2 @@
+contig_319	miniprot	mRNA	32991	35979	2656	-	.	ID=MP006566;Rank=1;Identity=0.8021;Positive=0.8469;Frameshift=58;Target=21126at4893_4932_0:0010f5 1 969
+contig_319	miniprot	CDS	32991	35979	2656	-	0	Parent=MP006566;Rank=1;Identity=0.8021;Frameshift=58;Target=21126at4893_4932_0:0010f5 1 969

@@ -1,0 +1,12 @@
+[samfaipath] build FASTA index...
+[M::mm_idx_gen::0.156*1.02] collected minimizers
+[M::mm_idx_gen::0.178*1.86] sorted minimizers
+[M::main::0.178*1.85] loaded/built the index for 737 target sequence(s)
+[M::mm_mapopt_update::0.194*1.78] mid_occ = 11
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 737
+[M::mm_idx_stat::0.207*1.74] distinct minimizers: 2375067 (94.80% are singletons); average occurrences: 1.069; average spacing: 5.352; total length: 13589072
+[M::worker_pipeline::10.594*6.97] mapped 19602 sequences
+[M::main] Version: 2.24-r1155-dirty
+[M::main] CMD: flye-minimap2 -x map-ont -t 8 -a -p 0.5 -N 10 --sam-hit-only -L -K 1G -z 1000 -Q --secondary-seq -I 64G /Users/alee083/outputs/flye_output/00-assembly/draft_assembly.fasta /Users/alee083/data/ERR1539006.fastq.gz
+[M::main] Real time: 10.599 sec; CPU: 73.882 sec; Peak RSS: 2.755 GB
+[bam_sort_core] merging from 0 files and 4 in-memory blocks...

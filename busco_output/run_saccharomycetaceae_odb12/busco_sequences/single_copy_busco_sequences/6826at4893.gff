@@ -1,0 +1,2 @@
+contig_215	miniprot	mRNA	16357	17597	626	-	.	ID=MP027607;Rank=1;Identity=0.6538;Positive=0.7270;Frameshift=24;StopCodon=2;Target=6826at4893_27292_0:000ee7 13 416
+contig_215	miniprot	CDS	16357	17597	626	-	0	Parent=MP027607;Rank=1;Identity=0.6538;Frameshift=24;StopCodon=2;Target=6826at4893_27292_0:000ee7 13 416

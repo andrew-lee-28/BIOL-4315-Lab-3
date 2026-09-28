@@ -1,0 +1,2 @@
+contig_328	miniprot	mRNA	5490	6329	973	-	.	ID=MP036468;Rank=1;Identity=0.8597;Positive=0.8989;Frameshift=9;Target=38801at4893_1095631_0:000c6c 1 273
+contig_328	miniprot	CDS	5490	6329	973	-	0	Parent=MP036468;Rank=1;Identity=0.8597;Frameshift=9;Target=38801at4893_1095631_0:000c6c 1 273

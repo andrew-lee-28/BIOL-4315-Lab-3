@@ -1,0 +1,3 @@
+contig_395	miniprot	mRNA	9284	9733	433	-	.	ID=MP042841;Rank=1;Identity=0.7884;Positive=0.8085;Frameshift=6;Target=9787at4893_1095631_0:00006f 2 146
+contig_395	miniprot	CDS	9284	9733	433	-	0	Parent=MP042841;Rank=1;Identity=0.7884;Frameshift=6;Target=9787at4893_1095631_0:00006f 2 146
+contig_395	miniprot	stop_codon	9284	9286	0	-	0	Parent=MP042841;Rank=1

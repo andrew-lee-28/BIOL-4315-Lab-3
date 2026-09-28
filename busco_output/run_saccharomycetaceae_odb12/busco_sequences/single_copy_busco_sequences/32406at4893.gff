@@ -1,0 +1,4 @@
+contig_49	miniprot	mRNA	9518	11344	957	+	.	ID=MP017046;Rank=1;Identity=0.6093;Positive=0.7026;Frameshift=29;StopCodon=1;Target=32406at4893_27292_0:000710 11 593
+contig_49	miniprot	CDS	9518	10628	671	+	0	Parent=MP017046;Rank=1;Identity=0.6232;Frameshift=18;StopCodon=1;Target=32406at4893_27292_0:000710 11 394
+contig_49	miniprot	CDS	10708	11344	286	+	1	Parent=MP017046;Rank=1;Identity=0.5840;Frameshift=11;Target=32406at4893_27292_0:000710 395 593
+contig_49	miniprot	stop_codon	11342	11344	0	+	0	Parent=MP017046;Rank=1

@@ -1,0 +1,2 @@
+contig_20	miniprot	mRNA	52112	53810	1263	-	.	ID=MP018817;Rank=1;Identity=0.7838;Positive=0.8243;Frameshift=37;StopCodon=2;Target=22285at4893_1095631_0:000cb1 6 551
+contig_20	miniprot	CDS	52112	53810	1263	-	0	Parent=MP018817;Rank=1;Identity=0.7838;Frameshift=37;StopCodon=2;Target=22285at4893_1095631_0:000cb1 6 551

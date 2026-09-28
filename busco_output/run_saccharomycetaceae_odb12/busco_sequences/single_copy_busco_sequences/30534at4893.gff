@@ -1,0 +1,3 @@
+contig_140	miniprot	mRNA	5667	6980	1093	+	.	ID=MP027245;Rank=1;Identity=0.7795;Positive=0.8295;Frameshift=24;StopCodon=1;Target=30534at4893_1095631_0:000111 1 421
+contig_140	miniprot	CDS	5667	6980	1093	+	0	Parent=MP027245;Rank=1;Identity=0.7795;Frameshift=24;StopCodon=1;Target=30534at4893_1095631_0:000111 1 421
+contig_140	miniprot	stop_codon	6978	6980	0	+	0	Parent=MP027245;Rank=1

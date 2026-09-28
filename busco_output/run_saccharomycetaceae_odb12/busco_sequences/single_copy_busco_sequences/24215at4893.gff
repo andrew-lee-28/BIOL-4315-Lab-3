@@ -1,0 +1,2 @@
+contig_241	miniprot	mRNA	27162	27935	498	-	.	ID=MP038137;Rank=1;Identity=0.6739;Positive=0.7356;Frameshift=11;Target=24215at4893_27292_0:0012bc 1 240
+contig_241	miniprot	CDS	27162	27935	498	-	0	Parent=MP038137;Rank=1;Identity=0.6739;Frameshift=11;Target=24215at4893_27292_0:0012bc 1 240

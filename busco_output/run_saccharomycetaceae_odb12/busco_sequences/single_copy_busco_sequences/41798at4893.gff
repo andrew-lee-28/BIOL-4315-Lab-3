@@ -1,0 +1,2 @@
+contig_337	miniprot	mRNA	8590	9237	511	-	.	ID=MP039391;Rank=1;Identity=0.7431;Positive=0.7936;Frameshift=10;Target=41798at4893_559292_0:000d12 1 208
+contig_337	miniprot	CDS	8590	9237	511	-	0	Parent=MP039391;Rank=1;Identity=0.7431;Frameshift=10;Target=41798at4893_559292_0:000d12 1 208

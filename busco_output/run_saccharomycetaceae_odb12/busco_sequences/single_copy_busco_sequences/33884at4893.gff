@@ -1,0 +1,2 @@
+contig_110	miniprot	mRNA	1044	1907	617	+	.	ID=MP035399;Rank=1;Identity=0.7181;Positive=0.7699;Frameshift=14;Target=33884at4893_1095631_0:0008db 1 277
+contig_110	miniprot	CDS	1044	1907	617	+	0	Parent=MP035399;Rank=1;Identity=0.7181;Frameshift=14;Target=33884at4893_1095631_0:0008db 1 277

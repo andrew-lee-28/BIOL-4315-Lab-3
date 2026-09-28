@@ -1,0 +1,3 @@
+contig_194	miniprot	mRNA	22054	23225	909	+	.	ID=MP030257;Rank=1;Identity=0.7487;Positive=0.7922;Frameshift=19;StopCodon=1;Target=10383at4893_1095631_0:000de9 1 370
+contig_194	miniprot	CDS	22054	23225	909	+	0	Parent=MP030257;Rank=1;Identity=0.7487;Frameshift=19;StopCodon=1;Target=10383at4893_1095631_0:000de9 1 370
+contig_194	miniprot	stop_codon	23223	23225	0	+	0	Parent=MP030257;Rank=1

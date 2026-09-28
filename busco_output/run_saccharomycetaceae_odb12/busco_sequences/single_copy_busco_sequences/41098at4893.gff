@@ -1,0 +1,2 @@
+contig_190	miniprot	mRNA	18007	18614	354	+	.	ID=MP039227;Rank=1;Identity=0.5990;Positive=0.6964;Frameshift=10;StopCodon=1;Target=41098at4893_1095631_0:00110c 3 203
+contig_190	miniprot	CDS	18007	18614	354	+	0	Parent=MP039227;Rank=1;Identity=0.5990;Frameshift=10;StopCodon=1;Target=41098at4893_1095631_0:00110c 3 203

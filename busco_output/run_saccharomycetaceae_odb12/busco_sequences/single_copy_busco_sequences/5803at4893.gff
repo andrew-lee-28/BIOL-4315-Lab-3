@@ -1,0 +1,3 @@
+contig_28	miniprot	mRNA	40371	44205	3559	+	.	ID=MP003201;Rank=1;Identity=0.7926;Positive=0.8268;Frameshift=57;StopCodon=1;Target=5803at4893_559292_0:000140 1 1244
+contig_28	miniprot	CDS	40371	44205	3559	+	0	Parent=MP003201;Rank=1;Identity=0.7926;Frameshift=57;StopCodon=1;Target=5803at4893_559292_0:000140 1 1244
+contig_28	miniprot	stop_codon	44203	44205	0	+	0	Parent=MP003201;Rank=1

@@ -1,0 +1,20 @@
+#                                                                                                          --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                      accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                              ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+20566at4893_27292_0:000368|contig_78:6486-8686|-   -            721 20566                -            594  1.3e-111  362.1   0.0   1   1  1.6e-111  1.6e-111  361.8   0.0     7   592    39   716    33   718 0.86 <unknown description>
+20566at4893_28985_0:00138e|contig_78:6949-8597|-   -            522 20566                -            594     1e-86  279.9   0.0   1   2   6.8e-27   6.8e-27   82.3   0.0     7   266    10   269     4   271 0.81 <unknown description>
+20566at4893_28985_0:00138e|contig_78:6949-8597|-   -            522 20566                -            594     1e-86  279.9   0.0   2   2     3e-61     3e-61  195.8   0.0   346   530   333   520   282   522 0.84 <unknown description>
+20566at4893_1003335_0:000a98|contig_78:6967-8272|- -            409 20566                -            594   3.6e-82  264.9   0.0   1   2   5.2e-23   5.2e-23   69.5   0.0   107   266     3   162     1   164 0.84 <unknown description>
+20566at4893_1003335_0:000a98|contig_78:6967-8272|- -            409 20566                -            594   3.6e-82  264.9   0.0   2   2   1.4e-60   1.4e-60  193.7   0.0   346   525   226   408   175   409 0.84 <unknown description>
+20566at4893_436907_0:0002f0|contig_78:6486-7300|-  -            172 20566                -            594   9.5e-67  214.0   0.0   1   1   1.1e-66   1.1e-66  213.7   0.0   415   592     1   167     1   169 0.95 <unknown description>
+20566at4893_559295_0:0010ce|contig_78:6967-7300|-  -            110 20566                -            594   2.6e-55  176.2   0.1   1   1   2.9e-55   2.9e-55  176.1   0.1   415   525     1   109     1   110 0.97 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/20566at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/20566at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/20566at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/20566at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/20566at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:31:57 2026
+# [ok]

@@ -1,0 +1,2 @@
+contig_105	miniprot	mRNA	10028	11095	836	+	.	ID=MP031891;Rank=1;Identity=0.7207;Positive=0.7933;Frameshift=15;StopCodon=2;Target=25290at4893_1095631_0:0009de 1 344
+contig_105	miniprot	CDS	10028	11095	836	+	0	Parent=MP031891;Rank=1;Identity=0.7207;Frameshift=15;StopCodon=2;Target=25290at4893_1095631_0:0009de 1 344

@@ -1,0 +1,3 @@
+contig_57	miniprot	mRNA	57224	58372	797	-	.	ID=MP030536;Rank=1;Identity=0.7108;Positive=0.7657;Frameshift=19;StopCodon=2;Target=34493at4893_1095631_0:0006a0 1 366
+contig_57	miniprot	CDS	57224	58372	797	-	0	Parent=MP030536;Rank=1;Identity=0.7108;Frameshift=19;StopCodon=2;Target=34493at4893_1095631_0:0006a0 1 366
+contig_57	miniprot	stop_codon	57224	57226	0	-	0	Parent=MP030536;Rank=1

@@ -1,0 +1,2 @@
+contig_52	miniprot	mRNA	25202	26252	1202	-	.	ID=MP032071;Rank=1;Identity=0.8392;Positive=0.8735;Frameshift=12;Target=27677at4893_1095631_0:00105c 1 341
+contig_52	miniprot	CDS	25202	26252	1202	-	0	Parent=MP032071;Rank=1;Identity=0.8392;Frameshift=12;Target=27677at4893_1095631_0:00105c 1 341

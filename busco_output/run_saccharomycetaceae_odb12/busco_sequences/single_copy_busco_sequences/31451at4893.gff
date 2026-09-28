@@ -1,0 +1,3 @@
+contig_406	miniprot	mRNA	4887	5415	374	-	.	ID=MP041806;Rank=1;Identity=0.7302;Positive=0.8038;Frameshift=10;Target=31451at4893_1095631_0:000c04 1 168
+contig_406	miniprot	CDS	4887	5415	374	-	0	Parent=MP041806;Rank=1;Identity=0.7302;Frameshift=10;Target=31451at4893_1095631_0:000c04 1 168
+contig_406	miniprot	stop_codon	4887	4889	0	-	0	Parent=MP041806;Rank=1

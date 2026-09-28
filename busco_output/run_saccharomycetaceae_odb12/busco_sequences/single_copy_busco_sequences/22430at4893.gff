@@ -1,0 +1,3 @@
+contig_404	miniprot	mRNA	6428	7165	604	+	.	ID=MP038256;Rank=1;Identity=0.7510;Positive=0.7873;Frameshift=12;Target=22430at4893_27292_0:0002ac 1 238
+contig_404	miniprot	CDS	6428	7165	604	+	0	Parent=MP038256;Rank=1;Identity=0.7510;Frameshift=12;Target=22430at4893_27292_0:0002ac 1 238
+contig_404	miniprot	stop_codon	7163	7165	0	+	0	Parent=MP038256;Rank=1

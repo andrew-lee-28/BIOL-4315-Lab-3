@@ -1,0 +1,3 @@
+contig_106	miniprot	mRNA	31002	32725	1523	-	.	ID=MP018364;Rank=1;Identity=0.7710;Positive=0.8088;Frameshift=25;Target=35369at4893_1095631_0:000f6a 1 565
+contig_106	miniprot	CDS	31002	32725	1523	-	0	Parent=MP018364;Rank=1;Identity=0.7710;Frameshift=25;Target=35369at4893_1095631_0:000f6a 1 565
+contig_106	miniprot	stop_codon	31002	31004	0	-	0	Parent=MP018364;Rank=1

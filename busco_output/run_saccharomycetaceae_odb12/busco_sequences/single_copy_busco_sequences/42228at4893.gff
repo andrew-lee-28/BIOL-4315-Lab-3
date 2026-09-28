@@ -1,0 +1,2 @@
+contig_113	miniprot	mRNA	14822	15833	1132	-	.	ID=MP032740;Rank=1;Identity=0.8609;Positive=0.8962;Frameshift=16;Target=42228at4893_1095631_0:001200 1 332
+contig_113	miniprot	CDS	14822	15833	1132	-	0	Parent=MP032740;Rank=1;Identity=0.8609;Frameshift=16;Target=42228at4893_1095631_0:001200 1 332

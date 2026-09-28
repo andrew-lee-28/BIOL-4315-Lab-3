@@ -1,0 +1,3 @@
+contig_13	miniprot	mRNA	11212	14017	3478	-	.	ID=MP007553;Rank=1;Identity=0.9155;Positive=0.9282;Frameshift=39;Target=21275at4893_1095631_0:00018c 1 923
+contig_13	miniprot	CDS	11212	14017	3478	-	0	Parent=MP007553;Rank=1;Identity=0.9155;Frameshift=39;Target=21275at4893_1095631_0:00018c 1 923
+contig_13	miniprot	stop_codon	11212	11214	0	-	0	Parent=MP007553;Rank=1

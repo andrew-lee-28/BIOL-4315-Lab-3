@@ -1,0 +1,2 @@
+contig_429	miniprot	mRNA	21564	23309	1691	-	.	ID=MP016456;Rank=1;Identity=0.7957;Positive=0.8332;Frameshift=25;StopCodon=1;Target=14626at4893_1095631_0:000b85 43 604
+contig_429	miniprot	CDS	21564	23309	1691	-	0	Parent=MP016456;Rank=1;Identity=0.7957;Frameshift=25;StopCodon=1;Target=14626at4893_1095631_0:000b85 43 604

@@ -1,0 +1,2 @@
+contig_134	miniprot	mRNA	30292	33346	1008	+	.	ID=MP005881;Rank=1;Identity=0.4960;Positive=0.6178;Frameshift=36;StopCodon=4;Target=7905at4893_1095631_0:000533 32 1013
+contig_134	miniprot	CDS	30292	33346	1008	+	0	Parent=MP005881;Rank=1;Identity=0.4960;Frameshift=36;StopCodon=4;Target=7905at4893_1095631_0:000533 32 1013

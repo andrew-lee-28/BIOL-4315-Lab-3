@@ -1,0 +1,2 @@
+contig_411	miniprot	mRNA	7772	8606	902	-	.	ID=MP036712;Rank=1;Identity=0.8244;Positive=0.8530;Frameshift=9;Target=27452at4893_1095631_0:00111e 1 267
+contig_411	miniprot	CDS	7772	8606	902	-	0	Parent=MP036712;Rank=1;Identity=0.8244;Frameshift=9;Target=27452at4893_1095631_0:00111e 1 267

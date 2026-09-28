@@ -1,0 +1,4 @@
+contig_93	miniprot	mRNA	3360	3957	473	+	.	ID=MP042139;Rank=1;Identity=0.8160;Positive=0.8712;Frameshift=8;Target=24987at4893_27292_0:00049b 1 158
+contig_93	miniprot	CDS	3360	3460	87	+	0	Parent=MP042139;Rank=1;Identity=0.6699;Donor=AT;Frameshift=1;Target=24987at4893_27292_0:00049b 1 32
+contig_93	miniprot	CDS	3570	3957	386	+	2	Parent=MP042139;Rank=1;Identity=0.8549;Frameshift=7;Target=24987at4893_27292_0:00049b 33 158
+contig_93	miniprot	stop_codon	3955	3957	0	+	0	Parent=MP042139;Rank=1

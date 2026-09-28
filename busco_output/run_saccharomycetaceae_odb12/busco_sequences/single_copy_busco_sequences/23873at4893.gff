@@ -1,0 +1,3 @@
+contig_54	miniprot	mRNA	10012	11722	1324	+	.	ID=MP019292;Rank=1;Identity=0.7714;Positive=0.8134;Frameshift=32;StopCodon=2;Target=23873at4893_1095631_0:00089d 1 549
+contig_54	miniprot	CDS	10012	11722	1324	+	0	Parent=MP019292;Rank=1;Identity=0.7714;Frameshift=32;StopCodon=2;Target=23873at4893_1095631_0:00089d 1 549
+contig_54	miniprot	stop_codon	11720	11722	0	+	0	Parent=MP019292;Rank=1

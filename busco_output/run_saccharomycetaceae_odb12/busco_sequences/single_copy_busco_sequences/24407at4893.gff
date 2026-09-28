@@ -1,0 +1,2 @@
+contig_310	miniprot	mRNA	14841	18573	4364	+	.	ID=MP003307;Rank=1;Identity=0.8993;Positive=0.9289;Frameshift=53;StopCodon=1;Target=24407at4893_1095631_0:00119f 1 1224
+contig_310	miniprot	CDS	14841	18573	4364	+	0	Parent=MP003307;Rank=1;Identity=0.8993;Frameshift=53;StopCodon=1;Target=24407at4893_1095631_0:00119f 1 1224

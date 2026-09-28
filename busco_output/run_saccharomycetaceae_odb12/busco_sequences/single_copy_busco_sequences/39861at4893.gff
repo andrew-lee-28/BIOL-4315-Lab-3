@@ -1,0 +1,2 @@
+contig_101	miniprot	mRNA	18448	19537	1206	-	.	ID=MP030546;Rank=1;Identity=0.8509;Positive=0.8864;Frameshift=18;StopCodon=1;Target=39861at4893_1095631_0:000895 6 366
+contig_101	miniprot	CDS	18448	19537	1206	-	0	Parent=MP030546;Rank=1;Identity=0.8509;Frameshift=18;StopCodon=1;Target=39861at4893_1095631_0:000895 6 366

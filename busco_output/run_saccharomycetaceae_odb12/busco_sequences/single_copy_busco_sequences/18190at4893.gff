@@ -1,0 +1,2 @@
+contig_419	miniprot	mRNA	5084	6613	1449	+	.	ID=MP021436;Rank=1;Identity=0.8247;Positive=0.8616;Frameshift=21;StopCodon=2;Target=18190at4893_1095631_0:0008f8 1 504
+contig_419	miniprot	CDS	5084	6613	1449	+	0	Parent=MP021436;Rank=1;Identity=0.8247;Frameshift=21;StopCodon=2;Target=18190at4893_1095631_0:0008f8 1 504

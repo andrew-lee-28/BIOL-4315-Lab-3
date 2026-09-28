@@ -1,0 +1,20 @@
+#                                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+21492at4893_1095631_0:000b44|contig_168:44-7646|-   -           2450 21492                -           2604         0 1354.9  21.9   1   1         0         0 1354.6  21.9    31  2495    30  2449    27  2450 0.86 <unknown description>
+21492at4893_1071378_0:0008bb|contig_168:2135-6813|- -           1493 21492                -           2604  4.8e-257  844.3  24.3   1   2  2.3e-109  2.3e-109  354.4  10.8   266  1099     1   820     1   848 0.82 <unknown description>
+21492at4893_1071378_0:0008bb|contig_168:2135-6813|- -           1493 21492                -           2604  4.8e-257  844.3  24.3   2   2  4.3e-152  4.3e-152  496.1   5.6  1163  1822   853  1491   851  1493 0.91 <unknown description>
+21492at4893_5478_0:000986|contig_168:684-3951|-     -           1018 21492                -           2604  3.9e-199  652.2   7.6   1   2    9e-187    9e-187  611.2   3.5  1210  2186     2   940     1   946 0.90 <unknown description>
+21492at4893_5478_0:000986|contig_168:684-3951|-     -           1018 21492                -           2604  3.9e-199  652.2   7.6   2   2     2e-15     2e-15   42.7   0.1  2229  2299   947  1018   944  1018 0.94 <unknown description>
+21492at4893_42260_0:0006a8|contig_168:2135-4932|-   -            907 21492                -           2604  7.1e-177  578.4   2.3   1   1  8.5e-177  8.5e-177  578.1   2.3   905  1822    16   905     2   907 0.87 <unknown description>
+21492at4893_4956_0:0008fe|contig_168:2113-4054|-    -            639 21492                -           2604  5.5e-144  469.2   2.8   1   1  6.3e-144  6.3e-144  469.0   2.8  1175  1830     1   637     1   639 0.89 <unknown description>
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/21492at4893.hmm
+# Target file:     outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/21492at4893.faa
+# Option settings: hmmsearch --domtblout outputs/busco_output/run_saccharomycetaceae_odb12/hmmer_output/21492at4893.out --cpu 1 /data/busco_downloads/lineages/saccharomycetaceae_odb12/hmms/21492at4893.hmm outputs/busco_output/run_saccharomycetaceae_odb12/miniprot_output/translated_proteins/21492at4893.faa 
+# Current dir:     /data
+# Date:            Thu Sep 24 16:31:53 2026
+# [ok]

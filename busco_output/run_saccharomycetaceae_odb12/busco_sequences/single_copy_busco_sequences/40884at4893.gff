@@ -1,0 +1,2 @@
+contig_218	miniprot	mRNA	2561	9489	6270	-	.	ID=MP000388;Rank=1;Identity=0.7760;Positive=0.8104;Frameshift=102;StopCodon=4;Target=40884at4893_559292_0:0006e6 4 2258
+contig_218	miniprot	CDS	2561	9489	6270	-	0	Parent=MP000388;Rank=1;Identity=0.7760;Frameshift=102;StopCodon=4;Target=40884at4893_559292_0:0006e6 4 2258

@@ -1,0 +1,2 @@
+contig_290	miniprot	mRNA	4403	4813	384	+	.	ID=MP043400;Rank=1;Identity=0.7627;Positive=0.7918;Frameshift=7;Target=38606at4893_1095631_0:000bf8 1 131
+contig_290	miniprot	CDS	4403	4813	384	+	0	Parent=MP043400;Rank=1;Identity=0.7627;Frameshift=7;Target=38606at4893_1095631_0:000bf8 1 131

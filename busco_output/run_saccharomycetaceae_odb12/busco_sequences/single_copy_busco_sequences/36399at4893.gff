@@ -1,0 +1,2 @@
+contig_8	miniprot	mRNA	6449	7644	871	+	.	ID=MP029457;Rank=1;Identity=0.7331;Positive=0.7731;Frameshift=23;StopCodon=1;Target=36399at4893_1095631_0:0000c6 4 384
+contig_8	miniprot	CDS	6449	7644	871	+	0	Parent=MP029457;Rank=1;Identity=0.7331;Frameshift=23;StopCodon=1;Target=36399at4893_1095631_0:0000c6 4 384

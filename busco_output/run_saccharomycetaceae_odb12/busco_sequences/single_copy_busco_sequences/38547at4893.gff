@@ -1,0 +1,2 @@
+contig_217	miniprot	mRNA	16567	17299	428	+	.	ID=MP038404;Rank=1;Identity=0.6204;Positive=0.7102;Frameshift=11;StopCodon=1;Target=38547at4893_27292_0:0010cb 1 232
+contig_217	miniprot	CDS	16567	17299	428	+	0	Parent=MP038404;Rank=1;Identity=0.6204;Frameshift=11;StopCodon=1;Target=38547at4893_27292_0:0010cb 1 232

@@ -1,0 +1,2 @@
+contig_25	miniprot	mRNA	21086	21464	255	-	.	ID=MP043627;Rank=1;Identity=0.7045;Positive=0.7836;Frameshift=7;Target=284at4893_1095631_0:000a86 1 122
+contig_25	miniprot	CDS	21086	21464	255	-	0	Parent=MP043627;Rank=1;Identity=0.7045;Frameshift=7;Target=284at4893_1095631_0:000a86 1 122

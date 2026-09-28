@@ -1,0 +1,2 @@
+contig_192	miniprot	mRNA	35374	37066	1794	+	.	ID=MP019260;Rank=1;Identity=0.8317;Positive=0.8599;Frameshift=22;StopCodon=2;Target=33303at4893_764102_0:000678 1 549
+contig_192	miniprot	CDS	35374	37066	1794	+	0	Parent=MP019260;Rank=1;Identity=0.8317;Frameshift=22;StopCodon=2;Target=33303at4893_764102_0:000678 1 549

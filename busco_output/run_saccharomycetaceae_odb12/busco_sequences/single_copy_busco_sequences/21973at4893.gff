@@ -1,0 +1,3 @@
+contig_152	miniprot	mRNA	4439	6770	1624	+	.	ID=MP011744;Rank=1;Identity=0.7069;Positive=0.7738;Frameshift=42;Target=21973at4893_1095631_0:0011a4 9 748
+contig_152	miniprot	CDS	4439	6770	1624	+	0	Parent=MP011744;Rank=1;Identity=0.7069;Frameshift=42;Target=21973at4893_1095631_0:0011a4 9 748
+contig_152	miniprot	stop_codon	6768	6770	0	+	0	Parent=MP011744;Rank=1

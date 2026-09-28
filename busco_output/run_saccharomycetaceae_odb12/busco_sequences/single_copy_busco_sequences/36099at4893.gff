@@ -1,0 +1,2 @@
+contig_29	miniprot	mRNA	27193	28837	1987	+	.	ID=MP019867;Rank=1;Identity=0.9053;Positive=0.9180;Frameshift=23;Target=36099at4893_1095631_0:0011b9 1 540
+contig_29	miniprot	CDS	27193	28837	1987	+	0	Parent=MP019867;Rank=1;Identity=0.9053;Frameshift=23;Target=36099at4893_1095631_0:0011b9 1 540

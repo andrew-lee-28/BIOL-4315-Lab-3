@@ -1,0 +1,2 @@
+contig_170	miniprot	mRNA	4727	6357	1324	-	.	ID=MP020746;Rank=1;Identity=0.7445;Positive=0.8047;Frameshift=24;StopCodon=1;Target=19136at4893_27292_0:00064f 1 523
+contig_170	miniprot	CDS	4727	6357	1324	-	0	Parent=MP020746;Rank=1;Identity=0.7445;Frameshift=24;StopCodon=1;Target=19136at4893_27292_0:00064f 1 523

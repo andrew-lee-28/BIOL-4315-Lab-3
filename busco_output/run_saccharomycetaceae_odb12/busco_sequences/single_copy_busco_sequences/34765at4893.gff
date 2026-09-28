@@ -1,0 +1,2 @@
+contig_59	miniprot	mRNA	10532	11807	902	+	.	ID=MP027758;Rank=1;Identity=0.7044;Positive=0.7691;Frameshift=21;Target=34765at4893_1095631_0:0000c2 1 413
+contig_59	miniprot	CDS	10532	11807	902	+	0	Parent=MP027758;Rank=1;Identity=0.7044;Frameshift=21;Target=34765at4893_1095631_0:0000c2 1 413

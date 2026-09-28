@@ -1,0 +1,3 @@
+contig_411	miniprot	mRNA	9693	12021	3156	+	.	ID=MP011130;Rank=1;Identity=0.9328;Positive=0.9418;Frameshift=26;Target=20343at4893_1095631_0:001121 1 768
+contig_411	miniprot	CDS	9693	12021	3156	+	0	Parent=MP011130;Rank=1;Identity=0.9328;Frameshift=26;Target=20343at4893_1095631_0:001121 1 768
+contig_411	miniprot	stop_codon	12019	12021	0	+	0	Parent=MP011130;Rank=1

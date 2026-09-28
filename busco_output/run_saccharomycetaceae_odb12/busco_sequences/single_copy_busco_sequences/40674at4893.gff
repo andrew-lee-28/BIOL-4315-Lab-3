@@ -1,0 +1,2 @@
+contig_149	miniprot	mRNA	2721	4353	1093	-	.	ID=MP020786;Rank=1;Identity=0.7331;Positive=0.7915;Frameshift=36;StopCodon=1;Target=40674at4893_1095631_0:0007da 1 523
+contig_149	miniprot	CDS	2721	4353	1093	-	0	Parent=MP020786;Rank=1;Identity=0.7331;Frameshift=36;StopCodon=1;Target=40674at4893_1095631_0:0007da 1 523

@@ -1,0 +1,2 @@
+contig_425	miniprot	mRNA	21315	22645	1692	-	.	ID=MP025423;Rank=1;Identity=0.9219;Positive=0.9353;Frameshift=14;StopCodon=1;Target=2197at4893_27292_0:000426 1 445
+contig_425	miniprot	CDS	21315	22645	1692	-	0	Parent=MP025423;Rank=1;Identity=0.9219;Frameshift=14;StopCodon=1;Target=2197at4893_27292_0:000426 1 445

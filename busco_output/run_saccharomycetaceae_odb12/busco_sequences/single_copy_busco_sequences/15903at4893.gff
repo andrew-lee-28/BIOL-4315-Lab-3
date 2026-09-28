@@ -1,0 +1,2 @@
+contig_99	miniprot	mRNA	2278	3688	1514	-	.	ID=MP024267;Rank=1;Identity=0.8517;Positive=0.8814;Frameshift=20;Target=15903at4893_1095631_0:000f3f 1 460
+contig_99	miniprot	CDS	2278	3688	1514	-	0	Parent=MP024267;Rank=1;Identity=0.8517;Frameshift=20;Target=15903at4893_1095631_0:000f3f 1 460

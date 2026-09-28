@@ -1,0 +1,3 @@
+contig_51	miniprot	mRNA	20493	21970	1321	+	.	ID=MP023069;Rank=1;Identity=0.8073;Positive=0.8438;Frameshift=24;StopCodon=1;Target=18348at4893_1095631_0:000b9b 1 480
+contig_51	miniprot	CDS	20493	21970	1321	+	0	Parent=MP023069;Rank=1;Identity=0.8073;Frameshift=24;StopCodon=1;Target=18348at4893_1095631_0:000b9b 1 480
+contig_51	miniprot	stop_codon	21968	21970	0	+	0	Parent=MP023069;Rank=1

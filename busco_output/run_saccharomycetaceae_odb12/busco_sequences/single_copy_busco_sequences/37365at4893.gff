@@ -1,0 +1,2 @@
+contig_417	miniprot	mRNA	10025	13997	3152	-	.	ID=MP003020;Rank=1;Identity=0.7705;Positive=0.8036;Frameshift=69;StopCodon=3;Target=37365at4893_1095631_0:000b17 1 1274
+contig_417	miniprot	CDS	10025	13997	3152	-	0	Parent=MP003020;Rank=1;Identity=0.7705;Frameshift=69;StopCodon=3;Target=37365at4893_1095631_0:000b17 1 1274

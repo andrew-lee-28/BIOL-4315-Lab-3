@@ -1,0 +1,2 @@
+contig_181	miniprot	mRNA	5597	7225	1320	-	.	ID=MP020122;Rank=1;Identity=0.7450;Positive=0.8033;Frameshift=29;StopCodon=2;Target=16915at4893_1095631_0:0005d4 1 532
+contig_181	miniprot	CDS	5597	7225	1320	-	0	Parent=MP020122;Rank=1;Identity=0.7450;Frameshift=29;StopCodon=2;Target=16915at4893_1095631_0:0005d4 1 532

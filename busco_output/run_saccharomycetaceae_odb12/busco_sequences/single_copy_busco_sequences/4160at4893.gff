@@ -1,0 +1,2 @@
+contig_117	miniprot	mRNA	15249	16965	1534	-	.	ID=MP018736;Rank=1;Identity=0.7860;Positive=0.8224;Frameshift=27;Target=4160at4893_1095631_0:000d0f 1 556
+contig_117	miniprot	CDS	15249	16965	1534	-	0	Parent=MP018736;Rank=1;Identity=0.7860;Frameshift=27;Target=4160at4893_1095631_0:000d0f 1 556

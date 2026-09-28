@@ -1,0 +1,3 @@
+contig_117	miniprot	mRNA	21704	23282	1295	-	.	ID=MP021495;Rank=1;Identity=0.7666;Positive=0.8044;Frameshift=27;StopCodon=2;Target=14387at4893_1095631_0:000dcf 1 510
+contig_117	miniprot	CDS	21704	23282	1295	-	0	Parent=MP021495;Rank=1;Identity=0.7666;Frameshift=27;StopCodon=2;Target=14387at4893_1095631_0:000dcf 1 510
+contig_117	miniprot	stop_codon	21704	21706	0	-	0	Parent=MP021495;Rank=1

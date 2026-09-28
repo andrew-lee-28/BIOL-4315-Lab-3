@@ -1,0 +1,2 @@
+contig_19	miniprot	mRNA	20581	21083	467	+	.	ID=MP035566;Rank=1;Identity=0.7708;Positive=0.8241;Frameshift=7;Target=36557at4893_27292_0:000014 1 167
+contig_19	miniprot	CDS	20581	21083	467	+	0	Parent=MP035566;Rank=1;Identity=0.7708;Frameshift=7;Target=36557at4893_27292_0:000014 1 167

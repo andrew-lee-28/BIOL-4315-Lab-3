@@ -1,0 +1,2 @@
+contig_131	miniprot	mRNA	25107	25646	366	+	.	ID=MP040088;Rank=1;Identity=0.7091;Positive=0.7745;Frameshift=9;Target=41058at4893_27292_0:000553 26 202
+contig_131	miniprot	CDS	25107	25646	366	+	0	Parent=MP040088;Rank=1;Identity=0.7091;Frameshift=9;Target=41058at4893_27292_0:000553 26 202

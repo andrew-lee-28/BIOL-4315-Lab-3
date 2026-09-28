@@ -1,0 +1,2 @@
+contig_204	miniprot	mRNA	13851	15836	2121	-	.	ID=MP015033;Rank=1;Identity=0.8608;Positive=0.8864;Frameshift=31;StopCodon=1;Target=1708at4893_1095631_0:0011cf 1 647
+contig_204	miniprot	CDS	13851	15836	2121	-	0	Parent=MP015033;Rank=1;Identity=0.8608;Frameshift=31;StopCodon=1;Target=1708at4893_1095631_0:0011cf 1 647

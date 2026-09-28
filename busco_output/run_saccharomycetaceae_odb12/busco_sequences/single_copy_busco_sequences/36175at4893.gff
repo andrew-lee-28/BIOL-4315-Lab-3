@@ -1,0 +1,3 @@
+contig_117	miniprot	mRNA	17989	19651	1502	+	.	ID=MP020260;Rank=1;Identity=0.7586;Positive=0.7964;Frameshift=24;Target=36175at4893_1095631_0:000d7e 2 532
+contig_117	miniprot	CDS	17989	19651	1502	+	0	Parent=MP020260;Rank=1;Identity=0.7586;Frameshift=24;Target=36175at4893_1095631_0:000d7e 2 532
+contig_117	miniprot	stop_codon	19649	19651	0	+	0	Parent=MP020260;Rank=1

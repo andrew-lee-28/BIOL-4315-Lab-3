@@ -1,0 +1,2 @@
+contig_406	miniprot	mRNA	859	3109	1293	-	.	ID=MP012884;Rank=1;Identity=0.6571;Positive=0.7341;Frameshift=36;StopCodon=2;Target=38128at4893_1095631_0:000bd6 1 712
+contig_406	miniprot	CDS	859	3109	1293	-	0	Parent=MP012884;Rank=1;Identity=0.6571;Frameshift=36;StopCodon=2;Target=38128at4893_1095631_0:000bd6 1 712

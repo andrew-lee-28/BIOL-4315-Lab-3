@@ -1,0 +1,3 @@
+contig_324	miniprot	mRNA	649	2363	1592	+	.	ID=MP018629;Rank=1;Identity=0.8325;Positive=0.8709;Frameshift=28;StopCodon=1;Target=19764at4893_1095631_0:0002d9 1 559
+contig_324	miniprot	CDS	649	2363	1592	+	0	Parent=MP018629;Rank=1;Identity=0.8325;Frameshift=28;StopCodon=1;Target=19764at4893_1095631_0:0002d9 1 559
+contig_324	miniprot	stop_codon	2361	2363	0	+	0	Parent=MP018629;Rank=1

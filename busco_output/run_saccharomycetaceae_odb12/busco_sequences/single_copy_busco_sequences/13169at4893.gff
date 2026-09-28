@@ -1,0 +1,2 @@
+contig_60	miniprot	mRNA	50314	50709	406	-	.	ID=MP043406;Rank=1;Identity=0.7895;Positive=0.8346;Frameshift=5;Target=13169at4893_1095631_0:000728 1 130
+contig_60	miniprot	CDS	50314	50709	406	-	0	Parent=MP043406;Rank=1;Identity=0.7895;Frameshift=5;Target=13169at4893_1095631_0:000728 1 130

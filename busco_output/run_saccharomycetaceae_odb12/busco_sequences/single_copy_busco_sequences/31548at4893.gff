@@ -1,0 +1,3 @@
+contig_194	miniprot	mRNA	10819	11452	653	-	.	ID=MP039939;Rank=1;Identity=0.8417;Positive=0.8558;Frameshift=12;Target=31548at4893_1095631_0:000cea 1 208
+contig_194	miniprot	CDS	10819	11452	653	-	0	Parent=MP039939;Rank=1;Identity=0.8417;Frameshift=12;Target=31548at4893_1095631_0:000cea 1 208
+contig_194	miniprot	stop_codon	10819	10821	0	-	0	Parent=MP039939;Rank=1

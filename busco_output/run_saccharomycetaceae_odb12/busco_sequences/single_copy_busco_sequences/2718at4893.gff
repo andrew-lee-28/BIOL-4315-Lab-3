@@ -1,0 +1,3 @@
+contig_401	miniprot	mRNA	9861	11366	1422	-	.	ID=MP022680;Rank=1;Identity=0.8075;Positive=0.8333;Frameshift=25;Target=2718at4893_1095631_0:001260 1 488
+contig_401	miniprot	CDS	9861	11366	1422	-	0	Parent=MP022680;Rank=1;Identity=0.8075;Frameshift=25;Target=2718at4893_1095631_0:001260 1 488
+contig_401	miniprot	stop_codon	9861	9863	0	-	0	Parent=MP022680;Rank=1
